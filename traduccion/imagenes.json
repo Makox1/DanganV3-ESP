@@ -1440,5 +1440,43 @@
    "imagen_traducida": "imagenes/traducidas/aviso_contenido_es.png",
    "tolerancia_bloques": 24
   }
+ },
+ "flash/gallery/g_topmenu_view_US.spc": {
+  "setumei_00_US.png": {
+   "texto": "Ver escenas de eventos.",
+   "imagen_traducida": "imagenes/traducidas/extra_descripcion_00_es.png"
+  },
+  "setumei_01_US.png": {
+   "texto": "Ver videos.",
+   "imagen_traducida": "imagenes/traducidas/extra_descripcion_01_es.png"
+  },
+  "setumei_02_US.png": {
+   "texto": "Ver ilustraciones.",
+   "imagen_traducida": "imagenes/traducidas/extra_descripcion_02_es.png"
+  },
+  "setumei_03_US.png": {
+   "texto": "Escuchar la música.",
+   "imagen_traducida": "imagenes/traducidas/extra_descripcion_03_es.png"
+  },
+  "setumei_04_US.png": {
+   "texto": "Ganar premios en la\nMáquina MonoMono.",
+   "imagen_traducida": "imagenes/traducidas/extra_descripcion_04_es.png"
+  },
+  "setumei_05_US.png": {
+   "texto": "Jugar a tus juegos favoritos\nen el casino.",
+   "imagen_traducida": "imagenes/traducidas/extra_descripcion_05_es.png"
+  },
+  "setumei_06_US.png": {
+   "texto": "Ver escenas privadas entre tú\ny tus compañeros.",
+   "imagen_traducida": "imagenes/traducidas/extra_descripcion_06_es.png"
+  },
+  "setumei_07_US.png": {
+   "texto": "Volver al menú principal.",
+   "imagen_traducida": "imagenes/traducidas/extra_descripcion_07_es.png"
+  },
+  "setumei_99_US.png": {
+   "texto": "Bloqueado.",
+   "imagen_traducida": "imagenes/traducidas/extra_descripcion_99_es.png"
+  }
  }
 }

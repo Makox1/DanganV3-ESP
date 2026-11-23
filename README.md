@@ -15,7 +15,7 @@ original del juego en Steam.
 | Love Suite (`ainori`) | Traducido |
 | Menús, objetos, mapa, balas de verdad, minijuegos, extras | Traducido |
 | Fuentes con `á é í ó ú ñ ü ¿ ¡` | Añadidas (diálogos, juicios y minijuegos) |
-| Imágenes con texto (menús, títulos, carteles) | 131 texturas traducidas, incluidos los avisos de inicio; quedan algunas pendientes |
+| Imágenes con texto (menús, títulos, carteles) | 140 texturas traducidas, incluidos los avisos de inicio y el menú Extra; quedan algunas pendientes |
 
 Se dejan en inglés a propósito:
 - Las respuestas del Hangman's Gambit, porque el juego las guarda como códigos de letras en binario.

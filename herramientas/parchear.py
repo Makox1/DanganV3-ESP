@@ -510,6 +510,9 @@ def parchear_imagenes(parche):
         e_srd.datos, e_srdv.datos, hechas = imagenes.traducir_texturas(
             srd_original, srdv_original, traducciones, nombre)
         datos = spc.a_bytes(recomprimir=True)
+        # Las descripciones de Extra caben con LZ minimo, sin cambiar las texturas.
+        if nombre == "flash/gallery/g_topmenu_view_US.spc" and len(datos) > parche.hueco[nombre]:
+            datos = spc.a_bytes_minimo()
         if len(datos) > parche.hueco[nombre]:
             # No se reacomoda al vecino (puede ser otra textura traducida): se reparte
             # junto con las fuentes de juicio en los bloques libres del CPK
