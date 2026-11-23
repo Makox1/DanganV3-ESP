@@ -28,6 +28,10 @@ EJECUTABLES = ("Dangan3Win.exe", "V3Launcher.exe")
 TAMANOS = {"partition_data_win_us.cpk": 8525629320, "partition_resident_win.cpk": 2298785400}
 
 
+class Aviso(Exception):
+    """Problema previsto que el jugador puede resolver; se muestra sin traceback."""
+
+
 def raiz_datos():
     """Carpeta con traduccion/ e imagenes/ (dentro del .exe o la del proyecto)."""
     if getattr(sys, "frozen", False):
@@ -118,7 +122,7 @@ def instalar(juego):
     preparar_entorno(juego)
     import parchear
     if traducido_sin_respaldo():
-        raise RuntimeError("El juego ya tiene una traducción aplicada sin respaldo de este instalador.\n"
+        raise Aviso("El juego ya tiene una traducción aplicada sin respaldo de este instalador.\n"
                            "Usa en Steam \"Verificar integridad de los archivos del juego\" y vuelve a "
                            "instalar.")
     parchear.aplicar()
@@ -197,7 +201,7 @@ def ventana():
             try:
                 tarea(juego)
                 cola.put(("fin", ""))
-            except RuntimeError as e:
+            except Aviso as e:
                 # Avisos previstos (juego ya traducido): sin traceback
                 cola.put(("texto", str(e) + "\n"))
                 cola.put(("error", str(e)))
