@@ -6,7 +6,6 @@ __pycache__/
 # Respaldo: los .bin son trozos originales de los CPK; solo se suben los datos propios del parche
 respaldo/*
 !respaldo/textos_escritos.json
-!respaldo/partition_data_win_us_info.json
 
 # Imagenes: solo lo generado por el proyecto
 imagenes/*
