@@ -1,0 +1,629 @@
+{
+ "c07_001_270.stx": [
+  {
+   "id": 0,
+   "en": "Are you okay...?",
+   "es": "¿Estás bien...?"
+  },
+  {
+   "id": 1,
+   "en": "...Yeah, somehow.",
+   "es": "...Sí, de alguna forma."
+  },
+  {
+   "id": 2,
+   "en": "I-I'm sort of stuck here!\nSomeone...help me out!",
+   "es": "¡E-Estoy medio atorada!\n¡Que alguien... me ayude!"
+  },
+  {
+   "id": 3,
+   "en": "Himiko! Careful...",
+   "es": "¡Himiko! Cuidado..."
+  },
+  {
+   "id": 4,
+   "en": "Nyeh...I'm saved...",
+   "es": "Nyeh... Me salvé..."
+  },
+  {
+   "id": 5,
+   "en": "We made it...",
+   "es": "Lo logramos..."
+  },
+  {
+   "id": 6,
+   "en": "Hey, how were we saved?\nWhy are we still alive?",
+   "es": "Oigan, ¿cómo nos salvamos?\n¿Por qué seguimos vivos?"
+  },
+  {
+   "id": 7,
+   "en": "Ah... Yeah, why are we alive...?",
+   "es": "Ah... Sí, ¿por qué estamos vivos...?"
+  },
+  {
+   "id": 8,
+   "en": "I wonder...",
+   "es": "Me pregunto..."
+  },
+  {
+   "id": 9,
+   "en": "<CLT=cltMIND>The killing game is over...",
+   "es": "<CLT=cltMIND>El juego de matanza terminó..."
+  },
+  {
+   "id": 10,
+   "en": "<CLT=cltMIND>The class trials are over...",
+   "es": "<CLT=cltMIND>Los juicios escolares terminaron..."
+  },
+  {
+   "id": 11,
+   "en": "<CLT=cltMIND>And the fictional world...is over.",
+   "es": "<CLT=cltMIND>Y el mundo ficticio... terminó."
+  },
+  {
+   "id": 12,
+   "en": "<CLT=cltMIND>So then...where are we?",
+   "es": "<CLT=cltMIND>Entonces... ¿dónde estamos?"
+  },
+  {
+   "id": 13,
+   "en": "<CLT=cltMIND>Another fictional world\nafter the fiction has ended?",
+   "es": "<CLT=cltMIND>¿Otro mundo ficticio después\nde que terminó la ficción?"
+  },
+  {
+   "id": 14,
+   "en": "<CLT=cltMIND>What's left for us here?",
+   "es": "<CLT=cltMIND>¿Qué nos queda aquí?"
+  },
+  {
+   "id": 15,
+   "en": "<CLT=cltMIND>We were silent for a long while,\nstaring into \"<CLT=cltSTRONG>the other side<CLT=cltMIND>.\"",
+   "es": "<CLT=cltMIND>Guardamos silencio un buen rato,\nmirando hacia \"<CLT=cltSTRONG>el otro lado<CLT=cltMIND>\"."
+  },
+  {
+   "id": 16,
+   "en": "<CLT=cltMIND>Where we continued to hope...",
+   "es": "<CLT=cltMIND>Donde seguimos teniendo esperanza..."
+  },
+  {
+   "id": 17,
+   "en": "<CLT=cltMIND>And they continued to torture us...",
+   "es": "<CLT=cltMIND>Y ellos siguieron torturándonos..."
+  },
+  {
+   "id": 18,
+   "en": "<CLT=cltMIND>The <CLT=cltSTRONG>outside world<CLT=cltMIND>.",
+   "es": "<CLT=cltMIND>El <CLT=cltSTRONG>mundo exterior<CLT=cltMIND>."
+  },
+  {
+   "id": 19,
+   "en": "<CLT=cltMIND>53 times, hope moved forward.",
+   "es": "<CLT=cltMIND>53 veces, la esperanza siguió adelante."
+  },
+  {
+   "id": 20,
+   "en": "<CLT=cltMIND>53 times, the suffering continued.",
+   "es": "<CLT=cltMIND>53 veces, el sufrimiento continuó."
+  },
+  {
+   "id": 21,
+   "en": "<CLT=cltMIND>The world on the other side of\nthe fiction, <CLT=cltSTRONG>the real world<CLT=cltMIND>.",
+   "es": "<CLT=cltMIND>El mundo del otro lado de\nla ficción, <CLT=cltSTRONG>el mundo real<CLT=cltMIND>."
+  },
+  {
+   "id": 22,
+   "en": "...",
+   "es": "..."
+  },
+  {
+   "id": 23,
+   "en": "So, what do we do now?",
+   "es": "Y bien, ¿ahora qué hacemos?"
+  },
+  {
+   "id": 24,
+   "en": "We didn't think of a plan for what to do after.\nI thought that was the end of us back there.",
+   "es": "No pensamos en un plan para después.\nCreí que ahí se acababa todo para nosotros."
+  },
+  {
+   "id": 25,
+   "en": "But we survived.",
+   "es": "Pero sobrevivimos."
+  },
+  {
+   "id": 26,
+   "en": "...And that's the truth.",
+   "es": "...Y esa es la verdad."
+  },
+  {
+   "id": 27,
+   "en": "It seems as though we don't really have a\nchoice...we can't stay here anymore.",
+   "es": "Parece que en realidad no tenemos opción...\nya no podemos quedarnos aquí."
+  },
+  {
+   "id": 28,
+   "en": "But...I don't get it.\nSeriously, how are we still alive?",
+   "es": "Pero... no lo entiendo.\nEn serio, ¿cómo seguimos vivos?"
+  },
+  {
+   "id": 29,
+   "en": "When this world destroyed itself,\nI thought we would go down with it.",
+   "es": "Cuando este mundo se destruyó,\ncreí que nos hundiríamos con él."
+  },
+  {
+   "id": 30,
+   "en": "Keebo probably saved us.",
+   "es": "Seguro Keebo nos salvó."
+  },
+  {
+   "id": 31,
+   "en": "He made sure we didn't die.",
+   "es": "Se aseguró de que no muriéramos."
+  },
+  {
+   "id": 32,
+   "en": "But why...would he do that?",
+   "es": "Pero ¿por qué... haría eso?"
+  },
+  {
+   "id": 33,
+   "en": "There's no point in us escaping to the outside\nworld... We're just fictional characters...",
+   "es": "No tiene caso que escapemos al mundo\nexterior... Solo somos personajes ficticios..."
+  },
+  {
+   "id": 34,
+   "en": "Did Keebo save us...because he was acting on\nwhat the <CLT=cltSTRONG>outside world wanted<CLT=cltNORMAL>?",
+   "es": "¿Keebo nos salvó... porque actuaba según\nlo que <CLT=cltSTRONG>quería el mundo exterior<CLT=cltNORMAL>?"
+  },
+  {
+   "id": 35,
+   "en": "Then maybe...\nthis is what the <CLT=cltSTRONG>outside world wanted<CLT=cltNORMAL>.",
+   "es": "Entonces quizá...\nesto es lo que <CLT=cltSTRONG>quería el mundo exterior<CLT=cltNORMAL>."
+  },
+  {
+   "id": 36,
+   "en": "Nyeh? For us to live?",
+   "es": "¿Nyeh? ¿Que viviéramos?"
+  },
+  {
+   "id": 37,
+   "en": "That's right. In addition to ending all this...\n<CLT=cltSTRONG>The outside world<CLT=cltNORMAL> wanted us to live...",
+   "es": "Así es. Además de acabar con todo esto...\n<CLT=cltSTRONG>El mundo exterior<CLT=cltNORMAL> quería que viviéramos..."
+  },
+  {
+   "id": 38,
+   "en": "I suppose...<CLT=cltSTRONG>the outside world<CLT=cltNORMAL>\nwanted this lie to become the truth.",
+   "es": "Supongo que... <CLT=cltSTRONG>el mundo exterior<CLT=cltNORMAL>\nquería que esta mentira se volviera verdad."
+  },
+  {
+   "id": 39,
+   "en": "So, come on, everyone. Let's head outside.\nWith confidence.",
+   "es": "Así que, vamos, todos. Salgamos.\nCon confianza."
+  },
+  {
+   "id": 40,
+   "en": "The outside world is waiting.",
+   "es": "El mundo exterior nos espera."
+  },
+  {
+   "id": 41,
+   "en": "To the outside world, huh?\nI wonder what kind of world it is.",
+   "es": "Al mundo exterior, ¿eh?\nMe pregunto qué clase de mundo será."
+  },
+  {
+   "id": 42,
+   "en": "A peaceful world with no fighting and no \ndespair. That's what Tsumugi said, right?",
+   "es": "Un mundo pacífico, sin peleas ni\ndesesperación. Eso dijo Tsumugi, ¿no?"
+  },
+  {
+   "id": 43,
+   "en": "Yeah. Ah...if she wasn't lying.",
+   "es": "Sí. Ah... si es que no mentía."
+  },
+  {
+   "id": 44,
+   "en": "Nyeh!? It might be a lie!?",
+   "es": "¡¿Nyeh?! ¡¿Podría ser mentira?!"
+  },
+  {
+   "id": 45,
+   "en": "Remember...the last thing Tsumugi said?",
+   "es": "¿Recuerdan... lo último que dijo Tsumugi?"
+  },
+  {
+   "id": 46,
+   "en": "My plan was such a flawless <CLT=cltSTRONG>copy<CLT=typeNORMAL>,\nit even failed right at the end...",
+   "es": "Mi plan fue una <CLT=cltSTRONG>copia<CLT=typeNORMAL> tan perfecta\nque hasta falló justo al final..."
+  },
+  {
+   "id": 47,
+   "en": "So I should be able to hold my head up \nhigh as a <CLT=cltSTRONG>cosplaycat criminal<CLT=typeNORMAL>, right?",
+   "es": "Así que puedo ir con la frente en alto como\n<CLT=cltSTRONG>criminal cosplayer imitadora<CLT=typeNORMAL>, ¿no?"
+  },
+  {
+   "id": 48,
+   "en": "She said <CLT=cltSTRONG>\"copy\"<CLT=cltNORMAL>...",
+   "es": "Dijo <CLT=cltSTRONG>\"copia\"<CLT=cltNORMAL>..."
+  },
+  {
+   "id": 49,
+   "en": "That means she must have been\n<CLT=cltSTRONG>copying<CLT=cltNORMAL> someone, right?",
+   "es": "Eso significa que debía estar\n<CLT=cltSTRONG>copiando<CLT=cltNORMAL> a alguien, ¿no?"
+  },
+  {
+   "id": 50,
+   "en": "What does that mean?",
+   "es": "¿Qué quiere decir eso?"
+  },
+  {
+   "id": 51,
+   "en": "What indeed...",
+   "es": "Eso mismo..."
+  },
+  {
+   "id": 52,
+   "en": "What!? You don't know!?",
+   "es": "¡¿Qué?! ¡¿No lo sabes?!"
+  },
+  {
+   "id": 53,
+   "en": "Ah, well, I have some theories.",
+   "es": "Ah, bueno, tengo algunas teorías."
+  },
+  {
+   "id": 54,
+   "en": "Perhaps <CLT=cltSTRONG>Hope's Peak Academy<CLT=cltNORMAL> and the\n<CLT=cltSTRONG>Remnants of Despair<CLT=cltNORMAL> really exist.",
+   "es": "Quizá la <CLT=cltSTRONG>Academia Pico de la Esperanza<CLT=cltNORMAL> y los\n<CLT=cltSTRONG>Remanentes de la Desesperación<CLT=cltNORMAL> sí existen."
+  },
+  {
+   "id": 55,
+   "en": "Maybe Tsumugi was just basing\nher performance on them.",
+   "es": "Quizá Tsumugi solo basó\nsu actuación en ellos."
+  },
+  {
+   "id": 56,
+   "en": "So Tsumugi lied about this whole world being\njust fiction?",
+   "es": "¿Entonces Tsumugi mintió al decir que\ntodo este mundo era pura ficción?"
+  },
+  {
+   "id": 57,
+   "en": "Wh-What!? A surprise ending!?",
+   "es": "¡¿Q-Qué?! ¡¿Un final sorpresa?!"
+  },
+  {
+   "id": 58,
+   "en": "No, I don't really know for sure. She might have\nbeen lying when she said <CLT=cltSTRONG>\"copy.\"<CLT=cltNORMAL>",
+   "es": "No, no lo sé con certeza. Quizá mentía\ncuando dijo <CLT=cltSTRONG>\"copia\".<CLT=cltNORMAL>"
+  },
+  {
+   "id": 59,
+   "en": "But if she were telling the truth, then...it would\nmake sense that <CLT=cltSTRONG>that<CLT=cltNORMAL> was a lie.",
+   "es": "Pero si decía la verdad, entonces... tendría\nsentido que <CLT=cltSTRONG>eso<CLT=cltNORMAL> fuera mentira."
+  },
+  {
+   "id": 60,
+   "en": "What do you mean, <CLT=cltSTRONG>\"that\"<CLT=cltNORMAL>?",
+   "es": "¿A qué te refieres con <CLT=cltSTRONG>\"eso\"<CLT=cltNORMAL>?"
+  },
+  {
+   "id": 61,
+   "en": "What Tsumugi showed us...\nThe way we were when...we first arrived.",
+   "es": "Lo que nos mostró Tsumugi...\nCómo éramos cuando... llegamos aquí."
+  },
+  {
+   "id": 62,
+   "en": "H-Huh? Wh-What am I wearing?",
+   "es": "¿E-Eh? ¿Q-Qué traigo puesto?"
+  },
+  {
+   "id": 63,
+   "en": "Mm-hm! Looking good! Now you look more\nlike <CLT=cltSTRONG>Ultimates<CLT=cltNORMAL>.",
+   "es": "¡Ajá! ¡Se ven bien! Ahora se parecen\nmás a unos <CLT=cltSTRONG>Definitivos<CLT=cltNORMAL>."
+  },
+  {
+   "id": 64,
+   "en": "<CLT=cltSTRONG>Ultimates<CLT=cltNORMAL>...? Really?",
+   "es": "¿<CLT=cltSTRONG>Definitivos<CLT=cltNORMAL>...? ¿En serio?"
+  },
+  {
+   "id": 65,
+   "en": "Next up, the <CLT=cltSTRONG>memory<CLT=cltNORMAL> youse all been\nwaiting for.",
+   "es": "Lo que sigue es el <CLT=cltSTRONG>recuerdo<CLT=cltNORMAL> que todos\nustedes han estado esperando."
+  },
+  {
+   "id": 66,
+   "en": "Hell yeah! Get ready! Once the seal is broken,\nwe'll be in the <CLT=cltSTRONG>domain of the killing game<CLT=cltNORMAL>!",
+   "es": "¡Claro que sí! ¡Prepárense! ¡Una vez roto el sello,\nestaremos en el <CLT=cltSTRONG>dominio del juego de matanza<CLT=cltNORMAL>!"
+  },
+  {
+   "id": 67,
+   "en": "<CLT=cltMIND>K-Killing game...?",
+   "es": "<CLT=cltMIND>¿J-Juego de matanza...?"
+  },
+  {
+   "id": 68,
+   "en": "You mean...we were selected!?",
+   "es": "¡¿O sea que... nos eligieron?!"
+  },
+  {
+   "id": 69,
+   "en": "We got picked!?\nReally!? Alright!",
+   "es": "¡¿Nos escogieron?!\n¡¿En serio?! ¡Muy bien!"
+  },
+  {
+   "id": 70,
+   "en": "Wh-Whoa, really!?\nI'm selected for <CLT=cltSTRONG>it<CLT=cltNORMAL>, too!?",
+   "es": "¡¿Q-Qué, en serio?!\n¡¿A mí también me eligieron para <CLT=cltSTRONG>eso<CLT=cltNORMAL>?!"
+  },
+  {
+   "id": 71,
+   "en": "I still don't believe it. I can't believe that any\nof us would volunteer for this.",
+   "es": "Todavía no me lo creo. No puedo creer que\nalguno de nosotros se ofreciera para esto."
+  },
+  {
+   "id": 72,
+   "en": "We forgot everything about our old selves \nafter that first Flashback Light, didn't we?",
+   "es": "Olvidamos todo de nuestro antiguo yo después\nde esa primera Luz del Recuerdo, ¿no?"
+  },
+  {
+   "id": 73,
+   "en": "That's what Tsumugi said, but...\nsomething's been bugging me about that.",
+   "es": "Eso dijo Tsumugi, pero...\nhay algo de eso que me inquieta."
+  },
+  {
+   "id": 74,
+   "en": "Even if we were obsessed with this killing game,\nI still can't believe we would participate in it.",
+   "es": "Aunque estuviéramos obsesionados con este juego\nde matanza, no puedo creer que participáramos."
+  },
+  {
+   "id": 75,
+   "en": "I just... I don't believe it.",
+   "es": "Es que... no me lo creo."
+  },
+  {
+   "id": 76,
+   "en": "Ah, but...\nI don't really have any logic behind that...",
+   "es": "Ah, pero...\nen realidad no tengo una lógica detrás de eso..."
+  },
+  {
+   "id": 77,
+   "en": "One of Kaito's hunches, huh?",
+   "es": "Una de las corazonadas de Kaito, ¿eh?"
+  },
+  {
+   "id": 78,
+   "en": "Anyway, there's no way for us to check when\nwe all applied to the Academy, right?",
+   "es": "En fin, no hay forma de comprobar cuándo\nnos inscribimos todos en la academia, ¿verdad?"
+  },
+  {
+   "id": 79,
+   "en": "Yeah...",
+   "es": "Sí..."
+  },
+  {
+   "id": 80,
+   "en": "What? We can't check?",
+   "es": "¿Qué? ¿No se puede comprobar?"
+  },
+  {
+   "id": 81,
+   "en": "So in the end...we still don't know what\nwas true or not...",
+   "es": "Así que al final... seguimos sin saber\nqué era verdad y qué no..."
+  },
+  {
+   "id": 82,
+   "en": "The fictional world ends here, and the\nreal world lies out there.",
+   "es": "El mundo ficticio termina aquí, y el\nmundo real está allá afuera."
+  },
+  {
+   "id": 83,
+   "en": "Perhaps just beyond here is the truth...",
+   "es": "Quizá justo más allá está la verdad..."
+  },
+  {
+   "id": 84,
+   "en": "But, maybe it isn't...",
+   "es": "Pero quizá no..."
+  },
+  {
+   "id": 85,
+   "en": "Maybe it's all still fiction \nin that world, or...",
+   "es": "Quizá todo sigue siendo ficción\nen ese mundo, o..."
+  },
+  {
+   "id": 86,
+   "en": "Maybe Danganronpa still continues \nin that world, or...",
+   "es": "Quizá Danganronpa sigue\nen ese mundo, o..."
+  },
+  {
+   "id": 87,
+   "en": "Or maybe the outside world is the same\nas this world.",
+   "es": "O quizá el mundo exterior es igual\nque este mundo."
+  },
+  {
+   "id": 88,
+   "en": "It might be a world...filled with lies.",
+   "es": "Podría ser un mundo... lleno de mentiras."
+  },
+  {
+   "id": 89,
+   "en": "Well...if we can get out from here,\nwe'll know for sure.",
+   "es": "Bueno... si logramos salir de aquí,\nlo sabremos con certeza."
+  },
+  {
+   "id": 90,
+   "en": "Yeah...but I feel like...there's not too much\nmeaning in truth and lies...",
+   "es": "Sí... pero siento que... la verdad y la mentira\nno tienen tanto significado..."
+  },
+  {
+   "id": 91,
+   "en": "Nyeh? What do you mean?",
+   "es": "¿Nyeh? ¿A qué te refieres?"
+  },
+  {
+   "id": 92,
+   "en": "I mean that...even if something\nis a lie, even if it's fiction...",
+   "es": "Quiero decir que... aunque algo sea\nmentira, aunque sea ficción..."
+  },
+  {
+   "id": 93,
+   "en": "If it has the power to change the world,\nthen it must contain some kind of truth.",
+   "es": "Si tiene el poder de cambiar el mundo,\nentonces debe contener algo de verdad."
+  },
+  {
+   "id": 94,
+   "en": "Aren't we proof of that?",
+   "es": "¿No somos la prueba de eso?"
+  },
+  {
+   "id": 95,
+   "en": "In this fictional world, we overcame\nall these fictional struggles...",
+   "es": "En este mundo ficticio, superamos\ntodas estas luchas ficticias..."
+  },
+  {
+   "id": 96,
+   "en": "But those things changed us.\nAnd we were able to change the world.",
+   "es": "Pero esas cosas nos cambiaron.\nY pudimos cambiar el mundo."
+  },
+  {
+   "id": 97,
+   "en": "So it doesn't really matter where\nthe truth ends and where the lies begin.",
+   "es": "Así que no importa mucho dónde\ntermina la verdad y dónde empieza la mentira."
+  },
+  {
+   "id": 98,
+   "en": "If <CLT=cltSTRONG>lies<CLT=cltNORMAL> can change the world\njust as well as the <CLT=cltSTRONG>truth<CLT=cltNORMAL> can...",
+   "es": "Si las <CLT=cltSTRONG>mentiras<CLT=cltNORMAL> pueden cambiar el mundo\ntanto como la <CLT=cltSTRONG>verdad<CLT=cltNORMAL>..."
+  },
+  {
+   "id": 99,
+   "en": "Then lies...are just another way\nof telling the truth.",
+   "es": "Entonces las mentiras... son otra forma\nde decir la verdad."
+  },
+  {
+   "id": 100,
+   "en": "Some lies can lead the world to hope...\nSome truths can lead the world to despair...",
+   "es": "Algunas mentiras llevan al mundo a la esperanza...\nAlgunas verdades lo llevan a la desesperación..."
+  },
+  {
+   "id": 101,
+   "en": "So I don't think anyone can really say which\nis more <CLT=cltSTRONG>right<CLT=cltNORMAL> in the end.",
+   "es": "Así que no creo que nadie pueda decir cuál\nes más <CLT=cltSTRONG>correcta<CLT=cltNORMAL> al final."
+  },
+  {
+   "id": 102,
+   "en": "I guess it's not important whether it's \na truth or lie. Just what it leads to...",
+   "es": "Supongo que no importa si es verdad\no mentira. Solo a dónde lleva..."
+  },
+  {
+   "id": 103,
+   "en": "Yeah. That's what I believe.",
+   "es": "Sí. Eso es lo que creo."
+  },
+  {
+   "id": 104,
+   "en": "We stand with one foot in fiction,\nand one foot in reality...",
+   "es": "Estamos con un pie en la ficción\ny otro en la realidad..."
+  },
+  {
+   "id": 105,
+   "en": "Then, we need to see for ourselves whether this\nfictional world has changed the outside world.",
+   "es": "Entonces tenemos que ver por nosotros mismos si\neste mundo ficticio cambió el mundo exterior."
+  },
+  {
+   "id": 106,
+   "en": "And what we can do from this point on...",
+   "es": "Y lo que podemos hacer a partir de ahora..."
+  },
+  {
+   "id": 107,
+   "en": "You're right. We can't stay in this \nfictional world forever. It's already over.",
+   "es": "Tienes razón. No podemos quedarnos siempre\nen este mundo ficticio. Ya se acabó."
+  },
+  {
+   "id": 108,
+   "en": "We gotta take all the experience we earned\nin this world and go on to the next.",
+   "es": "Hay que llevarnos la experiencia que ganamos\nen este mundo y seguir al siguiente."
+  },
+  {
+   "id": 109,
+   "en": "Yeah. Let's go.",
+   "es": "Sí. Vamos."
+  },
+  {
+   "id": 110,
+   "en": "We'll see what this world gained, and what it\nlost, and all the rest.",
+   "es": "Veremos lo que ganó este mundo, lo que\nperdió y todo lo demás."
+  },
+  {
+   "id": 111,
+   "en": "Let's find out, together.",
+   "es": "Averigüémoslo, juntos."
+  },
+  {
+   "id": 112,
+   "en": "<CLT=cltMIND>To the other side of this world...",
+   "es": "<CLT=cltMIND>Al otro lado de este mundo..."
+  },
+  {
+   "id": 113,
+   "en": "<CLT=cltMIND>To the other side of fiction...",
+   "es": "<CLT=cltMIND>Al otro lado de la ficción..."
+  },
+  {
+   "id": 114,
+   "en": "<CLT=cltMIND>Let's find out, together.",
+   "es": "<CLT=cltMIND>Averigüémoslo, juntos."
+  },
+  {
+   "id": 115,
+   "en": "<CLT=cltMIND>It's what we could accomplish.",
+   "es": "<CLT=cltMIND>Es lo que pudimos lograr."
+  },
+  {
+   "id": 116,
+   "en": "<CLT=cltMIND>The story lives on.",
+   "es": "<CLT=cltMIND>La historia sigue viva."
+  },
+  {
+   "id": 117,
+   "en": "<CLT=cltMIND>I'm sure, even now...",
+   "es": "<CLT=cltMIND>Estoy seguro de que, incluso ahora..."
+  },
+  {
+   "id": 118,
+   "en": "<CLT=cltMIND>Even on the other side... \nIt lives on there, as well.",
+   "es": "<CLT=cltMIND>Incluso del otro lado...\nTambién sigue viva allá."
+  },
+  {
+   "id": 119,
+   "en": "<CLT=cltMIND>And thus, the story lives on.",
+   "es": "<CLT=cltMIND>Y así, la historia sigue viva."
+  },
+  {
+   "id": 120,
+   "en": "<CLT=cltMIND>Was this lie able to change something?",
+   "es": "<CLT=cltMIND>¿Esta mentira pudo cambiar algo?"
+  },
+  {
+   "id": 121,
+   "en": "<CLT=cltMIND>Was this lie able to change someone?",
+   "es": "<CLT=cltMIND>¿Esta mentira pudo cambiar a alguien?"
+  },
+  {
+   "id": 122,
+   "en": "<CLT=cltMIND>Was this lie...able to change the world?",
+   "es": "<CLT=cltMIND>¿Esta mentira... pudo cambiar el mundo?"
+  },
+  {
+   "id": 123,
+   "en": "<CLT=cltMIND>If it was able to change\neven the smallest thing...",
+   "es": "<CLT=cltMIND>Si pudo cambiar\naunque sea lo más pequeño..."
+  },
+  {
+   "id": 124,
+   "en": "<CLT=cltMIND>...Then the story isn't over.",
+   "es": "<CLT=cltMIND>...Entonces la historia no ha terminado."
+  }
+ ]
+}

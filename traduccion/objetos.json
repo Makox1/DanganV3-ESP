@@ -1,0 +1,10891 @@
+{
+ "ID000_dummy_text.stx": [
+  {
+   "id": 0,
+   "en": "Object 0",
+   "es": ""
+  },
+  {
+   "id": 1,
+   "en": "Object 1",
+   "es": ""
+  },
+  {
+   "id": 2,
+   "en": "Object 2",
+   "es": ""
+  },
+  {
+   "id": 3,
+   "en": "Object 3",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "Object 4",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "Object 5",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Object 6",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "Object 7",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Object 8",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Object 9",
+   "es": ""
+  }
+ ],
+ "ID001_sch_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  },
+  {
+   "id": 1,
+   "en": "Gym",
+   "es": "Gimnasio"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "School Store",
+   "es": "Tienda escolar"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom A",
+   "es": "Salón A"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Magician Lab",
+   "es": "Lab. de la Ilusionista Definitiva"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "Basement",
+   "es": "Sótano"
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "End of Hallway",
+   "es": "Final del pasillo"
+  }
+ ],
+ "ID002_sch_2F_text.stx": [
+  {
+   "id": 0,
+   "en": "Classroom B",
+   "es": "Salón B"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Pianist Lab",
+   "es": "Lab. de la Pianista Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Maid Lab",
+   "es": "Lab. de la Sirvienta Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Ultimate Entomologist Lab",
+   "es": "Lab. del Entomólogo Definitivo"
+  },
+  {
+   "id": 4,
+   "en": "1st Floor",
+   "es": "Piso 1"
+  },
+  {
+   "id": 5,
+   "en": "3rd Floor",
+   "es": "Piso 3"
+  },
+  {
+   "id": 6,
+   "en": "Bronze Dragon Statue",
+   "es": "Estatua de dragón de bronce"
+  },
+  {
+   "id": 7,
+   "en": "Treasure Chest",
+   "es": "Cofre del tesoro"
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "Classroom C",
+   "es": "Salón C"
+  },
+  {
+   "id": 11,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID003_sch_3F_text.stx": [
+  {
+   "id": 0,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Tennis Pro Lab",
+   "es": "Lab. del Tenista Definitivo"
+  },
+  {
+   "id": 2,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 5,
+   "en": "4th Floor",
+   "es": "Piso 4"
+  },
+  {
+   "id": 6,
+   "en": "Ultimate Assassin Lab",
+   "es": "Lab. de la Asesina Definitiva"
+  },
+  {
+   "id": 7,
+   "en": "Large Door",
+   "es": "Puerta grande"
+  },
+  {
+   "id": 8,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID004_sch_B1_text.stx": [
+  {
+   "id": 0,
+   "en": "Library",
+   "es": "Biblioteca"
+  },
+  {
+   "id": 1,
+   "en": "A/V Room",
+   "es": "Sala audiovisual"
+  },
+  {
+   "id": 2,
+   "en": "Game Room",
+   "es": "Sala de Juegos"
+  },
+  {
+   "id": 3,
+   "en": "Library",
+   "es": "Biblioteca"
+  },
+  {
+   "id": 4,
+   "en": "Air Vent",
+   "es": "Rejilla de ventilación"
+  },
+  {
+   "id": 5,
+   "en": "1st Floor",
+   "es": "Piso 1"
+  },
+  {
+   "id": 6,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 7,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID005_sch_4F_text.stx": [
+  {
+   "id": 0,
+   "en": "3rd Floor",
+   "es": "Piso 3"
+  },
+  {
+   "id": 1,
+   "en": "Left Room",
+   "es": "Cuarto izquierdo"
+  },
+  {
+   "id": 2,
+   "en": "Center Room",
+   "es": "Cuarto central"
+  },
+  {
+   "id": 3,
+   "en": "Right Room",
+   "es": "Cuarto derecho"
+  },
+  {
+   "id": 4,
+   "en": "Computer Room",
+   "es": "Sala de cómputo"
+  },
+  {
+   "id": 5,
+   "en": "Ultimate Anthropologist Lab (Rear)",
+   "es": "Lab. del Antropólogo Definitivo (fondo)"
+  },
+  {
+   "id": 6,
+   "en": "Ultimate Anthropologist Lab",
+   "es": "Lab. del Antropólogo Definitivo"
+  },
+  {
+   "id": 7,
+   "en": "5th Floor",
+   "es": "Piso 5"
+  },
+  {
+   "id": 8,
+   "en": "Ultimate Artist Lab",
+   "es": "Lab. de la Artista Definitiva"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Artist Lab (Rear)",
+   "es": "Lab. de la Artista Definitiva (fondo)"
+  },
+  {
+   "id": 10,
+   "en": "Futuristic Art",
+   "es": "Arte futurista"
+  },
+  {
+   "id": 11,
+   "en": "Hanging Scroll",
+   "es": "Pergamino colgante"
+  },
+  {
+   "id": 12,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 13,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID006_sch_5F_text.stx": [
+  {
+   "id": 0,
+   "en": "Ultimate Cosplayer Lab",
+   "es": "Lab. de la Cosplayer Definitiva"
+  },
+  {
+   "id": 1,
+   "en": "4th Floor",
+   "es": "Piso 4"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Detective Lab",
+   "es": "Lab. del Detective Definitivo"
+  },
+  {
+   "id": 3,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "Ultimate ??? Lab",
+   "es": "Laboratorio del ??? Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Extravagant Door",
+   "es": "Puerta extravagante"
+  },
+  {
+   "id": 6,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID007_gym_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Basketball Net",
+   "es": "Canasta de básquetbol"
+  },
+  {
+   "id": 2,
+   "en": "Basketball Net",
+   "es": "Canasta de básquetbol"
+  },
+  {
+   "id": 3,
+   "en": "Scoreboard",
+   "es": "Marcador"
+  },
+  {
+   "id": 4,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 7,
+   "en": "Closed Curtain",
+   "es": "Cortina cerrada"
+  },
+  {
+   "id": 8,
+   "en": "Open Window",
+   "es": "Ventana abierta"
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 11,
+   "en": "Hammer on Dolly",
+   "es": "Martillo en carretilla"
+  },
+  {
+   "id": 12,
+   "en": "Mountain of Weapons",
+   "es": "Montaña de armas"
+  }
+ ],
+ "ID008_gym_magic_text.stx": [
+  {
+   "id": 0,
+   "en": "Stage",
+   "es": "Escenario"
+  },
+  {
+   "id": 1,
+   "en": "Near the Water Tank",
+   "es": "Cerca del tanque de agua"
+  },
+  {
+   "id": 2,
+   "en": "Behind the Stage",
+   "es": "Detrás del escenario"
+  },
+  {
+   "id": 3,
+   "en": "Curtain",
+   "es": "Cortina"
+  },
+  {
+   "id": 4,
+   "en": "Light Panel",
+   "es": "Panel de luz"
+  },
+  {
+   "id": 5,
+   "en": "Ladder",
+   "es": "Escalera de mano"
+  },
+  {
+   "id": 6,
+   "en": "Timer",
+   "es": "Temporizador"
+  },
+  {
+   "id": 7,
+   "en": "Ryoma's Body",
+   "es": "Cuerpo de Ryoma"
+  },
+  {
+   "id": 8,
+   "en": "Curtain",
+   "es": "Cortina"
+  },
+  {
+   "id": 9,
+   "en": "Piranhas",
+   "es": "Pirañas"
+  },
+  {
+   "id": 10,
+   "en": "Bloody Tank",
+   "es": "Tanque ensangrentado"
+  },
+  {
+   "id": 11,
+   "en": "Broken Tank",
+   "es": "Tanque roto"
+  },
+  {
+   "id": 12,
+   "en": "Ryoma's Belongings",
+   "es": "Pertenencias de Ryoma"
+  },
+  {
+   "id": 13,
+   "en": "Handcuffs",
+   "es": "Esposas"
+  },
+  {
+   "id": 14,
+   "en": "Glass Panel",
+   "es": "Panel de vidrio"
+  },
+  {
+   "id": 15,
+   "en": "Glass",
+   "es": "Vidrio"
+  },
+  {
+   "id": 16,
+   "en": "Bucket",
+   "es": "Cubeta"
+  },
+  {
+   "id": 17,
+   "en": "Rope",
+   "es": "Cuerda"
+  },
+  {
+   "id": 18,
+   "en": "Puddle",
+   "es": "Charco"
+  },
+  {
+   "id": 19,
+   "en": "Stage Staircase",
+   "es": "Escaleras del escenario"
+  },
+  {
+   "id": 20,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 21,
+   "en": "Closed Curtain",
+   "es": "Cortina cerrada"
+  },
+  {
+   "id": 22,
+   "en": "Open Window",
+   "es": "Ventana abierta"
+  },
+  {
+   "id": 23,
+   "en": "Suspended Water Tank",
+   "es": "Tanque de agua colgante"
+  },
+  {
+   "id": 24,
+   "en": "Piranha Tank",
+   "es": "Pecera de pirañas"
+  },
+  {
+   "id": 25,
+   "en": "Large Water Tank",
+   "es": "Tanque de agua grande"
+  },
+  {
+   "id": 26,
+   "en": "Large Water Tank",
+   "es": "Tanque de agua grande"
+  }
+ ],
+ "ID010_cafe_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Rules",
+   "es": "Reglas"
+  },
+  {
+   "id": 2,
+   "en": "Terrace Door",
+   "es": "Puerta de la terraza"
+  },
+  {
+   "id": 3,
+   "en": "Barbed Wire",
+   "es": "Alambre de púas"
+  },
+  {
+   "id": 4,
+   "en": "Grass",
+   "es": "Pasto"
+  },
+  {
+   "id": 5,
+   "en": "Floor",
+   "es": "Piso"
+  },
+  {
+   "id": 6,
+   "en": "Knife",
+   "es": "Cuchillo"
+  },
+  {
+   "id": 7,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "？？？",
+   "es": ""
+  }
+ ],
+ "ID014_shop_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Monomono Machine",
+   "es": "Máquina MonoMono"
+  },
+  {
+   "id": 2,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 3,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID015_warehousea_text.stx": [
+  {
+   "id": 0,
+   "en": "Sensor",
+   "es": "Sensor"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Shot Put Ball",
+   "es": "Bala de lanzamiento"
+  },
+  {
+   "id": 3,
+   "en": "RC Helicopter",
+   "es": "Helicóptero a control remoto"
+  },
+  {
+   "id": 4,
+   "en": "High Jump Bar",
+   "es": "Barra de salto de altura"
+  },
+  {
+   "id": 5,
+   "en": "Mat",
+   "es": "Colchoneta"
+  },
+  {
+   "id": 6,
+   "en": "Hurdle",
+   "es": "Valla"
+  },
+  {
+   "id": 7,
+   "en": "Disposable Camera",
+   "es": "Cámara desechable"
+  },
+  {
+   "id": 8,
+   "en": "Photographic Developer",
+   "es": "Revelador de fotos"
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID016_wc_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 2,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 3,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID017_classRoom_A_text.stx": [
+  {
+   "id": 0,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 1,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 2,
+   "en": "Teacher's Desk",
+   "es": "Escritorio del maestro"
+  },
+  {
+   "id": 3,
+   "en": "Closed Door",
+   "es": "Puerta cerrada"
+  },
+  {
+   "id": 4,
+   "en": "Open Door",
+   "es": "Puerta abierta"
+  },
+  {
+   "id": 5,
+   "en": "Air Vent",
+   "es": "Rejilla de ventilación"
+  },
+  {
+   "id": 6,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID018_classRoom_B_text.stx": [
+  {
+   "id": 0,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 1,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 2,
+   "en": "Teacher's Desk",
+   "es": "Escritorio del maestro"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 5,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 38,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 39,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 40,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 41,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  }
+ ],
+ "ID019_libA_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Front Bookcase",
+   "es": "Librero del frente"
+  },
+  {
+   "id": 2,
+   "en": "Middle Bookcase",
+   "es": "Librero de en medio"
+  },
+  {
+   "id": 3,
+   "en": "Back Bookcase",
+   "es": "Librero del fondo"
+  },
+  {
+   "id": 4,
+   "en": "Moving Ladder",
+   "es": "Escalera móvil"
+  },
+  {
+   "id": 5,
+   "en": "Air Vent",
+   "es": "Rejilla de ventilación"
+  },
+  {
+   "id": 6,
+   "en": "Moving Bookcase",
+   "es": "Librero móvil"
+  },
+  {
+   "id": 7,
+   "en": "Front Double Doors",
+   "es": "Puerta doble principal"
+  },
+  {
+   "id": 8,
+   "en": "Rear Sliding Door",
+   "es": "Puerta corrediza trasera"
+  },
+  {
+   "id": 9,
+   "en": "Globe",
+   "es": "Globo terráqueo"
+  },
+  {
+   "id": 10,
+   "en": "Modified Camera",
+   "es": "Cámara modificada"
+  },
+  {
+   "id": 11,
+   "en": "Modified Camera",
+   "es": "Cámara modificada"
+  },
+  {
+   "id": 12,
+   "en": "Cluttered Books",
+   "es": "Libros amontonados"
+  },
+  {
+   "id": 13,
+   "en": "Organized Books",
+   "es": "Libros ordenados"
+  },
+  {
+   "id": 14,
+   "en": "Above the Bookcase",
+   "es": "Encima del librero"
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 21,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 22,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 23,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 24,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 25,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 26,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 27,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 28,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 29,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 30,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 31,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 32,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 33,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 34,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 35,
+   "en": "Open Moving Bookcase",
+   "es": "Librero móvil abierto"
+  },
+  {
+   "id": 36,
+   "en": "Black & White Door",
+   "es": "Puerta blanca y negra"
+  },
+  {
+   "id": 37,
+   "en": "Card Reader",
+   "es": "Lector de tarjetas"
+  },
+  {
+   "id": 38,
+   "en": "Air Vent",
+   "es": "Rejilla de ventilación"
+  },
+  {
+   "id": 39,
+   "en": "Back of the Library",
+   "es": "Fondo de la biblioteca"
+  },
+  {
+   "id": 40,
+   "en": "Cluttered Books",
+   "es": "Libros amontonados"
+  },
+  {
+   "id": 41,
+   "en": "Organized Books",
+   "es": "Libros ordenados"
+  },
+  {
+   "id": 42,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 43,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 44,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 45,
+   "en": "Near the Body",
+   "es": "Cerca del cuerpo"
+  }
+ ],
+ "ID020_libB_text.stx": [
+  {
+   "id": 0,
+   "en": "Special Modified Camera",
+   "es": "Cámara modificada especial"
+  },
+  {
+   "id": 1,
+   "en": "Bloody Shot Put Ball",
+   "es": "Bala de lanzamiento ensangrentada"
+  },
+  {
+   "id": 2,
+   "en": "Rantaro's Body",
+   "es": "Cuerpo de Rantaro"
+  },
+  {
+   "id": 3,
+   "en": "Cluttered Books",
+   "es": "Libros amontonados"
+  },
+  {
+   "id": 4,
+   "en": "Organized Books",
+   "es": "Libros ordenados"
+  },
+  {
+   "id": 5,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID021_libA_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Front Bookcase",
+   "es": "Librero del frente"
+  },
+  {
+   "id": 2,
+   "en": "Middle Bookcase",
+   "es": "Librero de en medio"
+  },
+  {
+   "id": 3,
+   "en": "Back Bookcase",
+   "es": "Librero del fondo"
+  },
+  {
+   "id": 4,
+   "en": "Moving Ladder",
+   "es": "Escalera móvil"
+  },
+  {
+   "id": 5,
+   "en": "Air Vent",
+   "es": "Rejilla de ventilación"
+  },
+  {
+   "id": 6,
+   "en": "Moving Bookcase",
+   "es": "Librero móvil"
+  },
+  {
+   "id": 7,
+   "en": "Front Double Doors",
+   "es": "Puerta doble principal"
+  },
+  {
+   "id": 8,
+   "en": "Rear Sliding Door",
+   "es": "Puerta corrediza trasera"
+  },
+  {
+   "id": 9,
+   "en": "Globe",
+   "es": "Globo terráqueo"
+  },
+  {
+   "id": 10,
+   "en": "Modified Camera",
+   "es": "Cámara modificada"
+  },
+  {
+   "id": 11,
+   "en": "Modified Camera",
+   "es": "Cámara modificada"
+  },
+  {
+   "id": 12,
+   "en": "Cluttered Books",
+   "es": "Libros amontonados"
+  },
+  {
+   "id": 13,
+   "en": "Organized Books",
+   "es": "Libros ordenados"
+  },
+  {
+   "id": 14,
+   "en": "Above the Bookcase",
+   "es": "Encima del librero"
+  },
+  {
+   "id": 35,
+   "en": "Open Moving Bookcase",
+   "es": "Librero móvil abierto"
+  },
+  {
+   "id": 36,
+   "en": "Black & White Door",
+   "es": "Puerta blanca y negra"
+  },
+  {
+   "id": 37,
+   "en": "Card Reader",
+   "es": "Lector de tarjetas"
+  },
+  {
+   "id": 38,
+   "en": "Air Vent",
+   "es": "Rejilla de ventilación"
+  },
+  {
+   "id": 39,
+   "en": "Back of the Library",
+   "es": "Fondo de la biblioteca"
+  },
+  {
+   "id": 40,
+   "en": "Cluttered Books",
+   "es": "Libros amontonados"
+  },
+  {
+   "id": 41,
+   "en": "Organized Books",
+   "es": "Libros ordenados"
+  },
+  {
+   "id": 45,
+   "en": "Bookcase",
+   "es": "Librero"
+  },
+  {
+   "id": 46,
+   "en": "Hidden Room",
+   "es": "Cuarto secreto"
+  }
+ ],
+ "ID025_gam_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Sliding Door",
+   "es": "Puerta corrediza"
+  },
+  {
+   "id": 2,
+   "en": "Tree Root",
+   "es": "Raíz de árbol"
+  },
+  {
+   "id": 3,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "？？？",
+   "es": ""
+  }
+ ],
+ "ID026_av_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Screen",
+   "es": "Pantalla"
+  },
+  {
+   "id": 2,
+   "en": "Video Player",
+   "es": "Reproductor de video"
+  },
+  {
+   "id": 3,
+   "en": "Video Rack",
+   "es": "Estante de videos"
+  },
+  {
+   "id": 4,
+   "en": "Video Rack",
+   "es": "Estante de videos"
+  },
+  {
+   "id": 5,
+   "en": "5.1ch Speaker",
+   "es": "Bocina 5.1"
+  },
+  {
+   "id": 6,
+   "en": "5.1ch Speaker",
+   "es": "Bocina 5.1"
+  },
+  {
+   "id": 7,
+   "en": "5.1ch Speaker",
+   "es": "Bocina 5.1"
+  },
+  {
+   "id": 8,
+   "en": "5.1ch Speaker",
+   "es": "Bocina 5.1"
+  },
+  {
+   "id": 9,
+   "en": "Sofa A",
+   "es": "Sofá A"
+  },
+  {
+   "id": 10,
+   "en": "Sofa B",
+   "es": "Sofá B"
+  },
+  {
+   "id": 11,
+   "en": "Projector",
+   "es": "Proyector"
+  },
+  {
+   "id": 12,
+   "en": "Poster Bucket",
+   "es": "Cubeta de pósters"
+  },
+  {
+   "id": 13,
+   "en": "Back Sliding Door",
+   "es": "Puerta corrediza trasera"
+  },
+  {
+   "id": 14,
+   "en": "5.1ch Speaker",
+   "es": "Bocina 5.1"
+  },
+  {
+   "id": 15,
+   "en": "5.1ch Speaker",
+   "es": "Bocina 5.1"
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID027_secretRoom_0_text.stx": [
+  {
+   "id": 0,
+   "en": "Half Broken Door",
+   "es": "Puerta medio rota"
+  },
+  {
+   "id": 1,
+   "en": "Motherkuma",
+   "es": "Madrekuma"
+  },
+  {
+   "id": 2,
+   "en": "Curtain",
+   "es": "Cortina"
+  },
+  {
+   "id": 3,
+   "en": "Trash Can",
+   "es": "Bote de basura"
+  },
+  {
+   "id": 4,
+   "en": "Monopad",
+   "es": "Monopad"
+  }
+ ],
+ "ID028_secretRoom_1_text.stx": [
+  {
+   "id": 0,
+   "en": "Half Broken Door",
+   "es": "Puerta medio rota"
+  },
+  {
+   "id": 1,
+   "en": "Motherkuma",
+   "es": "Madrekuma"
+  },
+  {
+   "id": 2,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 3,
+   "en": "Trash Can",
+   "es": "Bote de basura"
+  },
+  {
+   "id": 4,
+   "en": "Monopad",
+   "es": "Monopad"
+  }
+ ],
+ "ID029_secret_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 2,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  }
+ ],
+ "ID030_classRoom_C_text.stx": [
+  {
+   "id": 0,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 1,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 2,
+   "en": "Teacher's Desk",
+   "es": "Escritorio del maestro"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 5,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 38,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 39,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 40,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 41,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  }
+ ],
+ "ID031_classRoom_C_text.stx": [
+  {
+   "id": 0,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 1,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 2,
+   "en": "Teacher's Desk",
+   "es": "Escritorio del maestro"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 5,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 38,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 39,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 41,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 42,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 43,
+   "en": "Hologram",
+   "es": "Holograma"
+  },
+  {
+   "id": 44,
+   "en": "Hologram Display",
+   "es": "Pantalla holográfica"
+  },
+  {
+   "id": 45,
+   "en": "Hologram",
+   "es": "Holograma"
+  },
+  {
+   "id": 46,
+   "en": "Flashback Light",
+   "es": "Luz de Recuerdos"
+  },
+  {
+   "id": 48,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 49,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 50,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 60,
+   "en": "Door",
+   "es": "Puerta"
+  }
+ ],
+ "ID032_cold_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Documents",
+   "es": "Documentos"
+  },
+  {
+   "id": 2,
+   "en": "Mysterious Machine",
+   "es": "Máquina misteriosa"
+  },
+  {
+   "id": 3,
+   "en": "Mysterious Machine",
+   "es": "Máquina misteriosa"
+  },
+  {
+   "id": 4,
+   "en": "Mysterious Machine",
+   "es": "Máquina misteriosa"
+  },
+  {
+   "id": 5,
+   "en": "Pod",
+   "es": "Cápsula"
+  },
+  {
+   "id": 6,
+   "en": "Pod",
+   "es": "Cápsula"
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID034_wc_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 2,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 3,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID036_vacancy_00_text.stx": [
+  {
+   "id": 0,
+   "en": "Lit Candle",
+   "es": "Vela encendida"
+  },
+  {
+   "id": 1,
+   "en": "Lit Candle",
+   "es": "Vela encendida"
+  },
+  {
+   "id": 2,
+   "en": "Floor",
+   "es": "Piso"
+  },
+  {
+   "id": 3,
+   "en": "Hole in the Corner",
+   "es": "Agujero en la esquina"
+  },
+  {
+   "id": 4,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 5,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "？？？",
+   "es": ""
+  }
+ ],
+ "ID037_vacancy_01_text.stx": [
+  {
+   "id": 0,
+   "en": "Lit Candle",
+   "es": "Vela encendida"
+  },
+  {
+   "id": 1,
+   "en": "Lit Candle",
+   "es": "Vela encendida"
+  },
+  {
+   "id": 2,
+   "en": "Floor",
+   "es": "Piso"
+  },
+  {
+   "id": 3,
+   "en": "Floor With Removed Floorboard",
+   "es": "Piso sin una tabla"
+  },
+  {
+   "id": 4,
+   "en": "Crooked Floorboard",
+   "es": "Tabla del piso chueca"
+  },
+  {
+   "id": 5,
+   "en": "Hole in the Corner",
+   "es": "Agujero en la esquina"
+  },
+  {
+   "id": 6,
+   "en": "Magic Circle",
+   "es": "Círculo mágico"
+  },
+  {
+   "id": 7,
+   "en": "Ruined Magic Circle",
+   "es": "Círculo mágico arruinado"
+  },
+  {
+   "id": 8,
+   "en": "Iron Cage Covering Something",
+   "es": "Jaula de hierro cubriendo algo"
+  },
+  {
+   "id": 9,
+   "en": "Iron Cage",
+   "es": "Jaula de hierro"
+  },
+  {
+   "id": 10,
+   "en": "Dog Statue on Iron Cage",
+   "es": "Estatua de perro sobre jaula de hierro"
+  },
+  {
+   "id": 11,
+   "en": "Dog Statue",
+   "es": "Estatua de perro"
+  },
+  {
+   "id": 12,
+   "en": "Bloodstain",
+   "es": "Mancha de sangre"
+  },
+  {
+   "id": 13,
+   "en": "Marker Stone",
+   "es": "Piedra marcadora"
+  },
+  {
+   "id": 14,
+   "en": "White Cloth Over Something",
+   "es": "Tela blanca sobre algo"
+  },
+  {
+   "id": 15,
+   "en": "White Cloth",
+   "es": "Tela blanca"
+  },
+  {
+   "id": 16,
+   "en": "Curled Up Tenko",
+   "es": "Tenko acurrucada"
+  },
+  {
+   "id": 17,
+   "en": "Tenko's Body",
+   "es": "Cuerpo de Tenko"
+  },
+  {
+   "id": 18,
+   "en": "Ruined Magic Circle",
+   "es": "Círculo mágico arruinado"
+  },
+  {
+   "id": 19,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID038_vacancy_02_text.stx": [
+  {
+   "id": 0,
+   "en": "Lit Candle",
+   "es": "Vela encendida"
+  },
+  {
+   "id": 1,
+   "en": "Lit Candle",
+   "es": "Vela encendida"
+  },
+  {
+   "id": 2,
+   "en": "Floor",
+   "es": "Piso"
+  },
+  {
+   "id": 3,
+   "en": "Hole in the Corner",
+   "es": "Agujero en la esquina"
+  },
+  {
+   "id": 4,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 5,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "？？？",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "？？？",
+   "es": ""
+  }
+ ],
+ "ID040_vacancy_01_text.stx": [
+  {
+   "id": 0,
+   "en": "Lit Candle",
+   "es": "Vela encendida"
+  },
+  {
+   "id": 1,
+   "en": "Lit Candle",
+   "es": "Vela encendida"
+  },
+  {
+   "id": 2,
+   "en": "Floor",
+   "es": "Piso"
+  },
+  {
+   "id": 3,
+   "en": "Floor With Removed Floorboard",
+   "es": "Piso sin una tabla"
+  },
+  {
+   "id": 4,
+   "en": "Crooked Floorboard",
+   "es": "Tabla del piso chueca"
+  },
+  {
+   "id": 5,
+   "en": "Hole in the Corner",
+   "es": "Agujero en la esquina"
+  },
+  {
+   "id": 6,
+   "en": "Magic Circle",
+   "es": "Círculo mágico"
+  },
+  {
+   "id": 7,
+   "en": "Ruined Magic Circle",
+   "es": "Círculo mágico arruinado"
+  },
+  {
+   "id": 8,
+   "en": "Iron Cage Covering Something",
+   "es": "Jaula de hierro cubriendo algo"
+  },
+  {
+   "id": 9,
+   "en": "Iron Cage",
+   "es": "Jaula de hierro"
+  },
+  {
+   "id": 10,
+   "en": "Dog Statue on Iron Cage",
+   "es": "Estatua de perro sobre jaula de hierro"
+  },
+  {
+   "id": 11,
+   "en": "Dog Statue",
+   "es": "Estatua de perro"
+  },
+  {
+   "id": 12,
+   "en": "Bloodstain",
+   "es": "Mancha de sangre"
+  },
+  {
+   "id": 13,
+   "en": "Marker Stone",
+   "es": "Piedra marcadora"
+  },
+  {
+   "id": 14,
+   "en": "White Cloth Over Something",
+   "es": "Tela blanca sobre algo"
+  },
+  {
+   "id": 15,
+   "en": "White Cloth",
+   "es": "Tela blanca"
+  },
+  {
+   "id": 16,
+   "en": "Curled Up Tenko",
+   "es": "Tenko acurrucada"
+  },
+  {
+   "id": 17,
+   "en": "Tenko's Body",
+   "es": "Cuerpo de Tenko"
+  },
+  {
+   "id": 18,
+   "en": "Ruined Magic Circle",
+   "es": "Círculo mágico arruinado"
+  },
+  {
+   "id": 19,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID041_vacancy_01_text.stx": [
+  {
+   "id": 0,
+   "en": "Bloodstain",
+   "es": "Mancha de sangre"
+  },
+  {
+   "id": 1,
+   "en": "Bloodstained Board",
+   "es": "Tabla manchada de sangre"
+  },
+  {
+   "id": 2,
+   "en": "Dried Blood",
+   "es": "Sangre seca"
+  },
+  {
+   "id": 3,
+   "en": "Hole",
+   "es": "Agujero"
+  },
+  {
+   "id": 4,
+   "en": "Bloody Sickle",
+   "es": "Hoz ensangrentada"
+  },
+  {
+   "id": 5,
+   "en": "Cut Crosspiece",
+   "es": "Travesaño cortado"
+  },
+  {
+   "id": 6,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID042_sch_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  },
+  {
+   "id": 1,
+   "en": "Gym",
+   "es": "Gimnasio"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "School Store",
+   "es": "Tienda escolar"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom A",
+   "es": "Salón A"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Magician Lab",
+   "es": "Lab. de la Ilusionista Definitiva"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "Basement",
+   "es": "Sótano"
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "End of Hallway",
+   "es": "Final del pasillo"
+  }
+ ],
+ "ID043_sch_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  },
+  {
+   "id": 1,
+   "en": "Gym",
+   "es": "Gimnasio"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "School Store",
+   "es": "Tienda escolar"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom A",
+   "es": "Salón A"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Magician Lab",
+   "es": "Lab. de la Ilusionista Definitiva"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "Basement",
+   "es": "Sótano"
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "End of Hallway",
+   "es": "Final del pasillo"
+  }
+ ],
+ "ID044_sch_2F_text.stx": [
+  {
+   "id": 0,
+   "en": "Classroom B",
+   "es": "Salón B"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Pianist Lab",
+   "es": "Lab. de la Pianista Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Maid Lab",
+   "es": "Lab. de la Sirvienta Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Ultimate Entomologist Lab",
+   "es": "Lab. del Entomólogo Definitivo"
+  },
+  {
+   "id": 4,
+   "en": "1st Floor",
+   "es": "Piso 1"
+  },
+  {
+   "id": 5,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 6,
+   "en": "Bronze Dragon Statue",
+   "es": "Estatua de dragón de bronce"
+  },
+  {
+   "id": 7,
+   "en": "Treasure Chest",
+   "es": "Cofre del tesoro"
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "Classroom C",
+   "es": "Salón C"
+  },
+  {
+   "id": 11,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID045_sch_6F_text.stx": [
+  {
+   "id": 0,
+   "en": "1st Floor Hallway",
+   "es": "Pasillo del piso 1"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Astronaut Lab",
+   "es": "Lab. del Astronauta Definitivo"
+  },
+  {
+   "id": 2,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 3,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID050_sch_B1_text.stx": [
+  {
+   "id": 0,
+   "en": "Library",
+   "es": "Biblioteca"
+  },
+  {
+   "id": 1,
+   "en": "A/V Room",
+   "es": "Sala audiovisual"
+  },
+  {
+   "id": 2,
+   "en": "Game Room",
+   "es": "Sala de Juegos"
+  },
+  {
+   "id": 3,
+   "en": "Library",
+   "es": "Biblioteca"
+  },
+  {
+   "id": 4,
+   "en": "Air Vent",
+   "es": "Rejilla de ventilación"
+  },
+  {
+   "id": 5,
+   "en": "1st Floor",
+   "es": "Piso 1"
+  },
+  {
+   "id": 6,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 7,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID051_sch_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  },
+  {
+   "id": 1,
+   "en": "Gym",
+   "es": "Gimnasio"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "School Store",
+   "es": "Tienda escolar"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom A",
+   "es": "Salón A"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Magician Lab",
+   "es": "Lab. de la Ilusionista Definitiva"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "Basement",
+   "es": "Sótano"
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "End of Hallway",
+   "es": "Final del pasillo"
+  },
+  {
+   "id": 22,
+   "en": "Grass",
+   "es": "Pasto"
+  },
+  {
+   "id": 23,
+   "en": "Rubble",
+   "es": "Escombros"
+  },
+  {
+   "id": 24,
+   "en": "Rubble",
+   "es": "Escombros"
+  },
+  {
+   "id": 25,
+   "en": "Rubble",
+   "es": "Escombros"
+  },
+  {
+   "id": 26,
+   "en": "Rubble",
+   "es": "Escombros"
+  },
+  {
+   "id": 27,
+   "en": "Rubble",
+   "es": "Escombros"
+  },
+  {
+   "id": 28,
+   "en": "Rubble",
+   "es": "Escombros"
+  },
+  {
+   "id": 29,
+   "en": "Rubble",
+   "es": "Escombros"
+  },
+  {
+   "id": 30,
+   "en": "Rubble",
+   "es": "Escombros"
+  },
+  {
+   "id": 31,
+   "en": "Rubble",
+   "es": "Escombros"
+  },
+  {
+   "id": 32,
+   "en": "Hole in the Floor",
+   "es": "Agujero en el piso"
+  }
+ ],
+ "ID052_sch_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  },
+  {
+   "id": 1,
+   "en": "Gym",
+   "es": "Gimnasio"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "School Store",
+   "es": "Tienda escolar"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom A",
+   "es": "Salón A"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Magician Lab",
+   "es": "Lab. de la Ilusionista Definitiva"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "Basement",
+   "es": "Sótano"
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "End of Hallway",
+   "es": "Final del pasillo"
+  },
+  {
+   "id": 22,
+   "en": "Grass",
+   "es": "Pasto"
+  }
+ ],
+ "ID053_sch_2F_text.stx": [
+  {
+   "id": 0,
+   "en": "Classroom B",
+   "es": "Salón B"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Pianist Lab",
+   "es": "Lab. de la Pianista Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Maid Lab",
+   "es": "Lab. de la Sirvienta Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Ultimate Entomologist Lab",
+   "es": "Lab. del Entomólogo Definitivo"
+  },
+  {
+   "id": 4,
+   "en": "1st Floor",
+   "es": "Piso 1"
+  },
+  {
+   "id": 5,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 6,
+   "en": "Bronze Dragon Statue",
+   "es": "Estatua de dragón de bronce"
+  },
+  {
+   "id": 7,
+   "en": "Treasure Chest",
+   "es": "Cofre del tesoro"
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "Classroom C",
+   "es": "Salón C"
+  },
+  {
+   "id": 11,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID054_sch_3F_text.stx": [
+  {
+   "id": 0,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Tennis Pro Lab",
+   "es": "Lab. del Tenista Definitivo"
+  },
+  {
+   "id": 2,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 5,
+   "en": "4th Floor",
+   "es": "Piso 4"
+  },
+  {
+   "id": 6,
+   "en": "Ultimate Assassin Lab",
+   "es": "Lab. de la Asesina Definitiva"
+  },
+  {
+   "id": 7,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID055_sch_4F_text.stx": [
+  {
+   "id": 0,
+   "en": "3rd Floor",
+   "es": "Piso 3"
+  },
+  {
+   "id": 1,
+   "en": "Left Empty Room",
+   "es": "Cuarto vacío izquierdo"
+  },
+  {
+   "id": 2,
+   "en": "Middle Empty Room",
+   "es": "Cuarto vacío de en medio"
+  },
+  {
+   "id": 3,
+   "en": "Right Empty Room",
+   "es": "Cuarto vacío derecho"
+  },
+  {
+   "id": 4,
+   "en": "Computer Room",
+   "es": "Sala de cómputo"
+  },
+  {
+   "id": 5,
+   "en": "Ultimate Anthropologist Lab (Rear)",
+   "es": "Lab. del Antropólogo Definitivo (fondo)"
+  },
+  {
+   "id": 6,
+   "en": "Ultimate Anthropologist Lab",
+   "es": "Lab. del Antropólogo Definitivo"
+  },
+  {
+   "id": 7,
+   "en": "5th Floor",
+   "es": "Piso 5"
+  },
+  {
+   "id": 8,
+   "en": "Ultimate Artist Lab",
+   "es": "Lab. de la Artista Definitiva"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Artist Lab (Rear)",
+   "es": "Lab. de la Artista Definitiva (fondo)"
+  },
+  {
+   "id": 10,
+   "en": "Futuristic Art",
+   "es": "Arte futurista"
+  },
+  {
+   "id": 11,
+   "en": "Hanging Scroll",
+   "es": "Pergamino colgante"
+  },
+  {
+   "id": 12,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 13,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID056_sch_5F_text.stx": [
+  {
+   "id": 0,
+   "en": "Ultimate Cosplayer Lab",
+   "es": "Lab. de la Cosplayer Definitiva"
+  },
+  {
+   "id": 1,
+   "en": "4th Floor",
+   "es": "Piso 4"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Detective Lab",
+   "es": "Lab. del Detective Definitivo"
+  },
+  {
+   "id": 3,
+   "en": "Ultimate ??? Lab",
+   "es": "Laboratorio del ??? Definitivo"
+  },
+  {
+   "id": 4,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 11,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 12,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID058_cave_text.stx": [
+  {
+   "id": 0,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 1,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 2,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 3,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "",
+   "es": ""
+  }
+ ],
+ "ID060_warehousea_text.stx": [
+  {
+   "id": 0,
+   "en": "Sensor",
+   "es": "Sensor"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Shot Put Ball",
+   "es": "Bala de lanzamiento"
+  },
+  {
+   "id": 3,
+   "en": "RC Helicopter",
+   "es": "Helicóptero a control remoto"
+  },
+  {
+   "id": 4,
+   "en": "High Jump Bar",
+   "es": "Barra de salto de altura"
+  },
+  {
+   "id": 5,
+   "en": "Mat",
+   "es": "Colchoneta"
+  },
+  {
+   "id": 6,
+   "en": "Hurdle",
+   "es": "Valla"
+  },
+  {
+   "id": 7,
+   "en": "Disposable Camera",
+   "es": "Cámara desechable"
+  },
+  {
+   "id": 8,
+   "en": "Photographic Developer",
+   "es": "Revelador de fotos"
+  }
+ ],
+ "ID061_classRoom_A_text.stx": [
+  {
+   "id": 0,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 1,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 2,
+   "en": "Teacher's Desk",
+   "es": "Escritorio del maestro"
+  },
+  {
+   "id": 3,
+   "en": "Closed Door",
+   "es": "Puerta cerrada"
+  },
+  {
+   "id": 4,
+   "en": "Open Door",
+   "es": "Puerta abierta"
+  },
+  {
+   "id": 5,
+   "en": "Air Vent",
+   "es": "Rejilla de ventilación"
+  },
+  {
+   "id": 6,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID062_classRoom_B_text.stx": [
+  {
+   "id": 0,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 1,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 2,
+   "en": "Teacher's Desk",
+   "es": "Escritorio del maestro"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 5,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 38,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 39,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 40,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 41,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  }
+ ],
+ "ID063_classRoom_C_text.stx": [
+  {
+   "id": 0,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 1,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 2,
+   "en": "Teacher's Desk",
+   "es": "Escritorio del maestro"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 5,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 38,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 39,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 40,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 41,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  }
+ ],
+ "ID070_sch_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  },
+  {
+   "id": 1,
+   "en": "Gym",
+   "es": "Gimnasio"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "School Store",
+   "es": "Tienda escolar"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom A",
+   "es": "Salón A"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Magician Lab",
+   "es": "Lab. de la Ilusionista Definitiva"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "Basement",
+   "es": "Sótano"
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "End of Hallway",
+   "es": "Final del pasillo"
+  },
+  {
+   "id": 22,
+   "en": "Grass",
+   "es": "Pasto"
+  }
+ ],
+ "ID071_sch_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  },
+  {
+   "id": 1,
+   "en": "Gym",
+   "es": "Gimnasio"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "School Store",
+   "es": "Tienda escolar"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom A",
+   "es": "Salón A"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Magician Lab",
+   "es": "Lab. de la Ilusionista Definitiva"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "Basement",
+   "es": "Sótano"
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "End of Hallway",
+   "es": "Final del pasillo"
+  },
+  {
+   "id": 22,
+   "en": "Overgrown Grass",
+   "es": "Pasto crecido"
+  }
+ ],
+ "ID072_sch_2F_text.stx": [
+  {
+   "id": 0,
+   "en": "Classroom B",
+   "es": "Salón B"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Pianist Lab",
+   "es": "Lab. de la Pianista Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Maid Lab",
+   "es": "Lab. de la Sirvienta Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Ultimate Entomologist Lab",
+   "es": "Lab. del Entomólogo Definitivo"
+  },
+  {
+   "id": 4,
+   "en": "1st Floor",
+   "es": "Piso 1"
+  },
+  {
+   "id": 5,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 6,
+   "en": "Bronze Dragon Statue",
+   "es": "Estatua de dragón de bronce"
+  },
+  {
+   "id": 7,
+   "en": "Treasure Chest",
+   "es": "Cofre del tesoro"
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "Classroom C",
+   "es": "Salón C"
+  },
+  {
+   "id": 11,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID073_sch_3F_text.stx": [
+  {
+   "id": 0,
+   "en": "Stairs",
+   "es": "Escaleras"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Tennis Pro Lab",
+   "es": "Lab. del Tenista Definitivo"
+  },
+  {
+   "id": 2,
+   "en": "Kaito Lab ※Already removed",
+   "es": "Laboratorio de Kaito ※Ya eliminado"
+  },
+  {
+   "id": 3,
+   "en": "3F Research Lab A ※Already removed",
+   "es": "Laboratorio A del piso 3 ※Ya eliminado"
+  },
+  {
+   "id": 4,
+   "en": "3F Research Lab B ※Already removed",
+   "es": "Laboratorio B del piso 3 ※Ya eliminado"
+  },
+  {
+   "id": 5,
+   "en": "Stairs",
+   "es": "Escaleras"
+  },
+  {
+   "id": 6,
+   "en": "Ultimate Assassin Lab",
+   "es": "Lab. de la Asesina Definitiva"
+  },
+  {
+   "id": 7,
+   "en": "Large Door",
+   "es": "Puerta grande"
+  },
+  {
+   "id": 8,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 9,
+   "en": "？？？",
+   "es": ""
+  }
+ ],
+ "ID074_sch_B1_text.stx": [
+  {
+   "id": 0,
+   "en": "Library",
+   "es": "Biblioteca"
+  },
+  {
+   "id": 1,
+   "en": "A/V Room",
+   "es": "Sala audiovisual"
+  },
+  {
+   "id": 2,
+   "en": "Game Room",
+   "es": "Sala de Juegos"
+  },
+  {
+   "id": 3,
+   "en": "Library",
+   "es": "Biblioteca"
+  },
+  {
+   "id": 4,
+   "en": "Air Vent",
+   "es": "Rejilla de ventilación"
+  },
+  {
+   "id": 5,
+   "en": "1st Floor",
+   "es": "Piso 1"
+  },
+  {
+   "id": 6,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 7,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID076_wc_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Utility Closet",
+   "es": "Cuarto de servicio"
+  },
+  {
+   "id": 2,
+   "en": "Utility Closet",
+   "es": "Cuarto de servicio"
+  },
+  {
+   "id": 3,
+   "en": "Utility Closet Wall",
+   "es": "Pared del cuarto de servicio"
+  },
+  {
+   "id": 4,
+   "en": "Utility Closet Wall",
+   "es": "Pared del cuarto de servicio"
+  },
+  {
+   "id": 5,
+   "en": "Hidden Passage Entrance",
+   "es": "Entrada al pasadizo secreto"
+  }
+ ],
+ "ID100_residence_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 2,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 5,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 6,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 7,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 8,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 9,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 12,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 13,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 14,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 15,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 16,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 17,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID101_Private_00_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Bed",
+   "es": "Cama"
+  },
+  {
+   "id": 3,
+   "en": "Lighting",
+   "es": "Iluminación"
+  },
+  {
+   "id": 4,
+   "en": "Closet",
+   "es": "Clóset"
+  },
+  {
+   "id": 5,
+   "en": "Shelf",
+   "es": "Estante"
+  },
+  {
+   "id": 6,
+   "en": "Hidden Monokuma No. 1",
+   "es": "Monokuma oculto #1"
+  },
+  {
+   "id": 7,
+   "en": "Hidden Monokuma No. 2",
+   "es": "Monokuma oculto #2"
+  },
+  {
+   "id": 8,
+   "en": "Hidden Monokuma No. 3",
+   "es": "Monokuma oculto #3"
+  },
+  {
+   "id": 9,
+   "en": "Hidden Monokuma No. 4",
+   "es": "Monokuma oculto #4"
+  },
+  {
+   "id": 10,
+   "en": "Hidden Monokuma No. 5",
+   "es": "Monokuma oculto #5"
+  },
+  {
+   "id": 11,
+   "en": "Hidden Monokuma No. 6",
+   "es": "Monokuma oculto #6"
+  },
+  {
+   "id": 12,
+   "en": "Hidden Monokuma No. 7",
+   "es": "Monokuma oculto #7"
+  },
+  {
+   "id": 13,
+   "en": "Hidden Monokuma No. 8",
+   "es": "Monokuma oculto #8"
+  },
+  {
+   "id": 14,
+   "en": "Hidden Monokuma No. 9",
+   "es": "Monokuma oculto #9"
+  },
+  {
+   "id": 15,
+   "en": "Hidden Monokuma No. 10",
+   "es": "Monokuma oculto #10"
+  },
+  {
+   "id": 16,
+   "en": "Hidden Monokuma No. 11",
+   "es": "Monokuma oculto #11"
+  },
+  {
+   "id": 17,
+   "en": "Hidden Monokuma No. 12",
+   "es": "Monokuma oculto #12"
+  },
+  {
+   "id": 18,
+   "en": "Hidden Monokuma No. 13",
+   "es": "Monokuma oculto #13"
+  },
+  {
+   "id": 19,
+   "en": "Hidden Monokuma No. 14",
+   "es": "Monokuma oculto #14"
+  },
+  {
+   "id": 20,
+   "en": "Hidden Monokuma No. 15",
+   "es": "Monokuma oculto #15"
+  },
+  {
+   "id": 21,
+   "en": "Hidden Monokuma No. 16",
+   "es": "Monokuma oculto #16"
+  },
+  {
+   "id": 22,
+   "en": "Hidden Monokuma No. 17",
+   "es": "Monokuma oculto #17"
+  },
+  {
+   "id": 23,
+   "en": "Hidden Monokuma No. 18",
+   "es": "Monokuma oculto #18"
+  },
+  {
+   "id": 24,
+   "en": "Hidden Monokuma No. 19",
+   "es": "Monokuma oculto #19"
+  },
+  {
+   "id": 25,
+   "en": "Hidden Monokuma No. 20",
+   "es": "Monokuma oculto #20"
+  },
+  {
+   "id": 26,
+   "en": "Hidden Monokuma No. 21",
+   "es": "Monokuma oculto #21"
+  },
+  {
+   "id": 27,
+   "en": "Hidden Monokuma No. 22",
+   "es": "Monokuma oculto #22"
+  },
+  {
+   "id": 28,
+   "en": "Hidden Monokuma No. 23",
+   "es": "Monokuma oculto #23"
+  },
+  {
+   "id": 29,
+   "en": "Hidden Monokuma No. 24",
+   "es": "Monokuma oculto #24"
+  },
+  {
+   "id": 30,
+   "en": "Hidden Monokuma No. 25",
+   "es": "Monokuma oculto #25"
+  },
+  {
+   "id": 31,
+   "en": "Hidden Monokuma No. 26",
+   "es": "Monokuma oculto #26"
+  },
+  {
+   "id": 32,
+   "en": "Hidden Monokuma No. 27",
+   "es": "Monokuma oculto #27"
+  },
+  {
+   "id": 33,
+   "en": "Hidden Monokuma No. 28",
+   "es": "Monokuma oculto #28"
+  },
+  {
+   "id": 34,
+   "en": "Hidden Monokuma No. 29",
+   "es": "Monokuma oculto #29"
+  },
+  {
+   "id": 35,
+   "en": "Hidden Monokuma No. 30",
+   "es": "Monokuma oculto #30"
+  },
+  {
+   "id": 42,
+   "en": "Kubs Pad",
+   "es": "Kubs Pad"
+  },
+  {
+   "id": 43,
+   "en": "Electrohammer",
+   "es": "Electromartillo"
+  },
+  {
+   "id": 44,
+   "en": "Electrohammer",
+   "es": "Electromartillo"
+  }
+ ],
+ "ID103_Private_02_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Bed",
+   "es": "Cama"
+  },
+  {
+   "id": 3,
+   "en": "Lighting",
+   "es": "Iluminación"
+  },
+  {
+   "id": 4,
+   "en": "Closet",
+   "es": "Clóset"
+  },
+  {
+   "id": 5,
+   "en": "Sofa",
+   "es": "Sofá"
+  },
+  {
+   "id": 6,
+   "en": "Table",
+   "es": "Mesa"
+  },
+  {
+   "id": 7,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 8,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 9,
+   "en": "Drawer",
+   "es": "Cajón"
+  },
+  {
+   "id": 10,
+   "en": "Drawer",
+   "es": "Cajón"
+  },
+  {
+   "id": 11,
+   "en": "Indirect Lighting",
+   "es": "Iluminación indirecta"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID106_Private_05_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Bed",
+   "es": "Cama"
+  },
+  {
+   "id": 3,
+   "en": "Lighting",
+   "es": "Iluminación"
+  },
+  {
+   "id": 4,
+   "en": "Closet",
+   "es": "Clóset"
+  },
+  {
+   "id": 5,
+   "en": "Sofa",
+   "es": "Sofá"
+  },
+  {
+   "id": 6,
+   "en": "Table",
+   "es": "Mesa"
+  },
+  {
+   "id": 7,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 8,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 9,
+   "en": "Indirect Lighting",
+   "es": "Iluminación indirecta"
+  },
+  {
+   "id": 10,
+   "en": "Drawer",
+   "es": "Cajón"
+  },
+  {
+   "id": 11,
+   "en": "Trash Can",
+   "es": "Bote de basura"
+  },
+  {
+   "id": 12,
+   "en": "Collected Evidence",
+   "es": "Pruebas reunidas"
+  },
+  {
+   "id": 13,
+   "en": "Box of Documents",
+   "es": "Caja de documentos"
+  },
+  {
+   "id": 14,
+   "en": "Kubs Pad",
+   "es": "Kubs Pad"
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID116_Private_15_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Bed",
+   "es": "Cama"
+  },
+  {
+   "id": 3,
+   "en": "Lighting",
+   "es": "Iluminación"
+  },
+  {
+   "id": 4,
+   "en": "Closet",
+   "es": "Clóset"
+  },
+  {
+   "id": 12,
+   "en": "Key",
+   "es": "Llave"
+  },
+  {
+   "id": 13,
+   "en": "Key Stand",
+   "es": "Soporte de la llave"
+  }
+ ],
+ "ID130_lab_saihara_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Chemicals Shelf",
+   "es": "Estante de químicos"
+  },
+  {
+   "id": 2,
+   "en": "Bookshelf",
+   "es": "Estante de libros"
+  },
+  {
+   "id": 3,
+   "en": "Table",
+   "es": "Mesa"
+  },
+  {
+   "id": 4,
+   "en": "Table",
+   "es": "Mesa"
+  },
+  {
+   "id": 5,
+   "en": "Table",
+   "es": "Mesa"
+  },
+  {
+   "id": 6,
+   "en": "Sofa",
+   "es": "Sofá"
+  },
+  {
+   "id": 7,
+   "en": "Sofa",
+   "es": "Sofá"
+  },
+  {
+   "id": 8,
+   "en": "Rocking Chair",
+   "es": "Mecedora"
+  },
+  {
+   "id": 9,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 10,
+   "en": "Things on the Desk",
+   "es": "Cosas en el escritorio"
+  },
+  {
+   "id": 11,
+   "en": "Things on the Desk",
+   "es": "Cosas en el escritorio"
+  },
+  {
+   "id": 12,
+   "en": "Things on the Desk",
+   "es": "Cosas en el escritorio"
+  },
+  {
+   "id": 13,
+   "en": "Things on the Desk",
+   "es": "Cosas en el escritorio"
+  },
+  {
+   "id": 14,
+   "en": "Things on the Desk",
+   "es": "Cosas en el escritorio"
+  },
+  {
+   "id": 15,
+   "en": "Things on the Desk",
+   "es": "Cosas en el escritorio"
+  },
+  {
+   "id": 16,
+   "en": "Things on the Desk",
+   "es": "Cosas en el escritorio"
+  },
+  {
+   "id": 17,
+   "en": "Clock",
+   "es": "Reloj"
+  },
+  {
+   "id": 18,
+   "en": "Indirect Lighting",
+   "es": "Iluminación indirecta"
+  },
+  {
+   "id": 19,
+   "en": "Small Glass Bottles",
+   "es": "Frasquitos de vidrio"
+  }
+ ],
+ "ID131_lab_momota_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 2,
+   "en": "Cockpit",
+   "es": "Cabina"
+  },
+  {
+   "id": 3,
+   "en": "Planetarium Device",
+   "es": "Proyector de planetario"
+  },
+  {
+   "id": 4,
+   "en": "Mysterious Machine",
+   "es": "Máquina misteriosa"
+  },
+  {
+   "id": 5,
+   "en": "Mysterious Machine",
+   "es": "Máquina misteriosa"
+  },
+  {
+   "id": 6,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 7,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 8,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 9,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 10,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 11,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 12,
+   "en": "Large Hole",
+   "es": "Agujero grande"
+  }
+ ],
+ "ID132_lab_hoshi_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Door to Hallway",
+   "es": "Puerta al pasillo"
+  },
+  {
+   "id": 2,
+   "en": "Shower Room",
+   "es": "Regaderas"
+  },
+  {
+   "id": 3,
+   "en": "Tennis Net",
+   "es": "Red de tenis"
+  },
+  {
+   "id": 4,
+   "en": "Tennis Net",
+   "es": "Red de tenis"
+  },
+  {
+   "id": 6,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "",
+   "es": ""
+  },
+  {
+   "id": 24,
+   "en": "Bundled Cord",
+   "es": "Cable enrollado"
+  }
+ ],
+ "ID134_lab_hoshi_shower_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 2,
+   "en": "Handcuffs",
+   "es": "Esposas"
+  },
+  {
+   "id": 3,
+   "en": "Sink",
+   "es": "Lavabo"
+  },
+  {
+   "id": 4,
+   "en": "Closed Window",
+   "es": "Ventana cerrada"
+  },
+  {
+   "id": 5,
+   "en": "Open Window",
+   "es": "Ventana abierta"
+  },
+  {
+   "id": 6,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID135_lab_amami_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Laptop",
+   "es": "Laptop"
+  },
+  {
+   "id": 2,
+   "en": "Giant Vault",
+   "es": "Bóveda gigante"
+  },
+  {
+   "id": 3,
+   "en": "Monokuma USB",
+   "es": "USB de Monokuma"
+  },
+  {
+   "id": 4,
+   "en": "Fake Money",
+   "es": "Dinero falso"
+  },
+  {
+   "id": 5,
+   "en": "Russian Roulette Gun",
+   "es": "Pistola de ruleta rusa"
+  },
+  {
+   "id": 6,
+   "en": "Dealer Mask",
+   "es": "Máscara de crupier"
+  },
+  {
+   "id": 7,
+   "en": "Hanging Paper",
+   "es": "Papel colgado"
+  }
+ ],
+ "ID136_lab_gokuhara_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Insect Specimens",
+   "es": "Especímenes de insectos"
+  },
+  {
+   "id": 2,
+   "en": "Arranged Books",
+   "es": "Libros acomodados"
+  },
+  {
+   "id": 3,
+   "en": "Bug Cage",
+   "es": "Jaula de insectos"
+  },
+  {
+   "id": 4,
+   "en": "Door to Hallway",
+   "es": "Puerta al pasillo"
+  },
+  {
+   "id": 5,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID137_lab_oma_text.stx": [
+  {
+   "id": 0,
+   "en": "Showcase",
+   "es": "Exhibidor"
+  },
+  {
+   "id": 1,
+   "en": "Shelf",
+   "es": "Estante"
+  },
+  {
+   "id": 2,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 3,
+   "en": "Supercar",
+   "es": "Superauto"
+  },
+  {
+   "id": 4,
+   "en": "Central Chair",
+   "es": "Silla central"
+  },
+  {
+   "id": 5,
+   "en": "Cave Wall",
+   "es": "Pared de la cueva"
+  },
+  {
+   "id": 6,
+   "en": "Emblem",
+   "es": "Emblema"
+  },
+  {
+   "id": 7,
+   "en": "Book",
+   "es": "Libro"
+  },
+  {
+   "id": 8,
+   "en": "Helicopter",
+   "es": "Helicóptero"
+  },
+  {
+   "id": 9,
+   "en": "Helicopter Controller",
+   "es": "Control del helicóptero"
+  }
+ ],
+ "ID138_lab_shinguji_text.stx": [
+  {
+   "id": 0,
+   "en": "Door to Hallway",
+   "es": "Puerta al pasillo"
+  },
+  {
+   "id": 1,
+   "en": "Back Door",
+   "es": "Puerta trasera"
+  },
+  {
+   "id": 2,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 3,
+   "en": "Dog Statue",
+   "es": "Estatua de perro"
+  },
+  {
+   "id": 4,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 5,
+   "en": "Cloth",
+   "es": "Tela"
+  },
+  {
+   "id": 6,
+   "en": "Metal Cage",
+   "es": "Jaula de metal"
+  },
+  {
+   "id": 7,
+   "en": "Gold Leaf Katana",
+   "es": "Katana con hoja de oro"
+  },
+  {
+   "id": 8,
+   "en": "Exhibit Case",
+   "es": "Vitrina"
+  },
+  {
+   "id": 9,
+   "en": "Bookshelf",
+   "es": "Estante de libros"
+  },
+  {
+   "id": 10,
+   "en": "Book",
+   "es": "Libro"
+  },
+  {
+   "id": 11,
+   "en": "Folded Cloth",
+   "es": "Tela doblada"
+  },
+  {
+   "id": 12,
+   "en": "Showcase",
+   "es": "Exhibidor"
+  },
+  {
+   "id": 13,
+   "en": "Exhibit Case",
+   "es": "Vitrina"
+  },
+  {
+   "id": 14,
+   "en": "Showcase",
+   "es": "Exhibidor"
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 21,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID146_lab_Ki-Bo_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 2,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 3,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID147_lab_tojo_text.stx": [
+  {
+   "id": 0,
+   "en": "Washing Machine",
+   "es": "Lavadora"
+  },
+  {
+   "id": 1,
+   "en": "Cleaning Machine",
+   "es": "Máquina de limpieza"
+  },
+  {
+   "id": 2,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 3,
+   "en": "Closet Door",
+   "es": "Puerta del clóset"
+  },
+  {
+   "id": 4,
+   "en": "Closet Door",
+   "es": "Puerta del clóset"
+  },
+  {
+   "id": 5,
+   "en": "Small Table",
+   "es": "Mesita"
+  },
+  {
+   "id": 6,
+   "en": "Cabinet 1",
+   "es": "Gabinete 1"
+  },
+  {
+   "id": 7,
+   "en": "Dining Table",
+   "es": "Mesa del comedor"
+  },
+  {
+   "id": 8,
+   "en": "Small Table",
+   "es": "Mesita"
+  },
+  {
+   "id": 9,
+   "en": "Sofa",
+   "es": "Sofá"
+  },
+  {
+   "id": 10,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 11,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 12,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 13,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 14,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 15,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 16,
+   "en": "Cabinet 1",
+   "es": "Gabinete 1"
+  },
+  {
+   "id": 17,
+   "en": "Sofa",
+   "es": "Sofá"
+  },
+  {
+   "id": 18,
+   "en": "Small Table",
+   "es": "Mesita"
+  },
+  {
+   "id": 19,
+   "en": "Work Table",
+   "es": "Mesa de trabajo"
+  },
+  {
+   "id": 20,
+   "en": "Family",
+   "es": "Familia"
+  },
+  {
+   "id": 21,
+   "en": "Family",
+   "es": "Familia"
+  },
+  {
+   "id": 22,
+   "en": "Family",
+   "es": "Familia"
+  },
+  {
+   "id": 23,
+   "en": "Family",
+   "es": "Familia"
+  },
+  {
+   "id": 24,
+   "en": "Child",
+   "es": "Niño"
+  },
+  {
+   "id": 25,
+   "en": "Chandelier",
+   "es": "Candelabro"
+  },
+  {
+   "id": 26,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  }
+ ],
+ "ID148_lab_yumeno_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Cauldron",
+   "es": "Caldero"
+  },
+  {
+   "id": 2,
+   "en": "Saw",
+   "es": "Sierra"
+  },
+  {
+   "id": 3,
+   "en": "Sword Stabbing Box",
+   "es": "Caja de espadas"
+  },
+  {
+   "id": 4,
+   "en": "Body Sawing Box",
+   "es": "Caja para cortar personas"
+  },
+  {
+   "id": 5,
+   "en": "Birdcage",
+   "es": "Jaula de pájaros"
+  },
+  {
+   "id": 6,
+   "en": "Guillotine",
+   "es": "Guillotina"
+  },
+  {
+   "id": 7,
+   "en": "Small Water Tank",
+   "es": "Tanque de agua pequeño"
+  },
+  {
+   "id": 8,
+   "en": "Large Water Tank",
+   "es": "Tanque de agua grande"
+  },
+  {
+   "id": 9,
+   "en": "Large Water Tank",
+   "es": "Tanque de agua grande"
+  },
+  {
+   "id": 10,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID149_lab_yumeno_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Large Water Tank",
+   "es": "Tanque de agua grande"
+  },
+  {
+   "id": 2,
+   "en": "Large Water Tank",
+   "es": "Tanque de agua grande"
+  },
+  {
+   "id": 3,
+   "en": "Saw",
+   "es": "Sierra"
+  },
+  {
+   "id": 4,
+   "en": "Body Sawing Box",
+   "es": "Caja para cortar personas"
+  },
+  {
+   "id": 5,
+   "en": "Sword Stabbing Box",
+   "es": "Caja de espadas"
+  },
+  {
+   "id": 6,
+   "en": "Birdcage",
+   "es": "Jaula de pájaros"
+  },
+  {
+   "id": 7,
+   "en": "Small Water Tank",
+   "es": "Tanque de agua pequeño"
+  },
+  {
+   "id": 8,
+   "en": "Large Water Tank",
+   "es": "Tanque de agua grande"
+  },
+  {
+   "id": 9,
+   "en": "Large Water Tank",
+   "es": "Tanque de agua grande"
+  },
+  {
+   "id": 10,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID150_lab_harukawa_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Black Case",
+   "es": "Estuche negro"
+  },
+  {
+   "id": 2,
+   "en": "Black Case",
+   "es": "Estuche negro"
+  },
+  {
+   "id": 3,
+   "en": "Weapon Shelf",
+   "es": "Estante de armas"
+  },
+  {
+   "id": 4,
+   "en": "Weapon Shelf",
+   "es": "Estante de armas"
+  },
+  {
+   "id": 14,
+   "en": "Firearms",
+   "es": "Armas de fuego"
+  },
+  {
+   "id": 15,
+   "en": "Weapon Shelf",
+   "es": "Estante de armas"
+  }
+ ],
+ "ID151_lab_chabasira_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Giant Wooden Doll",
+   "es": "Muñeco de madera gigante"
+  },
+  {
+   "id": 2,
+   "en": "Mat",
+   "es": "Colchoneta"
+  },
+  {
+   "id": 3,
+   "en": "Neon Signboard",
+   "es": "Letrero de neón"
+  },
+  {
+   "id": 4,
+   "en": "Pole Scaffold",
+   "es": "Andamio de tubos"
+  },
+  {
+   "id": 5,
+   "en": "Suspended Scaffold",
+   "es": "Andamio colgante"
+  },
+  {
+   "id": 19,
+   "en": "Neon Signboard",
+   "es": "Letrero de neón"
+  },
+  {
+   "id": 20,
+   "en": "Neon Signboard",
+   "es": "Letrero de neón"
+  },
+  {
+   "id": 21,
+   "en": "Neon Signboard",
+   "es": "Letrero de neón"
+  },
+  {
+   "id": 22,
+   "en": "Balance Pole",
+   "es": "Barra de equilibrio"
+  },
+  {
+   "id": 23,
+   "en": "Balance Pole",
+   "es": "Barra de equilibrio"
+  }
+ ],
+ "ID152_lab_shirogane_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Giant Studio Set",
+   "es": "Set de estudio gigante"
+  },
+  {
+   "id": 2,
+   "en": "Bar Set",
+   "es": "Barra de bar"
+  },
+  {
+   "id": 3,
+   "en": "Filming Set",
+   "es": "Set de filmación"
+  },
+  {
+   "id": 4,
+   "en": "Workshop",
+   "es": "Taller"
+  },
+  {
+   "id": 5,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID153_lab_yonaga_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Lump of Wax",
+   "es": "Trozo de cera"
+  },
+  {
+   "id": 2,
+   "en": "Front Door",
+   "es": "Puerta principal"
+  },
+  {
+   "id": 3,
+   "en": "Back Door",
+   "es": "Puerta trasera"
+  },
+  {
+   "id": 4,
+   "en": "Wax Doll of Ryoma",
+   "es": "Muñeco de cera de Ryoma"
+  },
+  {
+   "id": 5,
+   "en": "Wax Doll of Rantaro",
+   "es": "Muñeco de cera de Rantaro"
+  },
+  {
+   "id": 6,
+   "en": "Wax Doll of Kirumi",
+   "es": "Muñeca de cera de Kirumi"
+  },
+  {
+   "id": 7,
+   "en": "Wax Doll of Kaede",
+   "es": "Muñeca de cera de Kaede"
+  },
+  {
+   "id": 8,
+   "en": "Hanging Wax Doll of Ryoma",
+   "es": "Muñeco de cera colgado de Ryoma"
+  },
+  {
+   "id": 9,
+   "en": "Hanging Wax Doll of Rantaro",
+   "es": "Muñeco de cera colgado de Rantaro"
+  },
+  {
+   "id": 10,
+   "en": "Hanging Wax Doll of Kirumi",
+   "es": "Muñeca de cera colgada de Kirumi"
+  },
+  {
+   "id": 11,
+   "en": "Hanging Wax Doll of Kaede",
+   "es": "Muñeca de cera colgada de Kaede"
+  },
+  {
+   "id": 12,
+   "en": "Necronomicon",
+   "es": "Necronomicón"
+  },
+  {
+   "id": 13,
+   "en": "Angie's Body",
+   "es": "Cuerpo de Angie"
+  },
+  {
+   "id": 14,
+   "en": "Pool of Blood",
+   "es": "Charco de sangre"
+  },
+  {
+   "id": 15,
+   "en": "Katana",
+   "es": "Katana"
+  },
+  {
+   "id": 39,
+   "en": "Necronomicon",
+   "es": "Necronomicón"
+  },
+  {
+   "id": 40,
+   "en": "Necronomicon",
+   "es": "Necronomicón"
+  },
+  {
+   "id": 41,
+   "en": "Angie's Body",
+   "es": "Cuerpo de Angie"
+  },
+  {
+   "id": 42,
+   "en": "Angie's Body",
+   "es": "Cuerpo de Angie"
+  }
+ ],
+ "ID154_lab_iruma_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Bed",
+   "es": "Cama"
+  },
+  {
+   "id": 2,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 3,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID155_lab_akamatu_text.stx": [
+  {
+   "id": 0,
+   "en": "Speakers",
+   "es": "Bocinas"
+  },
+  {
+   "id": 1,
+   "en": "CD Rack",
+   "es": "Estante de CD"
+  },
+  {
+   "id": 2,
+   "en": "Piano",
+   "es": "Piano"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 5,
+   "en": "Music Stand",
+   "es": "Atril"
+  },
+  {
+   "id": 6,
+   "en": "Music Stand",
+   "es": "Atril"
+  },
+  {
+   "id": 7,
+   "en": "Music Stand",
+   "es": "Atril"
+  },
+  {
+   "id": 8,
+   "en": "Music Stand",
+   "es": "Atril"
+  },
+  {
+   "id": 9,
+   "en": "Music Stand",
+   "es": "Atril"
+  },
+  {
+   "id": 10,
+   "en": "Music Stand",
+   "es": "Atril"
+  },
+  {
+   "id": 11,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 12,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 13,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 14,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 15,
+   "en": "Chair",
+   "es": "Silla"
+  }
+ ],
+ "ID156_lab_yonaga_af_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Lump of Wax",
+   "es": "Trozo de cera"
+  },
+  {
+   "id": 2,
+   "en": "Front Door",
+   "es": "Puerta principal"
+  },
+  {
+   "id": 3,
+   "en": "Back Door",
+   "es": "Puerta trasera"
+  },
+  {
+   "id": 4,
+   "en": "Wax Doll of Ryoma",
+   "es": "Muñeco de cera de Ryoma"
+  },
+  {
+   "id": 5,
+   "en": "Wax Doll of Rantaro",
+   "es": "Muñeco de cera de Rantaro"
+  },
+  {
+   "id": 6,
+   "en": "Wax Doll of Kirumi",
+   "es": "Muñeca de cera de Kirumi"
+  },
+  {
+   "id": 7,
+   "en": "Wax Doll of Kaede",
+   "es": "Muñeca de cera de Kaede"
+  },
+  {
+   "id": 8,
+   "en": "Hanging Wax Doll of Ryoma",
+   "es": "Muñeco de cera colgado de Ryoma"
+  },
+  {
+   "id": 9,
+   "en": "Hanging Wax Doll of Rantaro",
+   "es": "Muñeco de cera colgado de Rantaro"
+  },
+  {
+   "id": 10,
+   "en": "Hanging Wax Doll of Kirumi",
+   "es": "Muñeca de cera colgada de Kirumi"
+  },
+  {
+   "id": 11,
+   "en": "Hanging Wax Doll of Kaede",
+   "es": "Muñeca de cera colgada de Kaede"
+  },
+  {
+   "id": 12,
+   "en": "Necronomicon",
+   "es": "Necronomicón"
+  },
+  {
+   "id": 13,
+   "en": "Angie's Body",
+   "es": "Cuerpo de Angie"
+  },
+  {
+   "id": 14,
+   "en": "Pool of Blood",
+   "es": "Charco de sangre"
+  },
+  {
+   "id": 15,
+   "en": "Katana",
+   "es": "Katana"
+  },
+  {
+   "id": 39,
+   "en": "Necronomicon",
+   "es": "Necronomicón"
+  },
+  {
+   "id": 40,
+   "en": "Necronomicon",
+   "es": "Necronomicón"
+  },
+  {
+   "id": 41,
+   "en": "Angie's Body",
+   "es": "Cuerpo de Angie"
+  },
+  {
+   "id": 42,
+   "en": "Angie's Body",
+   "es": "Cuerpo de Angie"
+  }
+ ],
+ "ID190_pool_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 2,
+   "en": "Storage Room Door",
+   "es": "Puerta de la bodega"
+  },
+  {
+   "id": 3,
+   "en": "Gym Window",
+   "es": "Ventana del gimnasio"
+  },
+  {
+   "id": 4,
+   "en": "School Building Window",
+   "es": "Ventana del edificio escolar"
+  },
+  {
+   "id": 5,
+   "en": "Diving Board",
+   "es": "Trampolín"
+  },
+  {
+   "id": 6,
+   "en": "Rules Sign",
+   "es": "Letrero de reglas"
+  },
+  {
+   "id": 7,
+   "en": "Pool Entrance",
+   "es": "Entrada a la alberca"
+  },
+  {
+   "id": 8,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID191_pool_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 2,
+   "en": "Storage Room Door",
+   "es": "Puerta de la bodega"
+  },
+  {
+   "id": 3,
+   "en": "Gym Window",
+   "es": "Ventana del gimnasio"
+  },
+  {
+   "id": 4,
+   "en": "School Building Window",
+   "es": "Ventana del edificio escolar"
+  },
+  {
+   "id": 5,
+   "en": "Diving Board",
+   "es": "Trampolín"
+  },
+  {
+   "id": 6,
+   "en": "Rules Sign",
+   "es": "Letrero de reglas"
+  },
+  {
+   "id": 7,
+   "en": "Pool Entrance",
+   "es": "Entrada a la alberca"
+  },
+  {
+   "id": 8,
+   "en": "Innertube",
+   "es": "Flotador"
+  },
+  {
+   "id": 9,
+   "en": "Bits of Fabric",
+   "es": "Trozos de tela"
+  },
+  {
+   "id": 10,
+   "en": "School Building Window",
+   "es": "Ventana del edificio escolar"
+  }
+ ],
+ "ID200_computer_A_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Computer",
+   "es": "Computadora"
+  },
+  {
+   "id": 2,
+   "en": "Treasure Chest",
+   "es": "Cofre del tesoro"
+  },
+  {
+   "id": 3,
+   "en": "Treasure Chest",
+   "es": "Cofre del tesoro"
+  },
+  {
+   "id": 4,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID201_computer_B_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Computer",
+   "es": "Computadora"
+  },
+  {
+   "id": 2,
+   "en": "Treasure Chest",
+   "es": "Cofre del tesoro"
+  },
+  {
+   "id": 3,
+   "en": "Treasure Chest",
+   "es": "Cofre del tesoro"
+  },
+  {
+   "id": 4,
+   "en": "Small Bottle",
+   "es": "Frasco pequeño"
+  },
+  {
+   "id": 5,
+   "en": "Near Miu's Body",
+   "es": "Cerca del cuerpo de Miu"
+  },
+  {
+   "id": 6,
+   "en": "Near Miu's Body",
+   "es": "Cerca del cuerpo de Miu"
+  },
+  {
+   "id": 7,
+   "en": "Visor",
+   "es": "Visor"
+  },
+  {
+   "id": 8,
+   "en": "Visor",
+   "es": "Visor"
+  },
+  {
+   "id": 9,
+   "en": "Cable In",
+   "es": "Entrada de cable"
+  },
+  {
+   "id": 10,
+   "en": "Cable Out",
+   "es": "Salida de cable"
+  }
+ ],
+ "ID220_hangar_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Painting Machine",
+   "es": "Máquina de pintar"
+  },
+  {
+   "id": 2,
+   "en": "Washing Machine",
+   "es": "Lavadora"
+  },
+  {
+   "id": 3,
+   "en": "Toilet",
+   "es": "Excusado"
+  },
+  {
+   "id": 4,
+   "en": "Hydraulic Press",
+   "es": "Prensa hidráulica"
+  },
+  {
+   "id": 5,
+   "en": "Hydraulic Press",
+   "es": "Prensa hidráulica"
+  },
+  {
+   "id": 6,
+   "en": "Press Operation Panel",
+   "es": "Panel de control de la prensa"
+  },
+  {
+   "id": 7,
+   "en": "Exisal Red",
+   "es": "Exisal rojo"
+  },
+  {
+   "id": 8,
+   "en": "Exisal Green",
+   "es": "Exisal verde"
+  },
+  {
+   "id": 9,
+   "en": "Exisal Pink",
+   "es": "Exisal rosa"
+  },
+  {
+   "id": 10,
+   "en": "Exisal Yellow",
+   "es": "Exisal amarillo"
+  },
+  {
+   "id": 11,
+   "en": "Exisal Blue",
+   "es": "Exisal azul"
+  },
+  {
+   "id": 12,
+   "en": "Exisal Green",
+   "es": "Exisal verde"
+  },
+  {
+   "id": 13,
+   "en": "Operation Panel",
+   "es": "Panel de control"
+  },
+  {
+   "id": 14,
+   "en": "Bit of Clothing",
+   "es": "Trozo de ropa"
+  },
+  {
+   "id": 15,
+   "en": "Traces of Blood",
+   "es": "Rastros de sangre"
+  },
+  {
+   "id": 16,
+   "en": "Trap",
+   "es": "Trampa"
+  },
+  {
+   "id": 17,
+   "en": "Trap",
+   "es": "Trampa"
+  },
+  {
+   "id": 18,
+   "en": "Trap",
+   "es": "Trampa"
+  },
+  {
+   "id": 19,
+   "en": "Trap",
+   "es": "Trampa"
+  },
+  {
+   "id": 20,
+   "en": "Trap",
+   "es": "Trampa"
+  },
+  {
+   "id": 21,
+   "en": "Torn Power Cord",
+   "es": "Cable de corriente roto"
+  },
+  {
+   "id": 22,
+   "en": "Crane",
+   "es": "Grúa"
+  },
+  {
+   "id": 23,
+   "en": "Hydraulic Press",
+   "es": "Prensa hidráulica"
+  }
+ ],
+ "ID222_hangar_wc_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 2,
+   "en": "Crossbow",
+   "es": "Ballesta"
+  },
+  {
+   "id": 3,
+   "en": "Black Case",
+   "es": "Estuche negro"
+  },
+  {
+   "id": 4,
+   "en": "Crossbow Arrow",
+   "es": "Flecha de ballesta"
+  },
+  {
+   "id": 5,
+   "en": "Glass Bottle",
+   "es": "Botella de vidrio"
+  },
+  {
+   "id": 6,
+   "en": "Kokichi's Clothes",
+   "es": "Ropa de Kokichi"
+  },
+  {
+   "id": 7,
+   "en": "Traces of Blood",
+   "es": "Rastros de sangre"
+  },
+  {
+   "id": 8,
+   "en": "Toilet",
+   "es": "Excusado"
+  }
+ ],
+ "ID240_casino_1f_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Underground Stairs",
+   "es": "Escaleras subterráneas"
+  },
+  {
+   "id": 2,
+   "en": "Exchange Counter",
+   "es": "Mostrador de canje"
+  },
+  {
+   "id": 3,
+   "en": "Premium Exchange Counter",
+   "es": "Mostrador de canje premium"
+  },
+  {
+   "id": 4,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID241_casino_B1_text.stx": [
+  {
+   "id": 0,
+   "en": "OUTLAW RUN",
+   "es": ""
+  },
+  {
+   "id": 1,
+   "en": "TREASURE HUNTER! MONOLITH",
+   "es": ""
+  },
+  {
+   "id": 2,
+   "en": "SALMON FISHING",
+   "es": ""
+  },
+  {
+   "id": 3,
+   "en": "Monomono Slot",
+   "es": "Tragamonedas MonoMono"
+  },
+  {
+   "id": 4,
+   "en": "Stairs to 1st Floor",
+   "es": "Escaleras al piso 1"
+  },
+  {
+   "id": 5,
+   "en": "Monomono Slot",
+   "es": "Tragamonedas MonoMono"
+  },
+  {
+   "id": 6,
+   "en": "Monomono Slot",
+   "es": "Tragamonedas MonoMono"
+  },
+  {
+   "id": 7,
+   "en": "OUTLAW RUN",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "TREASURE HUNTER! MONOLITH",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "SALMON FISHING",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "Monomono Slot",
+   "es": "Tragamonedas MonoMono"
+  },
+  {
+   "id": 11,
+   "en": "Monomono Slot",
+   "es": "Tragamonedas MonoMono"
+  },
+  {
+   "id": 12,
+   "en": "Monomono Slot",
+   "es": "Tragamonedas MonoMono"
+  },
+  {
+   "id": 13,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID247_sch_side_p_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID248_elv_side_p_text.stx": [
+  {
+   "id": 0,
+   "en": "Shrine of Judgment",
+   "es": "Santuario del Juicio"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Aikido Master Lab",
+   "es": "Lab. de la Maestra de Aikido Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Inventor Lab",
+   "es": "Lab. de la Inventora Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Thick Metal Door",
+   "es": "Puerta de metal gruesa"
+  },
+  {
+   "id": 4,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Ninja Statue",
+   "es": "Estatua de ninja"
+  },
+  {
+   "id": 6,
+   "en": "Object with Indentation",
+   "es": "Objeto con una hendidura"
+  },
+  {
+   "id": 7,
+   "en": "Keyhole",
+   "es": "Cerradura"
+  },
+  {
+   "id": 8,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 9,
+   "en": "Scroll",
+   "es": "Pergamino"
+  },
+  {
+   "id": 10,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 11,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID249_sch_side_0_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID251_elv_side_0_text.stx": [
+  {
+   "id": 0,
+   "en": "Shrine of Judgment",
+   "es": "Santuario del Juicio"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Aikido Master Lab",
+   "es": "Lab. de la Maestra de Aikido Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Inventor Lab",
+   "es": "Lab. de la Inventora Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Thick Metal Door",
+   "es": "Puerta de metal gruesa"
+  },
+  {
+   "id": 4,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Ninja Statue",
+   "es": "Estatua de ninja"
+  },
+  {
+   "id": 6,
+   "en": "Object with Indentation",
+   "es": "Objeto con una hendidura"
+  },
+  {
+   "id": 7,
+   "en": "Keyhole",
+   "es": "Cerradura"
+  },
+  {
+   "id": 8,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 9,
+   "en": "Scroll",
+   "es": "Pergamino"
+  },
+  {
+   "id": 10,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 11,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID252_backyard_c1_text.stx": [
+  {
+   "id": 0,
+   "en": "Manhole",
+   "es": "Alcantarilla"
+  },
+  {
+   "id": 1,
+   "en": "Mysterious Letters",
+   "es": "Letras misteriosas"
+  },
+  {
+   "id": 2,
+   "en": "Right Door",
+   "es": "Puerta derecha"
+  },
+  {
+   "id": 3,
+   "en": "Left Door",
+   "es": "Puerta izquierda"
+  },
+  {
+   "id": 4,
+   "en": "Manhole Cover",
+   "es": "Tapa de alcantarilla"
+  },
+  {
+   "id": 17,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 18,
+   "en": "Rubble",
+   "es": "Escombros"
+  }
+ ],
+ "ID253_elevator_c1_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Monokuma Statue",
+   "es": "Estatua de Monokuma"
+  }
+ ],
+ "ID255_sch_side_1_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID256_elv_side_1_text.stx": [
+  {
+   "id": 0,
+   "en": "Shrine of Judgment",
+   "es": "Santuario del Juicio"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Aikido Master Lab",
+   "es": "Lab. de la Maestra de Aikido Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Inventor Lab",
+   "es": "Lab. de la Inventora Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Thick Metal Door",
+   "es": "Puerta de metal gruesa"
+  },
+  {
+   "id": 4,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Ninja Statue",
+   "es": "Estatua de ninja"
+  },
+  {
+   "id": 6,
+   "en": "Object with Indentation",
+   "es": "Objeto con una hendidura"
+  },
+  {
+   "id": 7,
+   "en": "Keyhole",
+   "es": "Cerradura"
+  },
+  {
+   "id": 8,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 9,
+   "en": "Scroll",
+   "es": "Pergamino"
+  },
+  {
+   "id": 10,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 11,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID257_backyard_c2_text.stx": [
+  {
+   "id": 0,
+   "en": "Manhole",
+   "es": "Alcantarilla"
+  },
+  {
+   "id": 1,
+   "en": "Mysterious Letters",
+   "es": "Letras misteriosas"
+  },
+  {
+   "id": 2,
+   "en": "Right Door",
+   "es": "Puerta derecha"
+  },
+  {
+   "id": 3,
+   "en": "Left Door",
+   "es": "Puerta izquierda"
+  },
+  {
+   "id": 4,
+   "en": "Manhole Cover Used for Reference",
+   "es": "Tapa de alcantarilla de referencia"
+  },
+  {
+   "id": 17,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 18,
+   "en": "Rubble",
+   "es": "Escombros"
+  }
+ ],
+ "ID258_sch_side_2_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID259_elv_side_2_text.stx": [
+  {
+   "id": 0,
+   "en": "Shrine of Judgment",
+   "es": "Santuario del Juicio"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Aikido Master Lab",
+   "es": "Lab. de la Maestra de Aikido Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Inventor Lab",
+   "es": "Lab. de la Inventora Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Thick Metal Door",
+   "es": "Puerta de metal gruesa"
+  },
+  {
+   "id": 4,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Ninja Statue",
+   "es": "Estatua de ninja"
+  },
+  {
+   "id": 6,
+   "en": "Object with Indentation",
+   "es": "Objeto con una hendidura"
+  },
+  {
+   "id": 7,
+   "en": "Keyhole",
+   "es": "Cerradura"
+  },
+  {
+   "id": 8,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 9,
+   "en": "Scroll",
+   "es": "Pergamino"
+  },
+  {
+   "id": 10,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 11,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID262_sch_side_3_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID263_elv_side_3_text.stx": [
+  {
+   "id": 0,
+   "en": "Shrine of Judgment",
+   "es": "Santuario del Juicio"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Aikido Master Lab",
+   "es": "Lab. de la Maestra de Aikido Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Inventor Lab",
+   "es": "Lab. de la Inventora Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Thick Metal Door",
+   "es": "Puerta de metal gruesa"
+  },
+  {
+   "id": 4,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Ninja Statue",
+   "es": "Estatua de ninja"
+  },
+  {
+   "id": 6,
+   "en": "Object with Indentation",
+   "es": "Objeto con una hendidura"
+  },
+  {
+   "id": 7,
+   "en": "Keyhole",
+   "es": "Cerradura"
+  },
+  {
+   "id": 8,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 9,
+   "en": "Scroll",
+   "es": "Pergamino"
+  },
+  {
+   "id": 10,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 11,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID266_sch_side_4_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID267_elv_side_4_text.stx": [
+  {
+   "id": 0,
+   "en": "Shrine of Judgment",
+   "es": "Santuario del Juicio"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Aikido Master Lab",
+   "es": "Lab. de la Maestra de Aikido Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Inventor Lab",
+   "es": "Lab. de la Inventora Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Thick Metal Door",
+   "es": "Puerta de metal gruesa"
+  },
+  {
+   "id": 4,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Ninja Statue",
+   "es": "Estatua de ninja"
+  },
+  {
+   "id": 6,
+   "en": "Object with Indentation",
+   "es": "Objeto con una hendidura"
+  },
+  {
+   "id": 7,
+   "en": "Keyhole",
+   "es": "Cerradura"
+  },
+  {
+   "id": 8,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 9,
+   "en": "Scroll",
+   "es": "Pergamino"
+  },
+  {
+   "id": 10,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 11,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID270_sch_side_5_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "horse a",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Card Reader",
+   "es": "Lector de tarjetas"
+  }
+ ],
+ "ID271_elv_side_5_text.stx": [
+  {
+   "id": 0,
+   "en": "Shrine of Judgment",
+   "es": "Santuario del Juicio"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Aikido Master Lab",
+   "es": "Lab. de la Maestra de Aikido Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Inventor Lab",
+   "es": "Lab. de la Inventora Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Thick Metal Door",
+   "es": "Puerta de metal gruesa"
+  },
+  {
+   "id": 4,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Ninja Statue",
+   "es": "Estatua de ninja"
+  },
+  {
+   "id": 6,
+   "en": "Object with Indentation",
+   "es": "Objeto con una hendidura"
+  },
+  {
+   "id": 7,
+   "en": "Keyhole",
+   "es": "Cerradura"
+  },
+  {
+   "id": 8,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 9,
+   "en": "Scroll",
+   "es": "Pergamino"
+  },
+  {
+   "id": 10,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 11,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID272_backyard_c6_text.stx": [
+  {
+   "id": 0,
+   "en": "Manhole",
+   "es": "Alcantarilla"
+  },
+  {
+   "id": 1,
+   "en": "Mysterious Letters",
+   "es": "Letras misteriosas"
+  },
+  {
+   "id": 2,
+   "en": "Right Door",
+   "es": "Puerta derecha"
+  },
+  {
+   "id": 3,
+   "en": "Left Door",
+   "es": "Puerta izquierda"
+  },
+  {
+   "id": 4,
+   "en": "Manhole Cover",
+   "es": "Tapa de alcantarilla"
+  },
+  {
+   "id": 5,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 11,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 12,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "柵",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 18,
+   "en": "Rubble",
+   "es": "Escombros"
+  }
+ ],
+ "ID273_elevator_c1_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Monokuma Statue",
+   "es": "Estatua de Monokuma"
+  }
+ ],
+ "ID281_casino_area_0_text.stx": [
+  {
+   "id": 0,
+   "en": "Casino",
+   "es": "Casino"
+  },
+  {
+   "id": 1,
+   "en": "Love Suite",
+   "es": "Suite del Amor"
+  },
+  {
+   "id": 2,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 3,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID287_cyber_area_0_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Electrohammer",
+   "es": "Electromartillo"
+  },
+  {
+   "id": 2,
+   "en": "Shutter Operation Panel",
+   "es": "Panel de control de la cortina"
+  },
+  {
+   "id": 3,
+   "en": "Bathroom Window",
+   "es": "Ventana del baño"
+  },
+  {
+   "id": 4,
+   "en": "Hangar Security Lamp",
+   "es": "Lámpara de seguridad del hangar"
+  },
+  {
+   "id": 5,
+   "en": "Hangar Security Lamp",
+   "es": "Lámpara de seguridad del hangar"
+  },
+  {
+   "id": 6,
+   "en": "Hangar Security Lamp",
+   "es": "Lámpara de seguridad del hangar"
+  },
+  {
+   "id": 7,
+   "en": "Electric Barrier",
+   "es": "Barrera eléctrica"
+  },
+  {
+   "id": 8,
+   "en": "Hangar Security Lamp",
+   "es": "Lámpara de seguridad del hangar"
+  },
+  {
+   "id": 9,
+   "en": "Shutter Operation Panel",
+   "es": "Panel de control de la cortina"
+  },
+  {
+   "id": 10,
+   "en": "Shutter Operation Panel",
+   "es": "Panel de control de la cortina"
+  },
+  {
+   "id": 11,
+   "en": "Shutter Operation Panel",
+   "es": "Panel de control de la cortina"
+  },
+  {
+   "id": 12,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 13,
+   "en": "Hangar Shutter",
+   "es": "Cortina del hangar"
+  },
+  {
+   "id": 14,
+   "en": "Alarm System",
+   "es": "Sistema de alarma"
+  },
+  {
+   "id": 15,
+   "en": "Hangar Shutter",
+   "es": "Cortina del hangar"
+  },
+  {
+   "id": 16,
+   "en": "Hangar Shutter",
+   "es": "Cortina del hangar"
+  },
+  {
+   "id": 17,
+   "en": "Hangar Shutter",
+   "es": "Cortina del hangar"
+  }
+ ],
+ "ID353_under_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Passage Entrance",
+   "es": "Entrada al pasadizo"
+  },
+  {
+   "id": 2,
+   "en": "Exit Signboard",
+   "es": "Letrero de salida"
+  },
+  {
+   "id": 3,
+   "en": "Ladder",
+   "es": "Escalera de mano"
+  },
+  {
+   "id": 4,
+   "en": "Crane",
+   "es": "Grúa"
+  },
+  {
+   "id": 5,
+   "en": "Crane",
+   "es": "Grúa"
+  },
+  {
+   "id": 6,
+   "en": "Crane",
+   "es": "Grúa"
+  },
+  {
+   "id": 7,
+   "en": "Metal Rods",
+   "es": "Varillas de metal"
+  },
+  {
+   "id": 8,
+   "en": "Metal Rods",
+   "es": "Varillas de metal"
+  },
+  {
+   "id": 9,
+   "en": "Metal Rods",
+   "es": "Varillas de metal"
+  }
+ ],
+ "ID354_escapedeck_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Large Round Door",
+   "es": "Puerta redonda grande"
+  },
+  {
+   "id": 2,
+   "en": "Operation Panel",
+   "es": "Panel de control"
+  },
+  {
+   "id": 16,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 17,
+   "en": "Barrier",
+   "es": "Barrera"
+  }
+ ],
+ "ID400_loveapart_text.stx": [
+  {
+   "id": 0,
+   "en": "Rotating Bed",
+   "es": "Cama giratoria"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 3,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID501_sch_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  },
+  {
+   "id": 1,
+   "en": "Gym",
+   "es": "Gimnasio"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "School Store",
+   "es": "Tienda escolar"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom A",
+   "es": "Salón A"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Magician Lab",
+   "es": "Lab. de la Ilusionista Definitiva"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "Basement",
+   "es": "Sótano"
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "End of Hallway",
+   "es": "Final del pasillo"
+  }
+ ],
+ "ID502_sch_2F_text.stx": [
+  {
+   "id": 0,
+   "en": "Classroom B",
+   "es": "Salón B"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Pianist Lab",
+   "es": "Lab. de la Pianista Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Maid Lab",
+   "es": "Lab. de la Sirvienta Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Ultimate Entomologist Lab",
+   "es": "Lab. del Entomólogo Definitivo"
+  },
+  {
+   "id": 4,
+   "en": "1st Floor",
+   "es": "Piso 1"
+  },
+  {
+   "id": 5,
+   "en": "3rd Floor",
+   "es": "Piso 3"
+  },
+  {
+   "id": 6,
+   "en": "Bronze Dragon Statue",
+   "es": "Estatua de dragón de bronce"
+  },
+  {
+   "id": 7,
+   "en": "Treasure Chest",
+   "es": "Cofre del tesoro"
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "Classroom C",
+   "es": "Salón C"
+  },
+  {
+   "id": 11,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID504_sch_B1_text.stx": [
+  {
+   "id": 0,
+   "en": "Library",
+   "es": "Biblioteca"
+  },
+  {
+   "id": 1,
+   "en": "A/V Room",
+   "es": "Sala audiovisual"
+  },
+  {
+   "id": 2,
+   "en": "Game Room",
+   "es": "Sala de Juegos"
+  },
+  {
+   "id": 3,
+   "en": "Library",
+   "es": "Biblioteca"
+  },
+  {
+   "id": 4,
+   "en": "Air Vent",
+   "es": "Rejilla de ventilación"
+  },
+  {
+   "id": 5,
+   "en": "1st Floor",
+   "es": "Piso 1"
+  },
+  {
+   "id": 6,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 7,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID510_cafe_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Rules",
+   "es": "Reglas"
+  },
+  {
+   "id": 2,
+   "en": "Terrace Door",
+   "es": "Puerta de la terraza"
+  },
+  {
+   "id": 3,
+   "en": "Barbed Wire",
+   "es": "Alambre de púas"
+  },
+  {
+   "id": 4,
+   "en": "Grass",
+   "es": "Pasto"
+  },
+  {
+   "id": 5,
+   "en": "Clean Floor",
+   "es": "Piso limpio"
+  },
+  {
+   "id": 6,
+   "en": "Knife",
+   "es": "Cuchillo"
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID515_warehousea_text.stx": [
+  {
+   "id": 0,
+   "en": "Sensor",
+   "es": "Sensor"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Shot Put Ball",
+   "es": "Bala de lanzamiento"
+  },
+  {
+   "id": 3,
+   "en": "RC Helicopter",
+   "es": "Helicóptero a control remoto"
+  },
+  {
+   "id": 4,
+   "en": "High Jump Bar",
+   "es": "Barra de salto de altura"
+  },
+  {
+   "id": 5,
+   "en": "Mat",
+   "es": "Colchoneta"
+  },
+  {
+   "id": 6,
+   "en": "Hurdle",
+   "es": "Valla"
+  },
+  {
+   "id": 7,
+   "en": "Disposable Camera",
+   "es": "Cámara desechable"
+  },
+  {
+   "id": 8,
+   "en": "Photographic Developer",
+   "es": "Revelador de fotos"
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID516_wc_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 2,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 3,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 4,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID517_classRoom_A_text.stx": [
+  {
+   "id": 0,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 1,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 2,
+   "en": "Teacher's Desk",
+   "es": "Escritorio del maestro"
+  },
+  {
+   "id": 3,
+   "en": "Closed Door",
+   "es": "Puerta cerrada"
+  },
+  {
+   "id": 4,
+   "en": "Open Door",
+   "es": "Puerta abierta"
+  },
+  {
+   "id": 5,
+   "en": "Air Vent",
+   "es": "Rejilla de ventilación"
+  },
+  {
+   "id": 6,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 7,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  }
+ ],
+ "ID542_sch_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  },
+  {
+   "id": 1,
+   "en": "Gym",
+   "es": "Gimnasio"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "School Store",
+   "es": "Tienda escolar"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom A",
+   "es": "Salón A"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Magician Lab",
+   "es": "Lab. de la Ilusionista Definitiva"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "Basement",
+   "es": "Sótano"
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "End of Hallway",
+   "es": "Final del pasillo"
+  }
+ ],
+ "ID570_sch_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  },
+  {
+   "id": 1,
+   "en": "Gym",
+   "es": "Gimnasio"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "School Store",
+   "es": "Tienda escolar"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom A",
+   "es": "Salón A"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Magician Lab",
+   "es": "Lab. de la Ilusionista Definitiva"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "Basement",
+   "es": "Sótano"
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "End of Hallway",
+   "es": "Final del pasillo"
+  },
+  {
+   "id": 22,
+   "en": "Grass",
+   "es": "Pasto"
+  }
+ ],
+ "ID571_sch_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Entrance Door",
+   "es": "Puerta de entrada"
+  },
+  {
+   "id": 1,
+   "en": "Gym",
+   "es": "Gimnasio"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "School Store",
+   "es": "Tienda escolar"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom A",
+   "es": "Salón A"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Ultimate Magician Lab",
+   "es": "Lab. de la Ilusionista Definitiva"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Geometric Pattern Door",
+   "es": "Puerta de patrón geométrico"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "Basement",
+   "es": "Sótano"
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "End of Hallway",
+   "es": "Final del pasillo"
+  },
+  {
+   "id": 22,
+   "en": "Overgrown Grass",
+   "es": "Pasto crecido"
+  }
+ ],
+ "ID572_sch_2F_text.stx": [
+  {
+   "id": 0,
+   "en": "Classroom B",
+   "es": "Salón B"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Pianist Lab",
+   "es": "Lab. de la Pianista Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Maid Lab",
+   "es": "Lab. de la Sirvienta Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Ultimate Entomologist Lab",
+   "es": "Lab. del Entomólogo Definitivo"
+  },
+  {
+   "id": 4,
+   "en": "1st Floor",
+   "es": "Piso 1"
+  },
+  {
+   "id": 5,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 6,
+   "en": "Bronze Dragon Statue",
+   "es": "Estatua de dragón de bronce"
+  },
+  {
+   "id": 7,
+   "en": "Treasure Chest",
+   "es": "Cofre del tesoro"
+  },
+  {
+   "id": 8,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "Classroom C",
+   "es": "Salón C"
+  },
+  {
+   "id": 11,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID573_sch_3F_text.stx": [
+  {
+   "id": 0,
+   "en": "Stairs",
+   "es": "Escaleras"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Tennis Pro Lab",
+   "es": "Lab. del Tenista Definitivo"
+  },
+  {
+   "id": 2,
+   "en": "Kaito Lab ※Already removed",
+   "es": "Laboratorio de Kaito ※Ya eliminado"
+  },
+  {
+   "id": 3,
+   "en": "3F Research Lab A ※Already removed",
+   "es": "Laboratorio A del piso 3 ※Ya eliminado"
+  },
+  {
+   "id": 4,
+   "en": "3F Research Lab B ※Already removed",
+   "es": "Laboratorio B del piso 3 ※Ya eliminado"
+  },
+  {
+   "id": 5,
+   "en": "Stairs",
+   "es": "Escaleras"
+  },
+  {
+   "id": 6,
+   "en": "Ultimate Assassin Lab",
+   "es": "Lab. de la Asesina Definitiva"
+  },
+  {
+   "id": 7,
+   "en": "Large Door",
+   "es": "Puerta grande"
+  },
+  {
+   "id": 8,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ],
+ "ID600_residence_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 2,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 5,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 6,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 7,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 8,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 9,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 12,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 13,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 14,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 15,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 16,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 17,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 18,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 19,
+   "en": "Door",
+   "es": "Puerta"
+  }
+ ],
+ "ID601_Private_00_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Bed",
+   "es": "Cama"
+  },
+  {
+   "id": 3,
+   "en": "Lighting",
+   "es": "Iluminación"
+  },
+  {
+   "id": 4,
+   "en": "Closet",
+   "es": "Clóset"
+  },
+  {
+   "id": 5,
+   "en": "Shelf",
+   "es": "Estante"
+  },
+  {
+   "id": 6,
+   "en": "Hidden Monokuma No. 1",
+   "es": "Monokuma oculto #1"
+  },
+  {
+   "id": 7,
+   "en": "Hidden Monokuma No. 2",
+   "es": "Monokuma oculto #2"
+  },
+  {
+   "id": 8,
+   "en": "Hidden Monokuma No. 3",
+   "es": "Monokuma oculto #3"
+  },
+  {
+   "id": 9,
+   "en": "Hidden Monokuma No. 4",
+   "es": "Monokuma oculto #4"
+  },
+  {
+   "id": 10,
+   "en": "Hidden Monokuma No. 5",
+   "es": "Monokuma oculto #5"
+  },
+  {
+   "id": 11,
+   "en": "Hidden Monokuma No. 6",
+   "es": "Monokuma oculto #6"
+  },
+  {
+   "id": 12,
+   "en": "Hidden Monokuma No. 7",
+   "es": "Monokuma oculto #7"
+  },
+  {
+   "id": 13,
+   "en": "Hidden Monokuma No. 8",
+   "es": "Monokuma oculto #8"
+  },
+  {
+   "id": 14,
+   "en": "Hidden Monokuma No. 9",
+   "es": "Monokuma oculto #9"
+  },
+  {
+   "id": 15,
+   "en": "Hidden Monokuma No. 10",
+   "es": "Monokuma oculto #10"
+  },
+  {
+   "id": 16,
+   "en": "Hidden Monokuma No. 11",
+   "es": "Monokuma oculto #11"
+  },
+  {
+   "id": 17,
+   "en": "Hidden Monokuma No. 12",
+   "es": "Monokuma oculto #12"
+  },
+  {
+   "id": 18,
+   "en": "Hidden Monokuma No. 13",
+   "es": "Monokuma oculto #13"
+  },
+  {
+   "id": 19,
+   "en": "Hidden Monokuma No. 14",
+   "es": "Monokuma oculto #14"
+  },
+  {
+   "id": 20,
+   "en": "Hidden Monokuma No. 15",
+   "es": "Monokuma oculto #15"
+  },
+  {
+   "id": 21,
+   "en": "Hidden Monokuma No. 16",
+   "es": "Monokuma oculto #16"
+  },
+  {
+   "id": 22,
+   "en": "Hidden Monokuma No. 17",
+   "es": "Monokuma oculto #17"
+  },
+  {
+   "id": 23,
+   "en": "Hidden Monokuma No. 18",
+   "es": "Monokuma oculto #18"
+  },
+  {
+   "id": 24,
+   "en": "Hidden Monokuma No. 19",
+   "es": "Monokuma oculto #19"
+  },
+  {
+   "id": 25,
+   "en": "Hidden Monokuma No. 20",
+   "es": "Monokuma oculto #20"
+  },
+  {
+   "id": 26,
+   "en": "Hidden Monokuma No. 21",
+   "es": "Monokuma oculto #21"
+  },
+  {
+   "id": 27,
+   "en": "Hidden Monokuma No. 22",
+   "es": "Monokuma oculto #22"
+  },
+  {
+   "id": 28,
+   "en": "Hidden Monokuma No. 23",
+   "es": "Monokuma oculto #23"
+  },
+  {
+   "id": 29,
+   "en": "Hidden Monokuma No. 24",
+   "es": "Monokuma oculto #24"
+  },
+  {
+   "id": 30,
+   "en": "Hidden Monokuma No. 25",
+   "es": "Monokuma oculto #25"
+  },
+  {
+   "id": 31,
+   "en": "Hidden Monokuma No. 26",
+   "es": "Monokuma oculto #26"
+  },
+  {
+   "id": 32,
+   "en": "Hidden Monokuma No. 27",
+   "es": "Monokuma oculto #27"
+  },
+  {
+   "id": 33,
+   "en": "Hidden Monokuma No. 28",
+   "es": "Monokuma oculto #28"
+  },
+  {
+   "id": 34,
+   "en": "Hidden Monokuma No. 29",
+   "es": "Monokuma oculto #29"
+  },
+  {
+   "id": 35,
+   "en": "Hidden Monokuma No. 30",
+   "es": "Monokuma oculto #30"
+  },
+  {
+   "id": 42,
+   "en": "Kubs Pad",
+   "es": "Kubs Pad"
+  },
+  {
+   "id": 43,
+   "en": "Electrohammer",
+   "es": "Electromartillo"
+  },
+  {
+   "id": 44,
+   "en": "Electrohammer",
+   "es": "Electromartillo"
+  }
+ ],
+ "ID616_Private_15_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Bed",
+   "es": "Cama"
+  },
+  {
+   "id": 3,
+   "en": "Lighting",
+   "es": "Iluminación"
+  },
+  {
+   "id": 4,
+   "en": "Closet",
+   "es": "Clóset"
+  },
+  {
+   "id": 12,
+   "en": "Key",
+   "es": "Llave"
+  },
+  {
+   "id": 13,
+   "en": "Key Stand",
+   "es": "Soporte de la llave"
+  }
+ ],
+ "ID655_lab_akamatu_text.stx": [
+  {
+   "id": 0,
+   "en": "Speakers",
+   "es": "Bocinas"
+  },
+  {
+   "id": 1,
+   "en": "CD Rack",
+   "es": "Estante de CD"
+  },
+  {
+   "id": 2,
+   "en": "Piano",
+   "es": "Piano"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 5,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 7,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 8,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 9,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID749_sch_side_0_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID751_elv_side_0_text.stx": [
+  {
+   "id": 0,
+   "en": "Shrine of Judgment",
+   "es": "Santuario del Juicio"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Aikido Master Lab",
+   "es": "Lab. de la Maestra de Aikido Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Inventor Lab",
+   "es": "Lab. de la Inventora Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Thick Metal Door",
+   "es": "Puerta de metal gruesa"
+  },
+  {
+   "id": 4,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Ninja Statue",
+   "es": "Estatua de ninja"
+  },
+  {
+   "id": 6,
+   "en": "Object with Indentation",
+   "es": "Objeto con una hendidura"
+  },
+  {
+   "id": 7,
+   "en": "Keyhole",
+   "es": "Cerradura"
+  },
+  {
+   "id": 8,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 9,
+   "en": "Scroll",
+   "es": "Pergamino"
+  },
+  {
+   "id": 10,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 11,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID752_backyard_c1_text.stx": [
+  {
+   "id": 0,
+   "en": "Manhole",
+   "es": "Alcantarilla"
+  },
+  {
+   "id": 1,
+   "en": "Mysterious Letters",
+   "es": "Letras misteriosas"
+  },
+  {
+   "id": 2,
+   "en": "Right Door",
+   "es": "Puerta derecha"
+  },
+  {
+   "id": 3,
+   "en": "Left Door",
+   "es": "Puerta izquierda"
+  },
+  {
+   "id": 4,
+   "en": "Manhole Cover",
+   "es": "Tapa de alcantarilla"
+  },
+  {
+   "id": 17,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 18,
+   "en": "Rubble",
+   "es": "Escombros"
+  }
+ ],
+ "ID753_elevator_c1_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Monokuma Statue",
+   "es": "Estatua de Monokuma"
+  }
+ ],
+ "ID755_sch_side_1_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID756_elv_side_1_text.stx": [
+  {
+   "id": 0,
+   "en": "Shrine of Judgment",
+   "es": "Santuario del Juicio"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Aikido Master Lab",
+   "es": "Lab. de la Maestra de Aikido Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Inventor Lab",
+   "es": "Lab. de la Inventora Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Thick Metal Door",
+   "es": "Puerta de metal gruesa"
+  },
+  {
+   "id": 4,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Ninja Statue",
+   "es": "Estatua de ninja"
+  },
+  {
+   "id": 6,
+   "en": "Object with Indentation",
+   "es": "Objeto con una hendidura"
+  },
+  {
+   "id": 7,
+   "en": "Keyhole",
+   "es": "Cerradura"
+  },
+  {
+   "id": 8,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 9,
+   "en": "Scroll",
+   "es": "Pergamino"
+  },
+  {
+   "id": 10,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 11,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID758_sch_side_2_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID759_elv_side_2_text.stx": [
+  {
+   "id": 0,
+   "en": "Shrine of Judgment",
+   "es": "Santuario del Juicio"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Aikido Master Lab",
+   "es": "Lab. de la Maestra de Aikido Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Inventor Lab",
+   "es": "Lab. de la Inventora Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Thick Metal Door",
+   "es": "Puerta de metal gruesa"
+  },
+  {
+   "id": 4,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Ninja Statue",
+   "es": "Estatua de ninja"
+  },
+  {
+   "id": 6,
+   "en": "Object with Indentation",
+   "es": "Objeto con una hendidura"
+  },
+  {
+   "id": 7,
+   "en": "Keyhole",
+   "es": "Cerradura"
+  },
+  {
+   "id": 8,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 9,
+   "en": "Scroll",
+   "es": "Pergamino"
+  },
+  {
+   "id": 10,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 11,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID762_sch_side_3_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID766_sch_side_4_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID770_sch_side_6_text.stx": [
+  {
+   "id": 0,
+   "en": "School Building",
+   "es": "Edificio escolar"
+  },
+  {
+   "id": 1,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 2,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 3,
+   "en": "Pool",
+   "es": "Alberca"
+  },
+  {
+   "id": 4,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 5,
+   "en": "Backyard",
+   "es": "Patio trasero"
+  },
+  {
+   "id": 6,
+   "en": "Casino Area",
+   "es": "Zona del casino"
+  },
+  {
+   "id": 7,
+   "en": "Mysterious Monument",
+   "es": "Monumento misterioso"
+  },
+  {
+   "id": 8,
+   "en": "Plants",
+   "es": "Plantas"
+  },
+  {
+   "id": 9,
+   "en": "Hexagonal Protrusion",
+   "es": "Saliente hexagonal"
+  },
+  {
+   "id": 10,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 11,
+   "en": "Giant Door",
+   "es": "Puerta gigante"
+  },
+  {
+   "id": 12,
+   "en": "Down the Big Stairs",
+   "es": "Bajando la escalera grande"
+  },
+  {
+   "id": 13,
+   "en": "horse a",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Card Reader",
+   "es": "Lector de tarjetas"
+  }
+ ],
+ "ID771_elv_side_6_text.stx": [
+  {
+   "id": 0,
+   "en": "Shrine of Judgment",
+   "es": "Santuario del Juicio"
+  },
+  {
+   "id": 1,
+   "en": "Ultimate Aikido Master Lab",
+   "es": "Lab. de la Maestra de Aikido Definitiva"
+  },
+  {
+   "id": 2,
+   "en": "Ultimate Inventor Lab",
+   "es": "Lab. de la Inventora Definitiva"
+  },
+  {
+   "id": 3,
+   "en": "Thick Metal Door",
+   "es": "Puerta de metal gruesa"
+  },
+  {
+   "id": 4,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 5,
+   "en": "Ninja Statue",
+   "es": "Estatua de ninja"
+  },
+  {
+   "id": 6,
+   "en": "Object with Indentation",
+   "es": "Objeto con una hendidura"
+  },
+  {
+   "id": 7,
+   "en": "Keyhole",
+   "es": "Cerradura"
+  },
+  {
+   "id": 8,
+   "en": "Side of School Building",
+   "es": "Costado del edificio escolar"
+  },
+  {
+   "id": 9,
+   "en": "Scroll",
+   "es": "Pergamino"
+  },
+  {
+   "id": 10,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 11,
+   "en": "Ultimate Robot Lab",
+   "es": "Lab. del Robot Definitivo"
+  },
+  {
+   "id": 12,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 13,
+   "en": "Dummy",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "Dummy",
+   "es": ""
+  }
+ ],
+ "ID950_1F_text.stx": [
+  {
+   "id": 0,
+   "en": "Dormitory",
+   "es": "Dormitorios"
+  },
+  {
+   "id": 1,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 2,
+   "en": "Dining Hall",
+   "es": "Comedor"
+  },
+  {
+   "id": 3,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 4,
+   "en": "Warehouse",
+   "es": "Almacén"
+  },
+  {
+   "id": 5,
+   "en": "Classroom",
+   "es": "Salón"
+  },
+  {
+   "id": 6,
+   "en": "Boys Bathroom",
+   "es": "Baño de hombres"
+  },
+  {
+   "id": 7,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 8,
+   "en": "Girls Bathroom",
+   "es": "Baño de mujeres"
+  },
+  {
+   "id": 9,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 12,
+   "en": "2nd Floor",
+   "es": "Piso 2"
+  },
+  {
+   "id": 13,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 14,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 15,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 16,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 17,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 18,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 19,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 20,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 21,
+   "en": "Gym",
+   "es": "Gimnasio"
+  }
+ ],
+ "ID951_residence_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 2,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 5,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 6,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 7,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 8,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 9,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 10,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 11,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 12,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 13,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 14,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 15,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 16,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 17,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 18,
+   "en": "Nameplate",
+   "es": "Placa con nombre"
+  },
+  {
+   "id": 19,
+   "en": "Nameplate",
+   "es": "Placa con nombre"
+  }
+ ],
+ "ID952_classRoom_B_text.stx": [
+  {
+   "id": 0,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 1,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 2,
+   "en": "Teacher's Desk",
+   "es": "Escritorio del maestro"
+  },
+  {
+   "id": 3,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 4,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 5,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 6,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 7,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 8,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 9,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 10,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 11,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 12,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 13,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 14,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 15,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 16,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 17,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 18,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 19,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 20,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 21,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 22,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 23,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 24,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 25,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 26,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 27,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 28,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 29,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 30,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 31,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 32,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 33,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 34,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 35,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 36,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 37,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 38,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 39,
+   "en": "Locker",
+   "es": "Casillero"
+  },
+  {
+   "id": 40,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  },
+  {
+   "id": 41,
+   "en": "Blackboard",
+   "es": "Pizarrón"
+  }
+ ],
+ "ID953_gym_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Basketball Net",
+   "es": "Canasta de básquetbol"
+  },
+  {
+   "id": 2,
+   "en": "Basketball Net",
+   "es": "Canasta de básquetbol"
+  },
+  {
+   "id": 3,
+   "en": "Scoreboard",
+   "es": "Marcador"
+  },
+  {
+   "id": 4,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 5,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 6,
+   "en": "Window",
+   "es": "Ventana"
+  },
+  {
+   "id": 7,
+   "en": "Closed Curtain",
+   "es": "Cortina cerrada"
+  },
+  {
+   "id": 8,
+   "en": "Open Window",
+   "es": "Ventana abierta"
+  },
+  {
+   "id": 9,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 10,
+   "en": "???",
+   "es": ""
+  },
+  {
+   "id": 11,
+   "en": "Hammer on Dolly",
+   "es": "Martillo en carretilla"
+  },
+  {
+   "id": 12,
+   "en": "Mountain of Weapons",
+   "es": "Montaña de armas"
+  }
+ ],
+ "ID954_Private_15_text.stx": [
+  {
+   "id": 0,
+   "en": "Door",
+   "es": "Puerta"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Bed",
+   "es": "Cama"
+  },
+  {
+   "id": 3,
+   "en": "Lighting",
+   "es": "Iluminación"
+  },
+  {
+   "id": 4,
+   "en": "Closet",
+   "es": "Clóset"
+  },
+  {
+   "id": 5,
+   "en": "Sofa",
+   "es": "Sofá"
+  },
+  {
+   "id": 6,
+   "en": "Table",
+   "es": "Mesa"
+  },
+  {
+   "id": 7,
+   "en": "Desk",
+   "es": "Escritorio"
+  },
+  {
+   "id": 8,
+   "en": "Chair",
+   "es": "Silla"
+  },
+  {
+   "id": 9,
+   "en": "Indirect Lighting",
+   "es": "Iluminación indirecta"
+  },
+  {
+   "id": 10,
+   "en": "Drawer",
+   "es": "Cajón"
+  },
+  {
+   "id": 11,
+   "en": "Trash Can",
+   "es": "Bote de basura"
+  },
+  {
+   "id": 12,
+   "en": "Lock",
+   "es": "Candado"
+  },
+  {
+   "id": 13,
+   "en": "Key Stand",
+   "es": "Soporte de la llave"
+  },
+  {
+   "id": 14,
+   "en": "Bathroom Door",
+   "es": "Puerta del baño"
+  },
+  {
+   "id": 15,
+   "en": "Crystal Ball",
+   "es": "Bola de cristal"
+  },
+  {
+   "id": 16,
+   "en": "Trashed Room",
+   "es": "Cuarto destrozado"
+  },
+  {
+   "id": 17,
+   "en": "Trashed Room",
+   "es": "Cuarto destrozado"
+  },
+  {
+   "id": 18,
+   "en": "Trashed Room",
+   "es": "Cuarto destrozado"
+  },
+  {
+   "id": 19,
+   "en": "Trashed Room",
+   "es": "Cuarto destrozado"
+  }
+ ],
+ "ID955_showerroom_text.stx": [
+  {
+   "id": 0,
+   "en": "Yasuhiro's Body",
+   "es": "Cuerpo de Yasuhiro"
+  },
+  {
+   "id": 1,
+   "en": "Yasuhiro's Body",
+   "es": "Cuerpo de Yasuhiro"
+  },
+  {
+   "id": 2,
+   "en": "Yasuhiro's Body",
+   "es": "Cuerpo de Yasuhiro"
+  }
+ ],
+ "ID956_cafe_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 1,
+   "en": "Rules",
+   "es": "Reglas"
+  },
+  {
+   "id": 2,
+   "en": "Terrace Door",
+   "es": "Puerta de la terraza"
+  },
+  {
+   "id": 3,
+   "en": "Barbed Wire",
+   "es": "Alambre de púas"
+  },
+  {
+   "id": 4,
+   "en": "Grass",
+   "es": "Pasto"
+  },
+  {
+   "id": 5,
+   "en": "Floor",
+   "es": "Piso"
+  },
+  {
+   "id": 6,
+   "en": "Knives Hanging on the Wall",
+   "es": "Cuchillos colgados en la pared"
+  },
+  {
+   "id": 7,
+   "en": "Kitchen Entrance",
+   "es": "Entrada a la cocina"
+  },
+  {
+   "id": 43,
+   "en": "Knives Hanging on the Wall",
+   "es": "Cuchillos colgados en la pared"
+  }
+ ],
+ "ID957_warehousea_text.stx": [
+  {
+   "id": 0,
+   "en": "Sensor",
+   "es": "Sensor"
+  },
+  {
+   "id": 1,
+   "en": "Monitor",
+   "es": "Monitor"
+  },
+  {
+   "id": 2,
+   "en": "Shot Put Ball",
+   "es": "Bala de lanzamiento"
+  },
+  {
+   "id": 3,
+   "en": "RC Helicopter",
+   "es": "Helicóptero a control remoto"
+  },
+  {
+   "id": 4,
+   "en": "High Jump Bar",
+   "es": "Barra de salto de altura"
+  },
+  {
+   "id": 5,
+   "en": "Mat",
+   "es": "Colchoneta"
+  },
+  {
+   "id": 6,
+   "en": "Hurdle",
+   "es": "Valla"
+  },
+  {
+   "id": 7,
+   "en": "Disposable Camera",
+   "es": "Cámara desechable"
+  },
+  {
+   "id": 8,
+   "en": "Photographic Developer",
+   "es": "Revelador de fotos"
+  }
+ ],
+ "ID958_wc_text.stx": [
+  {
+   "id": 0,
+   "en": "Monitor",
+   "es": "Monitor"
+  }
+ ]
+}

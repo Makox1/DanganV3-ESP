@@ -1,0 +1,15 @@
+# Archivos del juego y pruebas temporales: se quedan solo en local
+extraido/
+scratchpad/
+__pycache__/
+
+# Respaldo: los .bin son trozos originales de los CPK; solo se suben los datos propios del parche
+respaldo/*
+!respaldo/textos_escritos.json
+!respaldo/partition_data_win_us_info.json
+
+# Imagenes: solo lo generado por el proyecto
+imagenes/*
+!imagenes/traducidas/
+!imagenes/mascaras/
+!imagenes/fuentes/

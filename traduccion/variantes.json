@@ -1,0 +1,233 @@
+{
+ "chap0": {
+  "c00_002_018.stx": {
+   "8": {
+    "<CLT=cltSYSTEM>However, not every object is able to be moved.\nThank you for understanding.": "<CLT=cltSYSTEM>Sin embargo, no todos los objetos se pueden\nmover. Gracias por tu comprensión."
+   },
+   "56": {
+    "<CLT=cltSYSTEM>However, not every object is able to be moved.\nThank you for understanding.": "<CLT=cltSYSTEM>Sin embargo, no todos los objetos se pueden\nmover. Gracias por tu comprensión."
+   }
+  }
+ },
+ "chap1": {
+  "c01_214_001.stx": {
+   "30": {
+    "<CLT=cltWEAK><CLT=size1>rejoin everyone<CLT=cltNORMAL>,": "<CLT=cltWEAK><CLT=size1>se une a los demás<CLT=cltNORMAL>,"
+   }
+  },
+  "c01_276_000.stx": {
+   "4": {
+    "<CLT=cltSYSTEM>But look, everyone's so fired up, the\n<CLT=cltSTRONG>subject<CLT=cltSYSTEM> of your statements don't match.": "<CLT=cltSYSTEM>Pero mira, todos están tan encendidos que\nlos <CLT=cltSTRONG>temas<CLT=cltSYSTEM> de sus declaraciones no coinciden."
+   },
+   "22": {
+    "<CLT=cltSYSTEM>But look, everyone's so fired up, the\n<CLT=cltSTRONG>subject<CLT=cltSYSTEM> of your statements don't match.": "<CLT=cltSYSTEM>Pero mira, todos están tan encendidos que\nlos <CLT=cltSTRONG>temas<CLT=cltSYSTEM> de sus declaraciones no coinciden."
+   }
+  },
+  "c01_402_001.stx": {
+   "14": {
+    "I bet you know\n<CLT=size2>what I’m talking<CLT=size1> about.": "Seguro sabes\n<CLT=size2>de qué estoy<CLT=size1> hablando."
+   }
+  }
+ },
+ "chap2": {
+  "c02_000_241.stx": {
+   "18": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\nIt's a treasure hunting game...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "20": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\nIt's a treasure hunting game...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "25": {
+    "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide": "<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nGuía para cazar tesoros"
+   }
+  },
+  "c02_003_241.stx": {
+   "61": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "63": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "68": {
+    "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide": "<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nGuía para cazar tesoros"
+   }
+  },
+  "c02_006_241.stx": {
+   "18": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "20": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "25": {
+    "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide": "<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nGuía para cazar tesoros"
+   }
+  },
+  "c02_007_241.stx": {
+   "18": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "20": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "25": {
+    "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide": "<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nGuía para cazar tesoros"
+   }
+  },
+  "c02_010_241.stx": {
+   "18": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "20": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "25": {
+    "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide": "<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nGuía para cazar tesoros"
+   }
+  },
+  "c02_011_241.stx": {
+   "18": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "20": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "25": {
+    "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide": "<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nGuía para cazar tesoros"
+   }
+  },
+  "c02_016_241.stx": {
+   "18": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "20": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "25": {
+    "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide": "<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nGuía para cazar tesoros"
+   }
+  },
+  "c02_230_001.stx": {
+   "3": {
+    "I suppose\n<CLT=cltWEAK><CLT=size2>five minutes": "supongo que\n<CLT=cltWEAK><CLT=size2>cinco minutos"
+   },
+   "34": {
+    "But there is no\n<CLT=cltWEAK><CLT=size2>evidence": "¡Pero no hay ninguna\n<CLT=cltWEAK><CLT=size2>prueba"
+   }
+  }
+ },
+ "chap3": {
+  "c03_000_241.stx": {
+   "18": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "20": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "25": {
+    "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide": "<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nGuía para cazar tesoros"
+   }
+  },
+  "c03_232_001.stx": {
+   "28": {
+    "I had <CLT=size1.5><CLT=cltWEAK>no opportunity": "No tuve <CLT=size1.5><CLT=cltWEAK>oportunidad"
+   }
+  },
+  "c03_706_050.stx": {
+   "1": {
+    "Many seances have been created all around the \nworld. <CLT=cltNORMAL>The Caged Child<CLT=cltNORMAL> is but one of them.": "Hay muchas sesiones espiritistas en todo el\nmundo. <CLT=cltNORMAL>El Niño Enjaulado<CLT=cltNORMAL> es solo una de ellas."
+   }
+  },
+  "c03_707_050.stx": {
+   "8": {
+    "I couldn't tell if they were any different...\nbut I'll keep that to myself.": "No noté si eran distintos...\npero me lo guardaré."
+   }
+  }
+ },
+ "chap4": {
+  "c04_000_241.stx": {
+   "18": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "20": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "25": {
+    "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide": "<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nGuía para cazar tesoros"
+   }
+  },
+  "c04_704_052.stx": {
+   "9": {
+    "We no catch any...\nMaybe Gonta just seeing things?": "No atrapamos ninguno...\n¿Gonta solo estaría imaginando cosas?"
+   }
+  },
+  "c04_705_050.stx": {
+   "7": {
+    "Damn... Nothing.": "Maldición... Nada."
+   }
+  },
+  "c04_709_052.stx": {
+   "7": {
+    "Ah, I mean...her *magic*.": "Ah, digo... para su magia."
+   }
+  }
+ },
+ "chap5": {
+  "c05_000_241.stx": {
+   "18": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "20": {
+    "<CLT=cltMIND>TREASURE HUNTER! MONOLITH!\nIt's a game where you look for treasure...": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nEs un juego de buscar tesoros..."
+   },
+   "25": {
+    "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide": "<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nGuía para cazar tesoros"
+   }
+  },
+  "c05_002_220.stx": {
+   "8": {
+    "<CLT=cltMIND>A facility for storing Exials?": "<CLT=cltMIND>¿Una instalación para guardar Exisals?"
+   }
+  },
+  "c05_203_000.stx": {
+   "14": {
+    "<CLT=cltMIND>In that case, I need to demonstrate\nthe flaw in relying on that evidnence.": "<CLT=cltMIND>Entonces tengo que demostrar el error\nde depender de esa prueba."
+   }
+  },
+  "c05_701_052.stx": {
+   "4": {
+    "Maki...I'm sorry...": "Maki... lo siento..."
+   }
+  }
+ },
+ "chap6": {
+  "c06_103_272.stx": {
+   "53": {
+    "\"Twins B\"?": "¿\"Twins B\"?"
+   },
+   "110": {
+    "\"Twins B\"...? Shuichi, what do you make\nof this message?": "\"Twins B\"...? Shuichi, ¿qué opinas\nde este mensaje?"
+   },
+   "120": {
+    "\"Twins B\"...": "\"Twins B\"..."
+   }
+  },
+  "c06_104_135.stx": {
+   "54": {
+    "<CLT=cltMIND>When Gonta first saw the message,\nit read \"Horse A.\"": "<CLT=cltMIND>Cuando Gonta vio el mensaje por\nprimera vez, decía \"Horse A\"."
+   },
+   "58": {
+    "<CLT=cltMIND>\"Twins B\"...\n": "<CLT=cltMIND>\"Twins B\"...\n"
+   },
+   "278": {
+    "When Gonta first saw it,\nit just said \"Horse A.\"": "Cuando Gonta lo vio por primera vez,\nsolo decía \"Horse A\"."
+   },
+   "281": {
+    "<CLT=cltSTRONG>\"Horse A\"<CLT=cltNORMAL> was actually\nthe complete clue.": "<CLT=cltSTRONG>\"Horse A\"<CLT=cltNORMAL>, o sea \"caballo A\",\nera en realidad la pista completa."
+   },
+   "285": {
+    "It said <CLT=cltSTRONG>\"Twins B.\"<CLT=cltNORMAL>": "Decía <CLT=cltSTRONG>\"Twins B\"<CLT=cltNORMAL>: \"gemelos B\"."
+   }
+  }
+ }
+}

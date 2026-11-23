@@ -1,0 +1,1430 @@
+{
+ "flash/adv/adv_chapter_level_US.spc": {
+  "chapter_pro_US.png": {
+   "texto": "Prólogo",
+   "fuente": "timesbd.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "borde": 0,
+   "color_borde": [
+    0,
+    0,
+    0
+   ],
+   "alinear": "centro",
+   "en": "Prologue",
+   "margen_alto": 0.72,
+   "contorno_final": 2,
+   "desgaste_original": true
+  },
+  "chapter_epi_US.png": {
+   "texto": "Epílogo",
+   "fuente": "timesbd.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "borde": 0,
+   "color_borde": [
+    0,
+    0,
+    0
+   ],
+   "alinear": "centro",
+   "en": "Epilogue",
+   "margen_alto": 0.72,
+   "contorno_final": 2,
+   "desgaste_original": true
+  },
+  "chapter_chapter_US.png": {
+   "texto": "Capítulo",
+   "fuente": "timesbd.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "borde": 0,
+   "color_borde": [
+    0,
+    0,
+    0
+   ],
+   "alinear": "centro",
+   "en": "Chapter",
+   "margen_alto": 0.72,
+   "contorno_final": 2,
+   "desgaste_original": true
+  },
+  "chapter_trial_US.png": {
+   "texto": "Demo",
+   "fuente": "timesbd.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "borde": 0,
+   "color_borde": [
+    0,
+    0,
+    0
+   ],
+   "alinear": "centro",
+   "en": "Demo ver.",
+   "margen_alto": 0.62,
+   "contorno_final": 2,
+   "desgaste_original": true
+  }
+ },
+ "flash/title/title_new_load_US.spc": {
+  "kanban_title_new_US.png": {
+   "texto": "NUEVA PARTIDA",
+   "fuente": "impact.ttf",
+   "rotacion": 4,
+   "en": "NEW GAME",
+   "inclinacion": 0.12,
+   "desgaste_original": true
+  },
+  "kanban_title_load_US.png": {
+   "texto": "CARGAR PARTIDA",
+   "fuente": "impact.ttf",
+   "rotacion": 4,
+   "en": "LOAD GAME",
+   "inclinacion": 0.12,
+   "desgaste_original": true
+  },
+  "kanban_title_quit_US.png": {
+   "texto": "SALIR",
+   "fuente": "impact.ttf",
+   "rotacion": 4,
+   "en": "QUIT",
+   "inclinacion": 0.12,
+   "desgaste_original": true
+  }
+ },
+ "flash/title/title_option_US.spc": {
+  "title_notice_US.png": {
+   "texto": "AVISO",
+   "fuente": "impact.ttf",
+   "alinear": "izquierda",
+   "en": "NOTICE",
+   "inclinacion": 0.15,
+   "desgaste_original": true
+  },
+  "kanban_system_US.png": {
+   "texto": "OPCIONES",
+   "imagen_traducida": "imagenes/traducidas/menu_opciones_cartel_v2.png"
+  }
+ },
+ "flash/title/title_chapter_US.spc": {
+  "title_s_chapter_US.png": {
+   "texto": "CAPÍTULO",
+   "fuente": "impact.ttf",
+   "inclinacion": 0.12,
+   "alinear": "izquierda",
+   "en": "CHAPTER",
+   "desgaste_original": true
+  },
+  "title_US.png": {
+   "texto": "ELEGIR CAPÍTULO",
+   "imagen_traducida": "imagenes/traducidas/menu_elegir_capitulo_banda_v2.png"
+  }
+ },
+ "flash/title/title_chapter_scene_US.spc": {
+  "title_s_scene_US.png": {
+   "texto": "ESCENA",
+   "fuente": "impact.ttf",
+   "inclinacion": 0.12,
+   "en": "SCENE",
+   "desgaste_original": true
+  }
+ },
+ "flash/title/title_cross_US.spc": {
+  "title_00_US.png": {
+   "texto": "DESCARGAR",
+   "fuente": "impact.ttf",
+   "inclinacion": 0.12,
+   "en": "DOWNLOAD",
+   "desgaste_original": true
+  },
+  "title_01_US.png": {
+   "texto": "SUBIR",
+   "fuente": "impact.ttf",
+   "inclinacion": 0.12,
+   "en": "UPLOAD",
+   "desgaste_original": true
+  }
+ },
+ "flash/title/title_option_tab_US.spc": {
+  "m_hanten_US.png": {
+   "texto": "Invertido",
+   "fuente": "original:pixel",
+   "en": "Invert"
+  },
+  "s_slow_US.png": {
+   "texto": "LENTO",
+   "fuente": "original:angular",
+   "en": "SLOW"
+  },
+  "s_fast_US.png": {
+   "texto": "RÁPIDO",
+   "fuente": "original:angular",
+   "en": "FAST"
+  },
+  "m_on_US.png": {
+   "texto": "SÍ",
+   "fuente": "original:angular",
+   "en": "ON"
+  },
+  "m_off_US.png": {
+   "texto": "NO",
+   "fuente": "original:angular",
+   "en": "OFF"
+  },
+  "m_kotei_US.png": {
+   "texto": "Fijo",
+   "fuente": "original:pixel",
+   "en": "Fixed"
+  },
+  "m_kaiten_US.png": {
+   "texto": "Girar",
+   "fuente": "original:pixel",
+   "en": "Rotate"
+  },
+  "l_zikkou_US.png": {
+   "texto": "Ejecutar",
+   "fuente": "original:pixel",
+   "en": "Execute"
+  },
+  "m_eigo_US.png": {
+   "texto": "Inglés",
+   "fuente": "original:pixel",
+   "en": "English"
+  },
+  "m_nihon_US.png": {
+   "texto": "Japonés",
+   "fuente": "original:pixel",
+   "en": "Japanese"
+  },
+  "m_shooter_US.png": {
+   "texto": "Disparos",
+   "imagen_traducida": "imagenes/traducidas/opciones_disparos.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  }
+ },
+ "flash/title/titile_nanido_US.spc": {
+  "hyoudai_acti_US.png": {
+   "texto": "Dificultad de acción",
+   "fuente": "timesbd.ttf",
+   "alinear": "izquierda",
+   "en": "Action Difficulty",
+   "margen_alto": 0.88,
+   "sombra": 2
+  },
+  "hyoudai_suiri_US.png": {
+   "texto": "Dificultad lógica",
+   "fuente": "timesbd.ttf",
+   "alinear": "izquierda",
+   "en": "Logic Difficulty",
+   "margen_alto": 0.88,
+   "sombra": 2
+  },
+  "kanban_easy_US.png": {
+   "borrar": [
+    [
+     [
+      140,
+      40
+     ],
+     [
+      332,
+      40
+     ],
+     [
+      332,
+      108
+     ],
+     [
+      140,
+      108
+     ]
+    ],
+    [
+     [
+      155,
+      128
+     ],
+     [
+      362,
+      128
+     ],
+     [
+      362,
+      163
+     ],
+     [
+      155,
+      163
+     ]
+    ]
+   ],
+   "tinta": "clara",
+   "umbral": 170,
+   "textos": [
+    {
+     "texto": "Amable",
+     "en": "Kind",
+     "fuente": "segoeuib.ttf",
+     "color": [
+      250,
+      250,
+      250
+     ],
+     "centro": [
+      250,
+      76
+     ],
+     "alto": 56,
+     "ancho_max": 190
+    },
+    {
+     "texto": "Sin presiones",
+     "en": "Safe and sound",
+     "fuente": "arialbd.ttf",
+     "color": [
+      250,
+      250,
+      250
+     ],
+     "centro": [
+      264,
+      146
+     ],
+     "alto": 26,
+     "ancho_max": 195
+    }
+   ]
+  },
+  "kanban_hard_US.png": {
+   "borrar": [
+    [
+     [
+      138,
+      95
+     ],
+     [
+      348,
+      95
+     ],
+     [
+      348,
+      168
+     ],
+     [
+      138,
+      168
+     ]
+    ],
+    [
+     [
+      132,
+      170
+     ],
+     [
+      342,
+      170
+     ],
+     [
+      342,
+      193
+     ],
+     [
+      132,
+      193
+     ]
+    ]
+   ],
+   "tinta": "clara",
+   "umbral": 120,
+   "textos": [
+    {
+     "texto": "Cruel",
+     "en": "Mean",
+     "fuente": "timesbd.ttf",
+     "color": [
+      250,
+      250,
+      250
+     ],
+     "centro": [
+      242,
+      132
+     ],
+     "alto": 52,
+     "ancho_max": 210
+    },
+    {
+     "texto": "¡Principiantes, cuidado!",
+     "en": "Beginners beware!",
+     "fuente": "timesbd.ttf",
+     "color": [
+      235,
+      205,
+      40
+     ],
+     "centro": [
+      238,
+      182
+     ],
+     "alto": 16,
+     "ancho_max": 210
+    }
+   ]
+  },
+  "kanban_nomal_US.png": {
+   "borrar": [
+    [
+     [
+      36,
+      74
+     ],
+     [
+      224,
+      74
+     ],
+     [
+      224,
+      100
+     ],
+     [
+      36,
+      100
+     ]
+    ]
+   ],
+   "tinta": "clara",
+   "umbral": 170,
+   "textos": [
+    {
+     "texto": "A partir de aquí",
+     "en": "Beyond this point",
+     "fuente": "georgiab.ttf",
+     "color": [
+      250,
+      250,
+      250
+     ],
+     "centro": [
+      128,
+      87
+     ],
+     "alto": 20,
+     "ancho_max": 185
+    }
+   ]
+  },
+  "start_US.png": {
+   "borrar": [
+    [
+     [
+      88,
+      98
+     ],
+     [
+      342,
+      88
+     ],
+     [
+      344,
+      168
+     ],
+     [
+      90,
+      176
+     ]
+    ]
+   ],
+   "tinta": "oscura",
+   "umbral": 70,
+   "textos": [
+    {
+     "texto": "COMENZAR",
+     "en": "GAME START",
+     "fuente": "impact.ttf",
+     "color": [
+      20,
+      18,
+      10
+     ],
+     "rotacion": 3,
+     "centro": [
+      215,
+      132
+     ],
+     "alto": 48,
+     "ancho_max": 240,
+     "inclinacion": 0.12
+    }
+   ]
+  },
+  "title_US.png": {
+   "borrar": [
+    [
+     [
+      30,
+      16
+     ],
+     [
+      392,
+      12
+     ],
+     [
+      394,
+      72
+     ],
+     [
+      32,
+      78
+     ]
+    ]
+   ],
+   "tinta": "clara",
+   "umbral": 120,
+   "textos": [
+    {
+     "texto": "Elige la dificultad",
+     "en": "Set Difficulty",
+     "fuente": "timesbd.ttf",
+     "color": [
+      235,
+      215,
+      40
+     ],
+     "rotacion": 1,
+     "centro": [
+      205,
+      46
+     ],
+     "alto": 44,
+     "ancho_max": 360
+    }
+   ]
+  }
+ },
+ "flash/title/titile_mainmenu_setumei_US.spc": {
+  "setumei_00_US.png": {
+   "texto": "Juega la historia desde el principio.",
+   "fuente": "juego",
+   "alinear": "izquierda",
+   "en": "Play the story from the beginning."
+  },
+  "setumei_01_US.png": {
+   "texto": "Continúa la historia desde donde te quedaste.",
+   "fuente": "juego",
+   "alinear": "izquierda",
+   "en": "Continue the story from where you left off."
+  },
+  "setumei_02_US.png": {
+   "texto": "Vuelve a jugar capítulos que ya completaste.",
+   "fuente": "juego",
+   "alinear": "izquierda",
+   "en": "Replay chapters that you have already cleared."
+  },
+  "setumei_03_US.png": {
+   "texto": "Entrena a los estudiantes de la Academia Pico de la Esperanza.",
+   "fuente": "juego",
+   "alinear": "izquierda",
+   "en": "Train the students of Hope's Peak Academy."
+  },
+  "setumei_04_US.png": {
+   "texto": "Un juego tipo RPG con los estudiantes del modo Entrenamiento.",
+   "fuente": "juego",
+   "alinear": "izquierda",
+   "en": "Play an RPG-like game with the students from Training mode."
+  },
+  "setumei_05_US.png": {
+   "texto": "Fortalece tus lazos con tus compañeros.",
+   "fuente": "juego",
+   "alinear": "izquierda",
+   "en": "Strengthen your bonds with your fellow students."
+  },
+  "setumei_06_US.png": {
+   "texto": "Ajusta la configuración del juego.",
+   "fuente": "juego",
+   "alinear": "izquierda",
+   "en": "Adjust the gameplay settings."
+  },
+  "setumei_07_US.png": {
+   "texto": "Disfruta de contenido adicional.",
+   "fuente": "juego",
+   "alinear": "izquierda",
+   "en": "Enjoy additional content."
+  },
+  "setumei_08_US.png": {
+   "texto": "Este contenido aún no se ha desbloqueado.",
+   "fuente": "juego",
+   "alinear": "izquierda",
+   "en": "This content hasn't been unlocked."
+  }
+ },
+ "flash/title/titile_mainmenu_US.spc": {
+  "kanban_new_US.png": {
+   "borrar": [
+    [
+     [
+      158,
+      62
+     ],
+     [
+      455,
+      30
+     ],
+     [
+      458,
+      88
+     ],
+     [
+      162,
+      116
+     ]
+    ]
+   ],
+   "tinta": "oscura",
+   "umbral": 90,
+   "textos": [
+    {
+     "texto": "NUEVA PARTIDA",
+     "en": "NEW GAME",
+     "fuente": "AGENCYB.TTF",
+     "color": [
+      20,
+      18,
+      10
+     ],
+     "rotacion": 7.5,
+     "centro": [
+      308,
+      74
+     ],
+     "alto": 44,
+     "ancho_max": 300
+    }
+   ]
+  },
+  "kanban_load_US.png": {
+   "borrar": [
+    [
+     [
+      66,
+      44
+     ],
+     [
+      314,
+      36
+     ],
+     [
+      316,
+      114
+     ],
+     [
+      68,
+      122
+     ]
+    ]
+   ],
+   "tinta": "oscura",
+   "umbral": 90,
+   "textos": [
+    {
+     "texto": "Continuar",
+     "en": "Continue",
+     "fuente": "ROCK.TTF",
+     "color": [
+      20,
+      18,
+      10
+     ],
+     "rotacion": -6,
+     "centro": [
+      191,
+      80
+     ],
+     "alto": 44,
+     "ancho_max": 235,
+     "ajuste_uniforme": true
+    }
+   ],
+   "mascara_borrar": "imagenes/mascaras/continuar.png"
+  },
+  "kanban_chapter_US.png": {
+   "texto": "ELEGIR CAPÍTULO",
+   "imagen_traducida": "imagenes/traducidas/menu_elegir_capitulo_flecha_v2.png"
+  },
+  "kanban_system_US.png": {
+   "texto": "OPCIONES",
+   "imagen_traducida": "imagenes/traducidas/menu_opciones_cartel_v2.png"
+  },
+  "kanban_succ_US.png": {
+   "texto": "Plan de Talentos",
+   "imagen_traducida": "imagenes/traducidas/menu_plan_talentos.png"
+  },
+  "kanban_rpg_US.png": {
+   "texto": "Prueba Monokuma",
+   "imagen_traducida": "imagenes/traducidas/menu_prueba_monokuma.png"
+  },
+  "kanban_ainori_US.png": {
+   "texto": "Salmón",
+   "imagen_traducida": "imagenes/traducidas/menu_salmon.png"
+  }
+ },
+ "flash/title/title_pless_any_US.spc": {
+  "pless_any_US.png": {
+   "borrar": [
+    [
+     [
+      140,
+      44
+     ],
+     [
+      474,
+      26
+     ],
+     [
+      476,
+      92
+     ],
+     [
+      142,
+      102
+     ]
+    ]
+   ],
+   "tinta": "clara",
+   "umbral": 150,
+   "textos": [
+    {
+     "texto": "PRESIONA UN BOTÓN",
+     "en": "PRESS ANY BUTTON",
+     "fuente": "impact.ttf",
+     "color": [
+      240,
+      240,
+      240
+     ],
+     "rotacion": 5,
+     "centro": [
+      310,
+      63
+     ],
+     "alto": 40,
+     "ancho_max": 380,
+     "inclinacion": 0.12
+    }
+   ],
+   "dilatar": 1
+  },
+  "pless_any_key_US.png": {
+   "borrar": [
+    [
+     [
+      165,
+      44
+     ],
+     [
+      440,
+      28
+     ],
+     [
+      442,
+      92
+     ],
+     [
+      167,
+      102
+     ]
+    ]
+   ],
+   "tinta": "clara",
+   "umbral": 150,
+   "textos": [
+    {
+     "texto": "PRESIONA UNA TECLA",
+     "en": "PRESS ANY KEY",
+     "fuente": "impact.ttf",
+     "color": [
+      240,
+      240,
+      240
+     ],
+     "rotacion": 5,
+     "centro": [
+      305,
+      63
+     ],
+     "alto": 40,
+     "ancho_max": 380,
+     "inclinacion": 0.12
+    }
+   ],
+   "dilatar": 1
+  }
+ },
+ "flash/briefing/br_sele_US.spc": {
+  "titile_01_US.png": {
+   "texto": "Capítulo 1 \"Mi juicio escolar, nuestro juicio escolar\"",
+   "en": "Chapter 1 \"My Class Trial, Our Class Trial\"",
+   "fuente": "timesbd.ttf",
+   "alinear": "izquierda",
+   "acabado_original": true,
+   "brillo": 4,
+   "intensidad_brillo": 1.25
+  },
+  "titile_02_US.png": {
+   "texto": "Capítulo 2 \"Una delgada línea divide el cielo del infierno\"",
+   "en": "Chapter 2 \"A Thin Line Divides Heaven and Hell\"",
+   "fuente": "timesbd.ttf",
+   "alinear": "izquierda",
+   "acabado_original": true,
+   "brillo": 4,
+   "intensidad_brillo": 1.25
+  },
+  "titile_03_US.png": {
+   "texto": "Capítulo 3 \"Estudiante transferido de ultratumba\"",
+   "en": "Chapter 3 \"Transfer Student From Beyond the Grave\"",
+   "fuente": "timesbd.ttf",
+   "alinear": "izquierda",
+   "acabado_original": true,
+   "brillo": 4,
+   "intensidad_brillo": 1.25
+  },
+  "titile_04_US.png": {
+   "texto": "Capítulo 4 \"Vive y deja vivir al mundo lánguido\"",
+   "en": "Chapter 4 \"Live and Let The Languid World Live\"",
+   "fuente": "timesbd.ttf",
+   "alinear": "izquierda",
+   "acabado_original": true,
+   "brillo": 4,
+   "intensidad_brillo": 1.25
+  },
+  "titile_05_US.png": {
+   "texto": "Capítulo 5 \"Viaje sin pasión ni propósito\"",
+   "en": "Chapter 5 \"Voyage Without Passion or Purpose\"",
+   "fuente": "timesbd.ttf",
+   "alinear": "izquierda",
+   "acabado_original": true,
+   "brillo": 4,
+   "intensidad_brillo": 1.25
+  },
+  "titile_06_US.png": {
+   "texto": "Capítulo 6 \"Adiós, Danganronpa\"",
+   "en": "Chapter 6 \"Goodbye Danganronpa\"",
+   "fuente": "timesbd.ttf",
+   "alinear": "izquierda",
+   "acabado_original": true,
+   "brillo": 4,
+   "intensidad_brillo": 1.25
+  }
+ },
+ "flash/briefing/br_nanido_US.spc": {
+  "nanido_US.png": {
+   "texto": "Elegir dificultad",
+   "en": "Select Difficulty",
+   "fuente": "timesbd.ttf",
+   "acabado_original": true,
+   "brillo": 4,
+   "intensidad_brillo": 1.25
+  }
+ },
+ "flash/briefing/br_title_US.spc": {
+  "benronzyunbi_lang_US.png": {
+   "texto": "Preparar juicio",
+   "imagen_traducida": "imagenes/traducidas/menu_preparar_juicio_v3.png"
+  },
+  "benronzyunbi_lang_re_US.png": {
+   "texto": "Reanudar juicio",
+   "imagen_traducida": "imagenes/traducidas/menu_reanudar_juicio_v3.png"
+  }
+ },
+ "flash/help/help_top_tutolial_US.spc": {
+  "back_US.png": {
+   "texto": "ATRÁS",
+   "en": "BACK",
+   "fuente": "original:angular",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "ajuste_uniforme": true
+  },
+  "help_US.png": {
+   "texto": "AYUDA",
+   "en": "HELP",
+   "fuente": "original:angular",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "ajuste_uniforme": true
+  },
+  "title_l_US.png": {
+   "texto": "CONTROLES",
+   "en": "CONTROL",
+   "fuente": "original:angular",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alinear": "izquierda",
+   "ajuste_uniforme": true
+  },
+  "title_r_US.png": {
+   "texto": "SISTEMA",
+   "en": "SYSTEM",
+   "fuente": "original:angular",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alinear": "derecha",
+   "ajuste_uniforme": true
+  }
+ },
+ "flash/help/help_top_US.spc": {
+  "back_US.png": {
+   "texto": "ATRÁS",
+   "en": "BACK",
+   "fuente": "original:angular",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "ajuste_uniforme": true
+  },
+  "title_l_US.png": {
+   "texto": "CONTROLES",
+   "en": "CONTROL",
+   "fuente": "original:angular",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alinear": "izquierda",
+   "ajuste_uniforme": true
+  },
+  "title_r_US.png": {
+   "texto": "SISTEMA",
+   "en": "SYSTEM",
+   "fuente": "original:angular",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alinear": "derecha",
+   "ajuste_uniforme": true
+  }
+ },
+ "flash/adv/adv_kotodama_US.spc": {
+  "get_000_US.png": {
+   "texto": "¡BALA DE LA VERDAD OBTENIDA!",
+   "en": "OBTAINED TRUTH BULLET!",
+   "fuente": "original:angular",
+   "color": [
+    5,
+    5,
+    5
+   ],
+   "borde": 0,
+   "color_borde": [
+    30,
+    30,
+    30
+   ],
+   "contorno_final": 2,
+   "color_contorno": [
+    255,
+    255,
+    255
+   ],
+   "margen_alto": 0.78,
+   "ajuste_uniforme": true
+  }
+ },
+ "flash/adv/adv_levelup_US.spc": {
+  "levelup_tx_US.png": {
+   "texto": "¡SUBES DE NIVEL!",
+   "en": "LEVEL UP!",
+   "fuente": "original:angular",
+   "color": [
+    5,
+    5,
+    5
+   ],
+   "borde": 0,
+   "color_borde": [
+    30,
+    30,
+    30
+   ],
+   "contorno_final": 2,
+   "color_contorno": [
+    255,
+    255,
+    255
+   ],
+   "margen_alto": 0.78,
+   "ajuste_uniforme": true
+  }
+ },
+ "flash/techou/techou_title_US.spc": {
+  "title_tx_system_US.png": {
+   "texto": "SISTEMA",
+   "en": "SYSTEM",
+   "imagen_traducida": "imagenes/traducidas/techou_title_tx_system_US.png",
+   "grises_nativos": true
+  },
+  "title_tx_map_US.png": {
+   "texto": "MAPA",
+   "en": "MAP",
+   "imagen_traducida": "imagenes/traducidas/techou_title_tx_map_US.png",
+   "grises_nativos": true
+  },
+  "title_tx_skill_US.png": {
+   "texto": "HABILIDADES",
+   "en": "SKILL",
+   "imagen_traducida": "imagenes/traducidas/techou_title_tx_skill_US.png",
+   "grises_nativos": true
+  },
+  "title_tx_kotodama_US.png": {
+   "texto": "BALAS DE LA VERDAD",
+   "imagen_traducida": "imagenes/traducidas/techou_title_US__title_tx_kotodama_US.png",
+   "grises_nativos": true
+  },
+  "title_tx_kousoku_US.png": {
+   "texto": "REGLAMENTO",
+   "imagen_traducida": "imagenes/traducidas/techou_title_US__title_tx_kousoku_US.png",
+   "grises_nativos": true
+  },
+  "title_tx_present_US.png": {
+   "texto": "REGALOS",
+   "imagen_traducida": "imagenes/traducidas/techou_title_US__title_tx_present_US.png",
+   "grises_nativos": true
+  },
+  "title_tx_tsusinbo_US.png": {
+   "texto": "CALIFICACIONES",
+   "imagen_traducida": "imagenes/traducidas/techou_title_US__title_tx_tsusinbo_US.png",
+   "grises_nativos": true
+  },
+  "side_medal_US.png": {
+   "texto": "MONOM.",
+   "imagen_traducida": "imagenes/traducidas/techou_title_US__side_medal_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  }
+ },
+ "flash/techou/techou_system_option_tab_US.spc": {
+  "m_hanten_US.png": {
+   "texto": "Invertido",
+   "fuente": "original:pixel",
+   "en": "Invert"
+  },
+  "s_slow_US.png": {
+   "texto": "LENTO",
+   "fuente": "original:angular",
+   "en": "SLOW"
+  },
+  "s_fast_US.png": {
+   "texto": "RÁPIDO",
+   "fuente": "original:angular",
+   "en": "FAST"
+  },
+  "m_on_US.png": {
+   "texto": "SÍ",
+   "fuente": "original:angular",
+   "en": "ON"
+  },
+  "m_off_US.png": {
+   "texto": "NO",
+   "fuente": "original:angular",
+   "en": "OFF"
+  },
+  "m_kotei_US.png": {
+   "texto": "Fijo",
+   "fuente": "original:pixel",
+   "en": "Fix"
+  },
+  "m_kaiten_US.png": {
+   "texto": "Girar",
+   "fuente": "original:pixel",
+   "en": "Turn"
+  },
+  "l_zikkou_US.png": {
+   "texto": "Ejecutar",
+   "fuente": "original:pixel",
+   "en": "Execute"
+  },
+  "m_eigo_US.png": {
+   "texto": "Inglés",
+   "fuente": "original:pixel",
+   "en": "English"
+  },
+  "m_nihon_US.png": {
+   "texto": "Japonés",
+   "fuente": "original:pixel",
+   "en": "Japanese"
+  },
+  "notice_US.png": {
+   "texto": "AVISO",
+   "imagen_traducida": "imagenes/traducidas/techou_system_option_tab_US__notice_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  },
+  "m_shooter_US.png": {
+   "texto": "Disparos",
+   "imagen_traducida": "imagenes/traducidas/opciones_disparos.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  }
+ },
+ "flash/techou/techou_system_US.spc": {
+  "title_save_DXT1_US.png": {
+   "texto": "GUARDAR",
+   "imagen_traducida": "imagenes/traducidas/techou_system_US__title_save_DXT1_US.png"
+  },
+  "title_option_DXT1_US.png": {
+   "texto": "OPCIONES",
+   "imagen_traducida": "imagenes/traducidas/techou_system_US__title_option_DXT1_US.png"
+  },
+  "title_mainmenu_DXT1_US.png": {
+   "texto": "MENÚ\nPRINCIPAL",
+   "imagen_traducida": "imagenes/traducidas/techou_system_US__title_mainmenu_DXT1_US.png"
+  },
+  "title_load_DXT1_US.png": {
+   "texto": "CARGAR",
+   "imagen_traducida": "imagenes/traducidas/techou_system_US__title_load_DXT1_US.png"
+  },
+  "title_kisekae_DXT1_US.png": {
+   "texto": "CAMBIAR\nTEMA",
+   "imagen_traducida": "imagenes/traducidas/techou_system_US__title_kisekae_DXT1_US.png"
+  },
+  "title_backlog_DXT1_US.png": {
+   "texto": "HISTORIAL",
+   "imagen_traducida": "imagenes/traducidas/techou_system_US__title_backlog_DXT1_US.png"
+  },
+  "notice_US.png": {
+   "texto": "AVISO",
+   "imagen_traducida": "imagenes/traducidas/techou_system_US__notice_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  }
+ },
+ "flash/techou/techou_system_kisekae_US.spc": {
+  "image_US.png": {
+   "texto": "IMAGEN",
+   "imagen_traducida": "imagenes/traducidas/techou_system_kisekae_US__image_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  },
+  "notice_US.png": {
+   "texto": "AVISO",
+   "imagen_traducida": "imagenes/traducidas/techou_system_kisekae_US__notice_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  },
+  "set_new_US.png": {
+   "texto": "NUEVO",
+   "imagen_traducida": "imagenes/traducidas/techou_system_kisekae_US__set_new_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  },
+  "set_set_base_US.png": {
+   "texto": "EN USO",
+   "imagen_traducida": "imagenes/traducidas/techou_system_kisekae_US__set_set_base_US.png",
+   "grises_nativos": true
+  }
+ },
+ "flash/techou/techou_system_option_US.spc": {
+  "notice_US.png": {
+   "texto": "AVISO",
+   "imagen_traducida": "imagenes/traducidas/techou_system_option_US__notice_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  }
+ },
+ "flash/techou/techou_kotodama_US.spc": {
+  "readmore_US.png": {
+   "texto": "LEER MÁS...",
+   "imagen_traducida": "imagenes/traducidas/techou_kotodama_US__readmore_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  }
+ },
+ "flash/techou/techou_map_floor_US.spc": {
+  "s_titile_floor_US.png": {
+   "texto": "PISO",
+   "imagen_traducida": "imagenes/traducidas/techou_map_floor_US__s_titile_floor_US.png",
+   "grises_nativos": true
+  }
+ },
+ "flash/techou/techou_map_group_window_US.spc": {
+  "chara_US.png": {
+   "texto": "ALUMNOS",
+   "imagen_traducida": "imagenes/traducidas/techou_map_group_window_US__chara_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  }
+ },
+ "flash/techou/techou_map_list_US.spc": {
+  "s_titile_student_US.png": {
+   "texto": "ALUMNOS",
+   "imagen_traducida": "imagenes/traducidas/techou_map_list_US__s_titile_student_US.png",
+   "grises_nativos": true
+  },
+  "s_titile_place_US.png": {
+   "texto": "LUGARES",
+   "imagen_traducida": "imagenes/traducidas/techou_map_list_US__s_titile_place_US.png",
+   "grises_nativos": true
+  }
+ },
+ "flash/techou/techou_map_mark_go_US.spc": {
+  "go_US.png": {
+   "texto": "¡IR!",
+   "imagen_traducida": "imagenes/traducidas/techou_map_mark_go_US__go_US.png",
+   "color_plano_nativo": [
+    0,
+    0,
+    0
+   ]
+  }
+ },
+ "flash/techou/techou_set_skill_US.spc": {
+  "text_slot_US.png": {
+   "texto": "ESP.",
+   "imagen_traducida": "imagenes/traducidas/techou_set_skill_US__text_slot_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    4
+   ]
+  },
+  "text_setskill_US.png": {
+   "texto": "ASIGNAR HABILIDAD",
+   "imagen_traducida": "imagenes/traducidas/techou_set_skill_US__text_setskill_US.png"
+  }
+ },
+ "flash/techou/techou_skill_window_US.spc": {
+  "type_US.png": {
+   "texto": "TIPO",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_window_US__type_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  },
+  "notice_US.png": {
+   "texto": "AVISO",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_window_US__notice_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  }
+ },
+ "flash/techou/techou_present_US.spc": {
+  "complete_US.png": {
+   "texto": "COMPLETO!",
+   "imagen_traducida": "imagenes/traducidas/techou_present_US__complete_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  },
+  "no_US.png": {
+   "texto": "N.º",
+   "imagen_traducida": "imagenes/traducidas/techou_present_US__no_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  }
+ },
+ "flash/techou/techou_kotodama_list_US.spc": {
+  "no_US.png": {
+   "texto": "N.º",
+   "imagen_traducida": "imagenes/traducidas/techou_kotodama_list_US__no_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  }
+ },
+ "flash/techou/techou_skill_list_US.spc": {
+  "text_comp_US.png": {
+   "texto": "¡COMPLETO!",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_list_US__text_comp_US.png",
+   "color_plano_nativo": [
+    0,
+    216,
+    255
+   ]
+  },
+  "text_new_US.png": {
+   "texto": "¡NUEVO!",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_list_US__text_new_US.png",
+   "color_plano_nativo": [
+    255,
+    0,
+    0
+   ]
+  },
+  "text_skilllist_US.png": {
+   "texto": "HABILIDADES",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_list_US__text_skilllist_US.png",
+   "color_plano_nativo": [
+    0,
+    216,
+    255
+   ]
+  }
+ },
+ "flash/techou/techou_skill_icon_US.spc": {
+  "text_set_US.png": {
+   "texto": "¡USAR!",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_icon_US__text_set_US.png"
+  },
+  "text_remove_US.png": {
+   "texto": "RETIRAR",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_icon_US__text_remove_US.png"
+  },
+  "text_buy_US.png": {
+   "texto": "¡COMPRAR!",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_icon_US__text_buy_US.png"
+  }
+ },
+ "flash/techou/techou_skill_hatugen_US.spc": {
+  "ef_up_US.png": {
+   "texto": "¡SUBE!",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_hatugen_US__ef_up_US.png"
+  },
+  "ef_down_US.png": {
+   "texto": "BAJA",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_hatugen_US__ef_down_US.png"
+  }
+ },
+ "flash/techou/techou_skill_seisin_US.spc": {
+  "ef_up_US.png": {
+   "texto": "¡SUBE!",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_seisin_US__ef_up_US.png"
+  },
+  "ef_down_US.png": {
+   "texto": "BAJA",
+   "imagen_traducida": "imagenes/traducidas/techou_skill_seisin_US__ef_down_US.png"
+  }
+ },
+ "flash/techou/techou_tsusinbo_message_US.spc": {
+  "shuzinko_st_level_US.png": {
+   "texto": "NIVEL",
+   "imagen_traducida": "imagenes/traducidas/techou_tsusinbo_message_US__shuzinko_st_level_US.png",
+   "color_plano_nativo": [
+    0,
+    0,
+    0
+   ]
+  },
+  "shuzinko_st_next_US.png": {
+   "texto": "SIG.",
+   "imagen_traducida": "imagenes/traducidas/techou_tsusinbo_message_US__shuzinko_st_next_US.png",
+   "color_plano_nativo": [
+    0,
+    0,
+    0
+   ]
+  },
+  "shuzinko_st_total_US.png": {
+   "texto": "TOTAL",
+   "imagen_traducida": "imagenes/traducidas/techou_tsusinbo_message_US__shuzinko_st_total_US.png",
+   "color_plano_nativo": [
+    0,
+    0,
+    0
+   ]
+  },
+  "skilllist_US.png": {
+   "texto": "HABILIDADES",
+   "imagen_traducida": "imagenes/traducidas/techou_tsusinbo_message_US__skilllist_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  },
+  "level_US.png": {
+   "texto": "NIVEL",
+   "imagen_traducida": "imagenes/traducidas/techou_tsusinbo_message_US__level_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  },
+  "level_00_US.png": {
+   "texto": "PÁG.",
+   "imagen_traducida": "imagenes/traducidas/techou_tsusinbo_message_US__level_00_US.png",
+   "color_plano_nativo": [
+    255,
+    255,
+    255
+   ]
+  }
+ }
+}

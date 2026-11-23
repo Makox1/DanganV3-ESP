@@ -1,0 +1,1612 @@
+{
+ "casino_00.stx": [
+  {
+   "id": 0,
+   "en": "THIS...IS-THE-CASINO...",
+   "es": "ESTE... ES-EL-CASINO..."
+  },
+  {
+   "id": 1,
+   "en": "YOU-CAN-PLAY-AS-MUCH-AS-YOU-\nLIKE...",
+   "es": "PUEDES-JUGAR-TODO-LO-QUE-\nQUIERAS..."
+  },
+  {
+   "id": 2,
+   "en": "Oh, and don't mind the guitar.",
+   "es": "Ah, y no le hagas caso a la guitarra."
+  },
+  {
+   "id": 3,
+   "en": "Just like at the Ultimate Academy, you can\nexchange coins and get some good shit here!",
+   "es": "¡Igual que en la Academia Definitiva, aquí puedes\ncambiar monedas y conseguir cosas bien chidas!"
+  },
+  {
+   "id": 4,
+   "en": "Yes",
+   "es": "Sí"
+  },
+  {
+   "id": 5,
+   "en": "No",
+   "es": "No"
+  },
+  {
+   "id": 6,
+   "en": "Are you unsure of something?",
+   "es": "¿Tienes alguna duda?"
+  },
+  {
+   "id": 7,
+   "en": "<CLT=cltSYSTEM>Would you like to leave the casino?",
+   "es": "<CLT=cltSYSTEM>¿Quieres salir del casino?"
+  },
+  {
+   "id": 8,
+   "en": "<CLT=cltMIND>Monitor",
+   "es": "<CLT=cltMIND>Monitor"
+  }
+ ],
+ "casino_01.stx": [
+  {
+   "id": 0,
+   "en": "Huh? Did we always have a game like\nthis here?",
+   "es": "¿Eh? ¿Siempre hubo un juego como\neste aquí?"
+  },
+  {
+   "id": 1,
+   "en": "You can exchange your casino coins\nat the exchange booth upstairs.",
+   "es": "Puedes cambiar tus fichas del casino\nen la caseta de cambio de arriba."
+  },
+  {
+   "id": 2,
+   "en": "The coins you gain here can be taken\nto story mode, too!",
+   "es": "¡Las fichas que ganes aquí también se pueden\nllevar al modo historia!"
+  },
+  {
+   "id": 3,
+   "en": "Each game is made specifically for the casino.\nLots of points will get you lots of coins.",
+   "es": "Cada juego está hecho para el casino.\nMuchos puntos te darán muchas fichas."
+  },
+  {
+   "id": 4,
+   "en": "Yes",
+   "es": "Sí"
+  },
+  {
+   "id": 5,
+   "en": "No",
+   "es": "No"
+  },
+  {
+   "id": 6,
+   "en": "Are you unsure of something?",
+   "es": "¿Tienes alguna duda?"
+  },
+  {
+   "id": 7,
+   "en": "<CLT=cltSYSTEM>Would you like to leave?",
+   "es": "<CLT=cltSYSTEM>¿Quieres salir?"
+  },
+  {
+   "id": 8,
+   "en": "<CLT=cltMIND>This is OUTLAW RUN,\nA driving game.",
+   "es": "<CLT=cltMIND>Este es OUTLAW RUN,\nun juego de manejo."
+  },
+  {
+   "id": 9,
+   "en": "<CLT=cltMIND>I guess it isn't ready to play yet...",
+   "es": "<CLT=cltMIND>Parece que todavía no se puede jugar..."
+  },
+  {
+   "id": 10,
+   "en": "<CLT=cltMIND>This is OUTLAW RUN,\nA driving game.",
+   "es": "<CLT=cltMIND>Este es OUTLAW RUN,\nun juego de manejo."
+  },
+  {
+   "id": 11,
+   "en": "<CLT=cltMIND>Maybe I'll try this one...",
+   "es": "<CLT=cltMIND>Quizá pruebe este..."
+  },
+  {
+   "id": 12,
+   "en": "Yes",
+   "es": "Sí"
+  },
+  {
+   "id": 13,
+   "en": "No",
+   "es": "No"
+  },
+  {
+   "id": 14,
+   "en": "Read the rules",
+   "es": "Leer las reglas"
+  },
+  {
+   "id": 15,
+   "en": "<CLT=cltSYSTEM>OUTLAW RUN\nDriver's Manual",
+   "es": "<CLT=cltSYSTEM>OUTLAW RUN\nManual del conductor"
+  },
+  {
+   "id": 16,
+   "en": "<CLT=cltSYSTEM>Run over the targets with style\nand try to get the high score!",
+   "es": "<CLT=cltSYSTEM>¡Atropella los objetivos con estilo\ne intenta lograr la puntuación más alta!"
+  },
+  {
+   "id": 17,
+   "en": "<CLT=cltSYSTEM>Get a bunch in a row, combos are stylin'!\nMonodam is a bonus and Monokid is a boost!",
+   "es": "<CLT=cltSYSTEM>¡Atropella varios seguidos para hacer combos!\n¡Monodam es un bono y Monokid es un turbo!"
+  },
+  {
+   "id": 18,
+   "en": "...\nThis has nothing to do with driving at all.",
+   "es": "...\nEsto no tiene nada que ver con manejar."
+  },
+  {
+   "id": 19,
+   "en": "Are you unsure of something?",
+   "es": "¿Tienes alguna duda?"
+  },
+  {
+   "id": 20,
+   "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+   "es": "<CLT=cltSYSTEM>¿Quieres jugar?"
+  },
+  {
+   "id": 21,
+   "en": "<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\nIt's a treasure hunting game...",
+   "es": "<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\nEs un juego de buscar tesoros..."
+  },
+  {
+   "id": 22,
+   "en": "<CLT=cltMIND>Looks like it's still being set up...",
+   "es": "<CLT=cltMIND>Parece que todavía lo están preparando..."
+  },
+  {
+   "id": 23,
+   "en": "<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\nIt's a treasure hunting game...",
+   "es": "<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\nEs un juego de buscar tesoros..."
+  },
+  {
+   "id": 24,
+   "en": "<CLT=cltMIND>Maybe I'll try this one...",
+   "es": "<CLT=cltMIND>Quizá pruebe este..."
+  },
+  {
+   "id": 25,
+   "en": "Yes",
+   "es": "Sí"
+  },
+  {
+   "id": 26,
+   "en": "No",
+   "es": "No"
+  },
+  {
+   "id": 27,
+   "en": "Read the rules",
+   "es": "Leer las reglas"
+  },
+  {
+   "id": 28,
+   "en": "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide",
+   "es": "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nGuía para cazar tesoros"
+  },
+  {
+   "id": 29,
+   "en": "<CLT=cltSYSTEM>Connect two or more of the same color!\nUncover the hidden salmon fossils!",
+   "es": "<CLT=cltSYSTEM>¡Une dos o más del mismo color!\n¡Descubre los fósiles de salmón escondidos!"
+  },
+  {
+   "id": 30,
+   "en": "<CLT=cltSYSTEM>Try to find the rare Monokub statues!\nDig them up whenever you see one!",
+   "es": "<CLT=cltSYSTEM>¡Busca las raras estatuas de los Monokubs!\n¡Desentiérralas en cuanto veas una!"
+  },
+  {
+   "id": 31,
+   "en": "...\nAre salmon fossils treasure...?",
+   "es": "...\n¿Los fósiles de salmón son tesoros...?"
+  },
+  {
+   "id": 32,
+   "en": "Are you unsure of something?",
+   "es": "¿Tienes alguna duda?"
+  },
+  {
+   "id": 33,
+   "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+   "es": "<CLT=cltSYSTEM>¿Quieres jugar?"
+  },
+  {
+   "id": 34,
+   "en": "<CLT=cltMIND>SALMON FISHING!\nIt's a game where you fish for salmon.",
+   "es": "<CLT=cltMIND>¡PESCA DE SALMÓN!\nEs un juego de pescar salmones."
+  },
+  {
+   "id": 35,
+   "en": "<CLT=cltMIND>Maybe I'll try this one...",
+   "es": "<CLT=cltMIND>Quizá pruebe este..."
+  },
+  {
+   "id": 36,
+   "en": "Yes",
+   "es": "Sí"
+  },
+  {
+   "id": 37,
+   "en": "No",
+   "es": "No"
+  },
+  {
+   "id": 38,
+   "en": "Read the rules",
+   "es": "Leer las reglas"
+  },
+  {
+   "id": 39,
+   "en": "<CLT=cltSYSTEM>SALMON FISHING!\nSalmon Night",
+   "es": "<CLT=cltSYSTEM>¡PESCA DE SALMÓN!\nLa noche del salmón"
+  },
+  {
+   "id": 40,
+   "en": "<CLT=cltSYSTEM>On this night, the salmon come left and right.\nUse your Monokuma Eye to find them.",
+   "es": "<CLT=cltSYSTEM>Esta noche, los salmones llegan por todos lados.\nUsa tu Ojo Monokuma para encontrarlos."
+  },
+  {
+   "id": 41,
+   "en": "<CLT=cltSYSTEM>Fish for the color Monokuma desires.\nBeware, mines hide beneath the current.",
+   "es": "<CLT=cltSYSTEM>Pesca el color que Monokuma desea.\nCuidado, hay minas bajo la corriente."
+  },
+  {
+   "id": 42,
+   "en": "...\nThat was quite the poetic explanation...",
+   "es": "...\nQué explicación tan poética..."
+  },
+  {
+   "id": 43,
+   "en": "Are you unsure of something?",
+   "es": "¿Tienes alguna duda?"
+  },
+  {
+   "id": 44,
+   "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+   "es": "<CLT=cltSYSTEM>¿Quieres jugar?"
+  },
+  {
+   "id": 45,
+   "en": "<CLT=cltMIND>MonoMono Slots...\nIt looks like a slot machine game.",
+   "es": "<CLT=cltMIND>Tragamonedas MonoMono...\nParece un juego de tragamonedas."
+  },
+  {
+   "id": 46,
+   "en": "<CLT=cltMIND>Maybe I'll try this one...",
+   "es": "<CLT=cltMIND>Quizá pruebe este..."
+  },
+  {
+   "id": 47,
+   "en": "Yes",
+   "es": "Sí"
+  },
+  {
+   "id": 48,
+   "en": "No",
+   "es": "No"
+  },
+  {
+   "id": 49,
+   "en": "Read the rules",
+   "es": "Leer las reglas"
+  },
+  {
+   "id": 50,
+   "en": "<CLT=cltSYSTEM>MonoMono Slots\nHow to Win at Slots",
+   "es": "<CLT=cltSYSTEM>Tragamonedas MonoMono\nCómo ganar en las tragamonedas"
+  },
+  {
+   "id": 51,
+   "en": "<CLT=cltSYSTEM>Insert as many coins as you'd like.\nThen, spin the slots!",
+   "es": "<CLT=cltSYSTEM>Mete todas las monedas que quieras.\n¡Luego, gira los rodillos!"
+  },
+  {
+   "id": 52,
+   "en": "<CLT=cltSYSTEM>You have a 100% chance of winning if you\nnever stop! Spin spin spin forever!",
+   "es": "<CLT=cltSYSTEM>¡Si nunca te detienes, tienes 100% de\nprobabilidad de ganar! ¡Gira, gira, gira sin fin!"
+  },
+  {
+   "id": 53,
+   "en": "...\nWell, that was nonsense.",
+   "es": "...\nBueno, eso no tenía sentido."
+  },
+  {
+   "id": 54,
+   "en": "Are you unsure of something?",
+   "es": "¿Tienes alguna duda?"
+  },
+  {
+   "id": 55,
+   "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+   "es": "<CLT=cltSYSTEM>¿Quieres jugar?"
+  },
+  {
+   "id": 56,
+   "en": "<CLT=cltMIND>MonoMono Slots...\nIt looks like a slot machine game.",
+   "es": "<CLT=cltMIND>Tragamonedas MonoMono...\nParece un juego de tragamonedas."
+  },
+  {
+   "id": 57,
+   "en": "<CLT=cltMIND>Maybe I'll try this one...",
+   "es": "<CLT=cltMIND>Quizá pruebe este..."
+  },
+  {
+   "id": 58,
+   "en": "Yes",
+   "es": "Sí"
+  },
+  {
+   "id": 59,
+   "en": "No",
+   "es": "No"
+  },
+  {
+   "id": 60,
+   "en": "Read the rules",
+   "es": "Leer las reglas"
+  },
+  {
+   "id": 61,
+   "en": "<CLT=cltSYSTEM>MonoMono Slots\nHow to Win at Slots",
+   "es": "<CLT=cltSYSTEM>Tragamonedas MonoMono\nCómo ganar en las tragamonedas"
+  },
+  {
+   "id": 62,
+   "en": "<CLT=cltSYSTEM>Insert as many coins as you'd like.\nThen, spin the slots!",
+   "es": "<CLT=cltSYSTEM>Mete todas las monedas que quieras.\n¡Luego, gira los rodillos!"
+  },
+  {
+   "id": 63,
+   "en": "<CLT=cltSYSTEM>You have a 100% chance of winning if you\nnever stop! Spin spin spin forever!",
+   "es": "<CLT=cltSYSTEM>¡Si nunca te detienes, tienes 100% de\nprobabilidad de ganar! ¡Gira, gira, gira sin fin!"
+  },
+  {
+   "id": 64,
+   "en": "...\nWell, that was nonsense.",
+   "es": "...\nBueno, eso no tenía sentido."
+  },
+  {
+   "id": 65,
+   "en": "Are you unsure of something?",
+   "es": "¿Tienes alguna duda?"
+  },
+  {
+   "id": 66,
+   "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+   "es": "<CLT=cltSYSTEM>¿Quieres jugar?"
+  },
+  {
+   "id": 67,
+   "en": "<CLT=cltMIND>MonoMono Slots...\nIt looks like a slot machine game.",
+   "es": "<CLT=cltMIND>Tragamonedas MonoMono...\nParece un juego de tragamonedas."
+  },
+  {
+   "id": 68,
+   "en": "<CLT=cltMIND>Maybe I'll try this one...",
+   "es": "<CLT=cltMIND>Quizá pruebe este..."
+  },
+  {
+   "id": 69,
+   "en": "Yes",
+   "es": "Sí"
+  },
+  {
+   "id": 70,
+   "en": "No",
+   "es": "No"
+  },
+  {
+   "id": 71,
+   "en": "Read the rules",
+   "es": "Leer las reglas"
+  },
+  {
+   "id": 72,
+   "en": "<CLT=cltSYSTEM>MonoMono Slots\nHow to Win at Slots",
+   "es": "<CLT=cltSYSTEM>Tragamonedas MonoMono\nCómo ganar en las tragamonedas"
+  },
+  {
+   "id": 73,
+   "en": "<CLT=cltSYSTEM>Insert as many coins as you'd like.\nThen, spin the slots!",
+   "es": "<CLT=cltSYSTEM>Mete todas las monedas que quieras.\n¡Luego, gira los rodillos!"
+  },
+  {
+   "id": 74,
+   "en": "<CLT=cltSYSTEM>You have a 100% chance of winning if you\nnever stop! Spin spin spin forever!",
+   "es": "<CLT=cltSYSTEM>¡Si nunca te detienes, tienes 100% de\nprobabilidad de ganar! ¡Gira, gira, gira sin fin!"
+  },
+  {
+   "id": 75,
+   "en": "...\nWell, that was nonsense.",
+   "es": "...\nBueno, eso no tenía sentido."
+  },
+  {
+   "id": 76,
+   "en": "Are you unsure of something?",
+   "es": "¿Tienes alguna duda?"
+  },
+  {
+   "id": 77,
+   "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+   "es": "<CLT=cltSYSTEM>¿Quieres jugar?"
+  },
+  {
+   "id": 78,
+   "en": "<CLT=cltMIND>This is OUTLAW RUN,\nA driving game.",
+   "es": "<CLT=cltMIND>Este es OUTLAW RUN,\nun juego de manejo."
+  },
+  {
+   "id": 79,
+   "en": "<CLT=cltMIND>Looks like it's still being set up...",
+   "es": "<CLT=cltMIND>Parece que todavía lo están preparando..."
+  },
+  {
+   "id": 80,
+   "en": "<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\nIt's a treasure hunting game...",
+   "es": "<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\nEs un juego de buscar tesoros..."
+  },
+  {
+   "id": 81,
+   "en": "<CLT=cltMIND>Looks like it's still being set up...",
+   "es": "<CLT=cltMIND>Parece que todavía lo están preparando..."
+  }
+ ],
+ "gallery_001.stx": [
+  {
+   "id": 0,
+   "en": "<CLT=cltMIND>Students must live at the Ultimate Academy for\nthe remainder of their foreseeable future.",
+   "es": "<CLT=cltMIND>Los estudiantes vivirán en la Academia\nDefinitiva por tiempo indefinido."
+  },
+  {
+   "id": 1,
+   "en": "<CLT=cltMIND>Once a murder takes place, all surviving\nstudents must participate in a class trial.",
+   "es": "<CLT=cltMIND>Tras un asesinato, todos los sobrevivientes\ndeberán participar en un juicio escolar."
+  },
+  {
+   "id": 2,
+   "en": "<CLT=cltMIND>If the blackened is exposed during the class\ntrial, they alone will be executed.",
+   "es": "<CLT=cltMIND>Si se descubre al culpable durante el juicio,\nsolo se ejecutará a esa persona."
+  },
+  {
+   "id": 3,
+   "en": "<CLT=cltMIND>If the blackened is not exposed, all remaining\nstudents will be executed.",
+   "es": "<CLT=cltMIND>Si no se descubre al culpable, se ejecutará\na todos los demás estudiantes."
+  },
+  {
+   "id": 4,
+   "en": "<CLT=cltMIND>If the blackened survives the class trial, they\nwill graduate and re-enter the outside world.",
+   "es": "<CLT=cltMIND>Si el culpable sobrevive al juicio escolar,\nse graduará y regresará al mundo exterior."
+  },
+  {
+   "id": 5,
+   "en": "<CLT=cltMIND>The killing game and class trials will continue\nuntil only two surviving students remain.",
+   "es": "<CLT=cltMIND>El juego de matanza y los juicios seguirán\nhasta que solo queden dos sobrevivientes."
+  },
+  {
+   "id": 6,
+   "en": "<CLT=cltMIND><CLT=cltSTRONG>\"Nighttime\"<CLT=cltMIND> is from 10 p.m. to 8 a.m. The dining\nhall and gymnasium are off-limits at night.",
+   "es": "<CLT=cltMIND>El <CLT=cltSTRONG>horario nocturno<CLT=cltMIND> va de 10 p. m. a 8 a. m.\nDe noche se cierran el comedor y el gimnasio."
+  },
+  {
+   "id": 7,
+   "en": "<CLT=cltMIND>Violence toward Monokuma, the headmaster of\nthe Ultimate Academy, is strictly prohibited.",
+   "es": "<CLT=cltMIND>Se prohíbe toda violencia contra Monokuma,\nel director de la Academia Definitiva."
+  },
+  {
+   "id": 8,
+   "en": "<CLT=cltMIND>Monokuma will never directly commit\na murder.",
+   "es": "<CLT=cltMIND>Monokuma nunca cometerá\nun asesinato directamente."
+  },
+  {
+   "id": 9,
+   "en": "Your Monopads are very important items.\nPlease do not damage them.",
+   "es": "Sus Monopads son objetos muy importantes.\nPor favor, no los dañen."
+  },
+  {
+   "id": 10,
+   "en": "<CLT=cltMIND>The <CLT=cltSTRONG>\"Body Discovery Announcement\"<CLT=cltMIND> will play\nwhen three or more students discover a body.",
+   "es": "<CLT=cltMIND>El <CLT=cltSTRONG>anuncio de descubrimiento de cadáver<CLT=cltMIND>\nsonará cuando tres o más hallen un cuerpo."
+  },
+  {
+   "id": 11,
+   "en": "<CLT=cltMIND>With minimal restrictions, you are free to\nexplore the campus at your discretion.",
+   "es": "<CLT=cltMIND>Con mínimas restricciones, son libres\nde explorar el campus como deseen."
+  },
+  {
+   "id": 12,
+   "en": "<CLT=cltMIND>Students who violate these rules will be\nimmediately exterminated by the Exisals.",
+   "es": "<CLT=cltMIND>Los Exisals exterminarán de inmediato\na quienes incumplan estas reglas."
+  }
+ ],
+ "gallery_007.stx": [
+  {
+   "id": 0,
+   "en": "New students of the Ultimate Academy!\nCongratulations!",
+   "es": "¡Nuevos estudiantes de la Academia Definitiva!\n¡Felicidades!"
+  },
+  {
+   "id": 1,
+   "en": "The weeds here have grown thick with joy, as\nif celebrating your entrance into this school.",
+   "es": "La maleza creció espesa de alegría, como si\ncelebrara su ingreso a esta escuela."
+  },
+  {
+   "id": 2,
+   "en": "Seeing your anxious eyes shine with murderous\nintent makes me oh-so happy.",
+   "es": "Ver sus ojos ansiosos brillar con intención\nasesina me hace taaan feliz."
+  },
+  {
+   "id": 3,
+   "en": "If you ever feel lost, don't be shy—talk to your\nfriends or a teacher. Let's all get along.",
+   "es": "Si alguna vez se sienten perdidos, hablen con\nsus amigos o un maestro. Llevémonos bien."
+  },
+  {
+   "id": 4,
+   "en": "And...let's do lots of killing, too.",
+   "es": "Y... también matemos mucho."
+  },
+  {
+   "id": 5,
+   "en": "I pray for the physical and mental well-being\nof this new killing school semester—",
+   "es": "Rezo por el bienestar físico y mental de este\nnuevo semestre de matanza—"
+  },
+  {
+   "id": 6,
+   "en": "I mean...I pray for the well-being of you\nstudents. Yes, that will do...",
+   "es": "Digo... rezo por el bienestar de ustedes,\nestudiantes. Sí, eso servirá..."
+  },
+  {
+   "id": 7,
+   "en": "I'll teach you guys how to win over a lady.",
+   "es": "Les voy a enseñar a conquistar a una dama."
+  },
+  {
+   "id": 8,
+   "en": "First, you gotta give her a present.\nLadies can't resist presents.",
+   "es": "Primero, tienen que darle un regalo.\nLas damas no se resisten a los regalos."
+  },
+  {
+   "id": 9,
+   "en": "But you can't give her any present. It's\ngotta be a present suited to her tastes.",
+   "es": "Pero no cualquier regalo. Tiene que\nser uno que vaya con sus gustos."
+  },
+  {
+   "id": 10,
+   "en": "And it's gotta be a handmade present, too.\nSo it looks like you put thought into it.",
+   "es": "Y tiene que ser hecho a mano.\nAsí parece que le pusiste empeño."
+  },
+  {
+   "id": 11,
+   "en": "For example, the kinda lady who's into\nstrong men would love a handmade...",
+   "es": "Por ejemplo, a la dama a la que le gustan\nlos hombres fuertes le encantaría un..."
+  },
+  {
+   "id": 12,
+   "en": "pro wrestling group.",
+   "es": "grupo de lucha libre hecho a mano."
+  },
+  {
+   "id": 13,
+   "en": "She'll love bein' surrounded by macho dudes,\nand you'll make money off the wrestlers, too!",
+   "es": "¡Le encantará estar rodeada de machotes,\ny tú ganarás dinero con los luchadores!"
+  },
+  {
+   "id": 14,
+   "en": "If enough wrestlers get popular, then it\nmight be good to host a big event.",
+   "es": "Si suficientes luchadores se vuelven populares,\nquizá convenga organizar un gran evento."
+  },
+  {
+   "id": 15,
+   "en": "And after they're done beating up each other,\nthey can fight other pro wrestling groups!",
+   "es": "¡Y cuando terminen de darse entre ellos,\npueden pelear contra otros grupos de lucha!"
+  },
+  {
+   "id": 16,
+   "en": "Just give it a shot, and I'm positive you'll\nwin her heart!",
+   "es": "¡Solo inténtalo, y seguro que te ganas\nsu corazón!"
+  },
+  {
+   "id": 17,
+   "en": "I hear kids these days don't even say\n\"thank you\" anymore.",
+   "es": "Dicen que los niños de hoy ya ni\ndicen \"gracias\"."
+  },
+  {
+   "id": 18,
+   "en": "I blame the parents! They haven't properly\ntaught them the true meaning of \"thank you\"!",
+   "es": "¡Es culpa de los padres! ¡No les enseñaron\nel verdadero significado de \"gracias\"!"
+  },
+  {
+   "id": 19,
+   "en": "It's very important to express gratitude to\nsomeone who has done something for you.",
+   "es": "Es muy importante expresar gratitud a\nalguien que hizo algo por ti."
+  },
+  {
+   "id": 20,
+   "en": "It will make that person feel happy, and they\nmight do something special for you later.",
+   "es": "Hará feliz a esa persona, y quizá después\nhaga algo especial por ti."
+  },
+  {
+   "id": 21,
+   "en": "In other words, \"thank you\" isn't just about\nexpressing gratitude...",
+   "es": "En otras palabras, \"gracias\" no solo sirve\npara expresar gratitud..."
+  },
+  {
+   "id": 22,
+   "en": "it also expresses the expectation of a\nfuture favor.",
+   "es": "también expresa la esperanza de un\nfavor futuro."
+  },
+  {
+   "id": 23,
+   "en": "So the more you say \"thank you,\" the more\nyou can use the people around you.",
+   "es": "Así que mientras más digas \"gracias\", más\npodrás usar a la gente a tu alrededor."
+  },
+  {
+   "id": 24,
+   "en": "So always say \"thank you\" to people, and make\nthem do lots of stuff for your benefit!",
+   "es": "¡Así que siempre den las \"gracias\" y hagan\nque los demás hagan mucho por ustedes!"
+  },
+  {
+   "id": 25,
+   "en": "College entrance exams are a big milestone,\non par with finding a job or getting married.",
+   "es": "Los exámenes de admisión son un gran hito,\na la altura de encontrar trabajo o casarse."
+  },
+  {
+   "id": 26,
+   "en": "Are you examinees out there working hard!?\nWhen studying, focus is the most important!",
+   "es": "¿¡Se están esforzando, aspirantes!?\n¡Al estudiar, lo más importante es concentrarse!"
+  },
+  {
+   "id": 27,
+   "en": "Boost your focus by throwing away all those\ncomic books and video games!",
+   "es": "¡Aumenten su concentración tirando todos\nesos cómics y videojuegos!"
+  },
+  {
+   "id": 28,
+   "en": "Oh, but Spike Chunsoft games are fine. They're\nspecially made to improve your focus.",
+   "es": "Ah, pero los juegos de Spike Chunsoft están bien.\nEstán hechos para mejorar la concentración."
+  },
+  {
+   "id": 29,
+   "en": "And burn those pictures of your girlfriend! You\ndon't have time to indulge in good memories!",
+   "es": "¡Y quemen esas fotos de su novia! ¡No tienen\ntiempo para darse el gusto con buenos recuerdos!"
+  },
+  {
+   "id": 30,
+   "en": "But make sure you don't burn your actual\ngirlfriend, cuz you'll go to prison for that!",
+   "es": "¡Pero asegúrense de no quemar a su novia de\nverdad, porque irán a la cárcel por eso!"
+  },
+  {
+   "id": 31,
+   "en": "Prison might help you focus, but then you\nwouldn't be able to go to your exams!",
+   "es": "¡La cárcel quizá ayude a concentrarse, pero\nentonces no podrían ir a sus exámenes!"
+  },
+  {
+   "id": 32,
+   "en": "If you can't focus at all, it's also good to confine\nyourself somewhere and study!",
+   "es": "¡Si no logran concentrarse, también es bueno\nencerrarse en algún lado a estudiar!"
+  },
+  {
+   "id": 33,
+   "en": "I recommend confining yourself in an enemy's\nbase!",
+   "es": "¡Les recomiendo encerrarse en la base\nde un enemigo!"
+  },
+  {
+   "id": 34,
+   "en": "The thrill of studying in a place where you might\nget caught does wonders for your focus!",
+   "es": "¡La emoción de estudiar donde podrían atraparlos\nhace maravillas por la concentración!"
+  },
+  {
+   "id": 35,
+   "en": "Oh, and I also recommend studying in a\ndisaster zone.",
+   "es": "Ah, y también les recomiendo estudiar en\nuna zona de desastre."
+  },
+  {
+   "id": 36,
+   "en": "The thrill of studying in a place where you could\nactually die does wonders for your focus.",
+   "es": "La emoción de estudiar donde podrían morir\nde verdad hace maravillas por la concentración."
+  },
+  {
+   "id": 37,
+   "en": "Oh, and I also recommend studying in the\nmiddle of your exams.",
+   "es": "Ah, y también les recomiendo estudiar en\nplena mitad del examen."
+  },
+  {
+   "id": 38,
+   "en": "The thrill of knowing it's too late to get any\nstudying done does wonders for your focus.",
+   "es": "La emoción de saber que ya es tarde para\nestudiar hace maravillas por la concentración."
+  },
+  {
+   "id": 39,
+   "en": "With my advice, you'll beat the competition!\nSo get out there and do your best!",
+   "es": "¡Con mis consejos, vencerán a la competencia!\n¡Así que salgan y den lo mejor!"
+  },
+  {
+   "id": 40,
+   "en": "...",
+   "es": "..."
+  },
+  {
+   "id": 41,
+   "en": "What are you looking at?\nWho...are you guys?",
+   "es": "¿Qué están mirando?\n¿Quiénes... son ustedes?"
+  },
+  {
+   "id": 42,
+   "en": "You're probably thinking \"This killing game is\ntaking forever. Someone just die already.\"",
+   "es": "Seguro piensan: \"Este juego de matanza ya\ntardó mucho. Que alguien se muera ya\"."
+  },
+  {
+   "id": 43,
+   "en": "That is what you're thinking, right?\nMan, you guys are messed up.",
+   "es": "Eso es lo que piensan, ¿verdad?\nVaya, qué retorcidos son."
+  },
+  {
+   "id": 44,
+   "en": "But I feel the same way, too.\nGeez, why won't someone just die?",
+   "es": "Pero yo pienso igual.\nCaray, ¿por qué no se muere nadie?"
+  },
+  {
+   "id": 45,
+   "en": "Watching people live and die is really the\nbest entertainment.",
+   "es": "Ver a la gente vivir y morir es\nel mejor entretenimiento."
+  },
+  {
+   "id": 46,
+   "en": "Some people say, \"What do you think life\nis?\" Honestly, life is worthless.",
+   "es": "Hay quien dice: \"¿Qué crees que es la vida?\".\nSinceramente, la vida no vale nada."
+  },
+  {
+   "id": 47,
+   "en": "When you die, you are quickly forgotten cuz\nthere's tons of replacements out there.",
+   "es": "Cuando mueres, te olvidan rápido porque\nhay montones de reemplazos por ahí."
+  },
+  {
+   "id": 48,
+   "en": "But if you die in a death game, everyone knows\nwho you are. That itself is a form of happiness.",
+   "es": "Pero si mueres en un juego de muerte, todos\nsaben quién eres. Eso ya es una felicidad."
+  },
+  {
+   "id": 49,
+   "en": "Puhuhu... Who will find happiness next?\nMy heart's pounding with excitement.",
+   "es": "Pupupu... ¿Quién será feliz ahora?\nMi corazón late de emoción."
+  },
+  {
+   "id": 50,
+   "en": "I need a miracle!",
+   "es": "¡Necesito un milagro!"
+  },
+  {
+   "id": 51,
+   "en": "...You pray, right? While you're working,\nliving, and gambling.",
+   "es": "...Rezan, ¿verdad? Mientras trabajan,\nviven y apuestan."
+  },
+  {
+   "id": 52,
+   "en": "But miracles happen every day.",
+   "es": "Pero los milagros pasan todos los días."
+  },
+  {
+   "id": 53,
+   "en": "For example, do you know what the odds\nof the earth existing are?",
+   "es": "Por ejemplo, ¿saben cuál es la probabilidad\nde que exista la Tierra?"
+  },
+  {
+   "id": 54,
+   "en": "The same as a tornado blowing through a\njunkyard and assembling a working car.",
+   "es": "La misma de que un tornado pase por un\nbasurero y arme un auto que funcione."
+  },
+  {
+   "id": 55,
+   "en": "That's a miracle!",
+   "es": "¡Eso es un milagro!"
+  },
+  {
+   "id": 56,
+   "en": "That's why us being alive on earth is a\nmiracle!",
+   "es": "¡Por eso que estemos vivos en la Tierra es un\nmilagro!"
+  },
+  {
+   "id": 57,
+   "en": "All kinds of miracles happen every day.\nLife is made up of little miracles.",
+   "es": "Todo tipo de milagros pasan cada día.\nLa vida está hecha de pequeños milagros."
+  },
+  {
+   "id": 58,
+   "en": "But whenever a miracle does happen, it just gets\nchalked up as fate or destiny or whatever.",
+   "es": "Pero cada vez que pasa un milagro, lo atribuyen\nal azar, al destino o a lo que sea."
+  },
+  {
+   "id": 59,
+   "en": "Be grateful for the miracles that have already\nhappened instead of hoping for new ones.",
+   "es": "Agradezcan los milagros que ya pasaron\nen vez de esperar nuevos."
+  },
+  {
+   "id": 60,
+   "en": "If you do that, you should be able to\nenjoy miracles, right?",
+   "es": "Si lo hacen, podrán disfrutar\nde los milagros, ¿no?"
+  },
+  {
+   "id": 61,
+   "en": "...",
+   "es": "..."
+  },
+  {
+   "id": 62,
+   "en": "...CURIOUS?",
+   "es": "...¿TIENEN-CURIOSIDAD?"
+  },
+  {
+   "id": 63,
+   "en": "...CURIOUS-WHAT-WE-MONOKUBS-DO-\nWHEN-YOU'RE-NOT-AROUND?",
+   "es": "...¿CURIOSIDAD-POR-LO-QUE-HACEMOS-LOS-\nOSEZNOS-CUANDO-NO-ESTÁN?"
+  },
+  {
+   "id": 64,
+   "en": "I'LL-TELL-YOU.",
+   "es": "LES-CONTARÉ."
+  },
+  {
+   "id": 65,
+   "en": "WE-LISTEN-TO-FOREIGN-MUSIC-AND-\nLAUGH-AT-THE-FUNNY-SOUNDING-WORDS.",
+   "es": "ESCUCHAMOS-MÚSICA-EXTRANJERA-Y-\nNOS-REÍMOS-DE-LAS-PALABRAS-RARAS."
+  },
+  {
+   "id": 66,
+   "en": "WHEN-WE-HEAR-WORDS-THAT-SOUND-\nPERVERTED, WE-GET-REALLY-EXCITED.",
+   "es": "CUANDO-OÍMOS-PALABRAS-QUE-SUENAN-\nPERVERTIDAS, NOS-EMOCIONAMOS-MUCHO."
+  },
+  {
+   "id": 67,
+   "en": "WE-ALSO-WEAR-PAJAMAS-ALL-DAY, AND-\nLOUNGE-IN-AN-AIR-CONDITIONED-ROOM...",
+   "es": "TAMBIÉN-ANDAMOS-EN-PIYAMA-TODO-EL-DÍA,\nTIRADOS-EN-UN-CUARTO-CON-AIRE..."
+  },
+  {
+   "id": 68,
+   "en": "AND-WHEN-WE-ALL-GO-OUT-TOGETHER,\nTHEY-USUALLY-MAKE-ME-STEAL.",
+   "es": "Y-CUANDO-SALIMOS-TODOS-JUNTOS,\nNORMALMENTE-ME-HACEN-ROBAR."
+  },
+  {
+   "id": 69,
+   "en": "SEE? WE-RE-ALL-SUCH-GOOD-FRIENDS.\nWE'RE-ALWAYS-TOGETHER.",
+   "es": "¿VEN? TODOS-SOMOS-MUY-BUENOS-AMIGOS.\nSIEMPRE-ESTAMOS-JUNTOS."
+  },
+  {
+   "id": 70,
+   "en": "EXCEPT-WHEN-THEY-RUN-AWAY-WHEN-\nI-GET-CAUGHT-STEALING.",
+   "es": "EXCEPTO-CUANDO-HUYEN-SI-ME-\nATRAPAN-ROBANDO."
+  },
+  {
+   "id": 71,
+   "en": "IN-A-PAST-LIFE, I-WAS...A-FISH.",
+   "es": "EN-UNA-VIDA-PASADA, YO-ERA...UN-PEZ."
+  },
+  {
+   "id": 72,
+   "en": "I-GREW-UP-IN-A-POND-IN-A-PROVINCIAL-TOWN,\nBUT...I-ALWAYS-DREAMED-OF-THE-CITY.",
+   "es": "CRECÍ-EN-UN-ESTANQUE-DE-UN-PUEBLO,\nPERO... SIEMPRE-SOÑÉ-CON-LA-CIUDAD."
+  },
+  {
+   "id": 73,
+   "en": "ONE-DAY, WHILE-MY-PARENTS-WERE-FEEDING,\nI...SNUCK-AWAY-TO-GO-TO-THE-CITY.",
+   "es": "UN-DÍA, MIENTRAS-MIS-PADRES-COMÍAN,\nME... ESCAPÉ-PARA-IR-A-LA-CIUDAD."
+  },
+  {
+   "id": 74,
+   "en": "FORTUNATELY...I-WAS-CAUGHT-BY-A-WEALTHY-\nPERSON, WHO-LET-ME-ATTEND-HUMAN-SCHOOL.",
+   "es": "POR-SUERTE... ME-ATRAPÓ-UNA-PERSONA-\nRICA, QUE-ME-METIÓ-A-UNA-ESCUELA-HUMANA."
+  },
+  {
+   "id": 75,
+   "en": "BUT-THE-OTHER-KIDS-BULLIED-ME.",
+   "es": "PERO-LOS-OTROS-NIÑOS-ME-ACOSABAN."
+  },
+  {
+   "id": 76,
+   "en": "THEY-BULLIED-ME-FOR...SILLY-REASONS.",
+   "es": "ME-ACOSABAN-POR...RAZONES-TONTAS."
+  },
+  {
+   "id": 77,
+   "en": "BECAUSE-OF-MY-ODOR...AND-BECAUSE-OF-THE-\nWAY-I-WOULD-FLOP-AROUND-ON-MY-DESK.",
+   "es": "POR-MI-OLOR... Y-POR-CÓMO-ME-\nRETORCÍA-SOBRE-MI-PUPITRE."
+  },
+  {
+   "id": 78,
+   "en": "AND-BECAUSE-OF-THE-WAY-MY-MOUTH-\nOPENED-AND-CLOSED, AS-IF-I-WAS-DYING.",
+   "es": "Y-POR-CÓMO-ABRÍA-Y-CERRABA-LA-\nBOCA, COMO-SI-ME-ESTUVIERA-MURIENDO."
+  },
+  {
+   "id": 79,
+   "en": "THE-TRAUMA-OF-MY-PAST-LIFE...HAUNTS-ME-\nTO-THIS-DAY.",
+   "es": "EL-TRAUMA-DE-MI-VIDA-PASADA...\nME-PERSIGUE-HASTA-HOY."
+  },
+  {
+   "id": 80,
+   "en": "THAT'S-WHY-I-CAN-NEVER-FORGIVE-BULLYING!",
+   "es": "¡POR-ESO-NUNCA-PERDONARÉ-EL-ACOSO!"
+  },
+  {
+   "id": 81,
+   "en": "I-SWEAR-ON-MY-PAST-LIFE-THAT-I-WILL-\nGET-ALONG-WITH-EVERYONE!",
+   "es": "¡JURO-POR-MI-VIDA-PASADA-QUE-ME-\nLLEVARÉ-BIEN-CON-TODOS!"
+  },
+  {
+   "id": 82,
+   "en": "WHAT-IS-THE-POINT-OF-HUMAN-LIFE?",
+   "es": "¿CUÁL-ES-EL-SENTIDO-DE-LA-VIDA-HUMANA?"
+  },
+  {
+   "id": 83,
+   "en": "THEY'RE-BORN-AS-USELESS-BABIES-WHO-\nCAN'T-DO-ANYTHING...",
+   "es": "NACEN-COMO-BEBÉS-INÚTILES-QUE-\nNO-PUEDEN-HACER-NADA..."
+  },
+  {
+   "id": 84,
+   "en": "AND-70-YEARS-LATER, THEY'RE-USELESS-OLD-\nPEOPLE-WHO-CAN'T-DO-ANYTHING.",
+   "es": "Y-70-AÑOS-DESPUÉS, SON-VIEJOS-INÚTILES-\nQUE-NO-PUEDEN-HACER-NADA."
+  },
+  {
+   "id": 85,
+   "en": "HAIRLESS, TOOTHLESS, WEARING-DIAPERS...\nUNABLE-TO-TAKE-CARE-OF-THEMSELVES...",
+   "es": "SIN-PELO, SIN-DIENTES, CON-PAÑALES...\nINCAPACES-DE-CUIDARSE-SOLOS..."
+  },
+  {
+   "id": 86,
+   "en": "IN-THE-END, IT'S-ALL-SO-MEANINGLESS.",
+   "es": "AL-FINAL, TODO-CARECE-DE-SENTIDO."
+  },
+  {
+   "id": 87,
+   "en": "Have you ever wondered why soccer players\nhave numbers on their jerseys?",
+   "es": "¿Alguna vez se han preguntado por qué los\nfutbolistas llevan números en la camiseta?"
+  },
+  {
+   "id": 88,
+   "en": "It's how many mochi each player gets in the\n<CLT=cltSTRONG>red bean soup<CLT=cltNORMAL> they eat after the game.",
+   "es": "Es cuántos mochis le tocan a cada jugador en la\n<CLT=cltSTRONG>sopa dulce de frijol rojo<CLT=cltNORMAL> que comen tras el partido."
+  },
+  {
+   "id": 89,
+   "en": "It's too much work for the guy who's making the\nsoup to check each player after the game.",
+   "es": "Es demasiado trabajo para el que hace la sopa\nrevisar a cada jugador después del partido."
+  },
+  {
+   "id": 90,
+   "en": "It's much easier to check during the game\nwhen the number is on their uniforms.",
+   "es": "Es mucho más fácil revisarlo durante el partido\ncuando el número está en el uniforme."
+  },
+  {
+   "id": 91,
+   "en": "That way, they can just prepare the\n<CLT=cltSTRONG>red bean soup<CLT=cltNORMAL> during the game...",
+   "es": "Así pueden preparar la <CLT=cltSTRONG>sopa dulce\nde frijol rojo<CLT=cltNORMAL> durante el partido..."
+  },
+  {
+   "id": 92,
+   "en": "And then the red bean soup will be ready to\neat as soon as the game is over.",
+   "es": "Y así, la sopa dulce de frijol rojo estará\nlista en cuanto acabe el partido."
+  },
+  {
+   "id": 93,
+   "en": "And if players want a different number of mochi,\nthey can just trade jerseys with each other.",
+   "es": "Y si los jugadores quieren otro número de mochis,\npueden intercambiarse las camisetas."
+  },
+  {
+   "id": 94,
+   "en": "You know how after the game, players will\nsometimes trade jerseys?",
+   "es": "¿Saben cómo a veces los jugadores\nintercambian camisetas tras el partido?"
+  },
+  {
+   "id": 95,
+   "en": "That's how they exchange the number of\nmochi they have to eat after the game.",
+   "es": "Así intercambian el número de mochis\nque comerán después del partido."
+  },
+  {
+   "id": 96,
+   "en": "Oh, but for baseball jerseys, the number is how\nmany pieces of meat they get in their curry.",
+   "es": "Ah, pero en el béisbol, el número es cuántos\ntrozos de carne les tocan en el curri."
+  },
+  {
+   "id": 97,
+   "en": "And for volleyball, it's how many pieces of\nsliced pork they get in their ramen...",
+   "es": "Y en el voleibol, es cuántas rebanadas\nde cerdo les tocan en el ramen..."
+  },
+  {
+   "id": 98,
+   "en": "As you can see, jersey numbers vary greatly\ndepending on the sport.",
+   "es": "Como ven, los números de las camisetas varían\nmucho según el deporte."
+  },
+  {
+   "id": 99,
+   "en": "This has been the Random Trivia Corner,\nbrought to you by Monokuma!",
+   "es": "¡Esta fue la Esquina de Datos Curiosos,\npresentada por Monokuma!"
+  },
+  {
+   "id": 100,
+   "en": "You can trust a dishonest man to be dishonest.\nIt's the honest ones you wanna watch out for...",
+   "es": "Puedes confiar en que un deshonesto mienta.\nDe los honestos es de los que hay que cuidarse..."
+  },
+  {
+   "id": 101,
+   "en": "Cuz you can never predict when they're\ngonna do something...incredibly stupid.",
+   "es": "Porque nunca puedes predecir cuándo\nvan a hacer algo... increíblemente estúpido."
+  },
+  {
+   "id": 102,
+   "en": "It's honestly easier to go through life without\ntelling a single lie.",
+   "es": "La verdad, es más fácil ir por la vida\nsin decir una sola mentira."
+  },
+  {
+   "id": 103,
+   "en": "Which means honest people are just lazy jerks\nwho'd rather coast through life.",
+   "es": "Lo que significa que los honestos son solo\nflojos que prefieren ir por la vida sin esfuerzo."
+  },
+  {
+   "id": 104,
+   "en": "By the way, the recent trend of encouraging\nhonesty is actually a lie.",
+   "es": "Por cierto, la moda reciente de fomentar\nla honestidad en realidad es mentira."
+  },
+  {
+   "id": 105,
+   "en": "You see, it's better for liars if there are more\nhonest people in the world to deceive.",
+   "es": "Verán, a los mentirosos les conviene que haya\nmás gente honesta en el mundo a quien engañar."
+  },
+  {
+   "id": 106,
+   "en": "They've been lying about that trend so there\ncan be more stupid honest people.",
+   "es": "Han mentido sobre esa moda para que haya\nmás gente honesta y estúpida."
+  },
+  {
+   "id": 107,
+   "en": "...But that might be a lie, too. Puhuhuhuhu.",
+   "es": "...Aunque eso también podría ser\nmentira. Pupupupupu."
+  },
+  {
+   "id": 108,
+   "en": "Recklessness is a beautiful thing.",
+   "es": "La temeridad es algo hermoso."
+  },
+  {
+   "id": 109,
+   "en": "It's so beautiful, I want to print the words\n\"Reckless Beauty\" on a t-shirt.",
+   "es": "Es tan hermosa que quiero imprimir las palabras\n\"Belleza temeraria\" en una camiseta."
+  },
+  {
+   "id": 110,
+   "en": "Because recklessness is the stuff that\ndreams are made of.",
+   "es": "Porque la temeridad es la materia de la\nque están hechos los sueños."
+  },
+  {
+   "id": 111,
+   "en": "It's what makes you run at full speed, with\nno regard for your limitations.",
+   "es": "Es lo que te hace correr a toda velocidad,\nsin importar tus límites."
+  },
+  {
+   "id": 112,
+   "en": "It's what makes you excited by anything.",
+   "es": "Es lo que hace que todo te emocione."
+  },
+  {
+   "id": 113,
+   "en": "Some say it's foolish, but recklessness is\nwhat causes new events to unfold.",
+   "es": "Algunos dicen que es una tontería, pero la\ntemeridad es lo que hace que pasen cosas nuevas."
+  },
+  {
+   "id": 114,
+   "en": "So while you're still alive, live your life so\nrecklessly that it makes you immortal.",
+   "es": "Así que, mientras sigan vivos, vivan con tanta\ntemeridad que se vuelvan inmortales."
+  },
+  {
+   "id": 115,
+   "en": "And if haters laugh at you, let them. They just\ndon't appreciate reckless beauty like you do.",
+   "es": "Y si los envidiosos se ríen, déjenlos. Simplemente\nno aprecian la belleza temeraria como ustedes."
+  },
+  {
+   "id": 116,
+   "en": "Did you know that when you talk to someone on\na cell phone, you're not hearing their real voice?",
+   "es": "¿Sabían que cuando hablan con alguien por celular\nno están oyendo su voz real?"
+  },
+  {
+   "id": 117,
+   "en": "Their voice is converted to synthetic sound\nwhile you're both communicating.",
+   "es": "Su voz se convierte en sonido sintético\nmientras se comunican."
+  },
+  {
+   "id": 118,
+   "en": "By breaking down their voice into various\nwaveform patterns...",
+   "es": "Al descomponer su voz en distintos patrones\nde onda..."
+  },
+  {
+   "id": 119,
+   "en": "The phone reassembles those patterns to\nrecreate characteristics of the speaker's voice.",
+   "es": "El teléfono rearma esos patrones para recrear\nlas características de la voz de quien habla."
+  },
+  {
+   "id": 120,
+   "en": "This reduces the amount of voice data that\nneeds to be sent to make the call possible.",
+   "es": "Esto reduce la cantidad de datos de voz que\nhay que enviar para que la llamada funcione."
+  },
+  {
+   "id": 121,
+   "en": "Also, you know how shaved ice has flavored\nsyrups such as strawberry, melon, and lemon?",
+   "es": "Además, ¿saben que los raspados tienen jarabes\nde sabores como fresa, melón y limón?"
+  },
+  {
+   "id": 122,
+   "en": "They're all the same flavor. The only difference\nis the aroma and the food coloring dye.",
+   "es": "Todos son del mismo sabor. La única diferencia\nes el aroma y el colorante."
+  },
+  {
+   "id": 123,
+   "en": "Do you think these facts are lies?\nDo you deny that these facts are lies?",
+   "es": "¿Creen que estos datos son mentira?\n¿Niegan que estos datos son mentira?"
+  },
+  {
+   "id": 124,
+   "en": "Puhuhu. What would the world be like if\nall lies were denied outright?",
+   "es": "Pupupu. ¿Cómo sería el mundo si se\nnegaran por completo todas las mentiras?"
+  },
+  {
+   "id": 125,
+   "en": "I bet it would be a very lonesome world.\nLies are what make the world go 'round.",
+   "es": "Apuesto a que sería un mundo muy solitario.\nLas mentiras son las que hacen girar el mundo."
+  },
+  {
+   "id": 126,
+   "en": "If you're searching for the meaning of life,\nyou're already doing it wrong.",
+   "es": "Si estás buscando el sentido de la vida,\nya lo estás haciendo mal."
+  },
+  {
+   "id": 127,
+   "en": "Your life doesn't need a <CLT=cltSTRONG>meaning<CLT=typeNORMAL>,.\nIt just needs a <CLT=cltSTRONG>purpose<CLT=typeNORMAL>.",
+   "es": "Tu vida no necesita un <CLT=cltSTRONG>significado<CLT=typeNORMAL>.\nSolo necesita un <CLT=cltSTRONG>propósito<CLT=typeNORMAL>."
+  },
+  {
+   "id": 128,
+   "en": "In other words, you just need something\nto live for.",
+   "es": "En otras palabras, solo necesitas algo\npor lo que vivir."
+  },
+  {
+   "id": 129,
+   "en": "You can live for spending time with loved\nones, or chasing dreams...",
+   "es": "Puedes vivir para pasar tiempo con tus\nseres queridos, o perseguir sueños..."
+  },
+  {
+   "id": 130,
+   "en": "You can even live for eating delicious food,\nor playing games...",
+   "es": "Puedes vivir incluso para comer algo rico,\no para jugar videojuegos..."
+  },
+  {
+   "id": 131,
+   "en": "Most people can get by as long as they have\nsomething to live for.",
+   "es": "La mayoría puede salir adelante mientras\ntenga algo por lo que vivir."
+  },
+  {
+   "id": 132,
+   "en": "If you say Danganronpa is your reason to live,\nI couldn't be happier.",
+   "es": "Si dices que Danganronpa es tu razón para vivir,\nno podría estar más feliz."
+  },
+  {
+   "id": 133,
+   "en": "Puhuhu... Please keep it up.",
+   "es": "Pupupu... Por favor, sigan así."
+  },
+  {
+   "id": 134,
+   "en": "...Don't panic. Just stay calm and listen.",
+   "es": "...No se asusten. Calma y escuchen."
+  },
+  {
+   "id": 135,
+   "en": "Well, if you're watching this Monokuma\nTheater segment, it's already too late.",
+   "es": "Bueno, si están viendo este segmento del Teatro\nMonokuma, ya es demasiado tarde."
+  },
+  {
+   "id": 136,
+   "en": "You kids might not know, but to a 100% cotton\nmascot like me, hope is...",
+   "es": "Quizá ustedes no lo sepan, pero para una mascota\n100 % algodón como yo, la esperanza es..."
+  },
+  {
+   "id": 137,
+   "en": "The thought of seeing young people brimming\nwith hope, killing each other just to survive.",
+   "es": "La idea de ver a jóvenes rebosantes de\nesperanza, matándose solo para sobrevivir."
+  },
+  {
+   "id": 138,
+   "en": "Watching their hope fade away... There's\nnothing more despair-inducing than that...",
+   "es": "Ver cómo se desvanece su esperanza... No hay\nnada que cause más desesperación que eso..."
+  },
+  {
+   "id": 139,
+   "en": "My dear students, carrying humanity's hope...\nBetraying, deceiving, and killing each other...",
+   "es": "Mis queridos estudiantes, esperanza de la\nhumanidad... Traicionándose y matándose..."
+  },
+  {
+   "id": 140,
+   "en": "It makes me...oh-so sad...",
+   "es": "Me pone... taaan triste..."
+  },
+  {
+   "id": 141,
+   "en": "Oh, how I long to see everyone's despairing\nfaces, soaked in blood and tears...",
+   "es": "Ay, cómo anhelo ver sus caras desesperadas,\nempapadas de sangre y lágrimas..."
+  },
+  {
+   "id": 142,
+   "en": "...",
+   "es": "..."
+  },
+  {
+   "id": 143,
+   "en": "I've gone and done it.",
+   "es": "Ya lo hice."
+  },
+  {
+   "id": 144,
+   "en": "Wow! The trial is racing toward its thrilling\nconclusion! Do you know who the culprit is?",
+   "es": "¡Guau! ¡El juicio corre hacia su emocionante\nfinal! ¿Saben quién es el culpable?"
+  },
+  {
+   "id": 145,
+   "en": "Obviously, I know.\nCuz I know everything.",
+   "es": "Obviamente, yo lo sé.\nPorque yo lo sé todo."
+  },
+  {
+   "id": 146,
+   "en": "What!? Know everything!?",
+   "es": "¡¿Qué?! ¡¿Lo sabes todo?!"
+  },
+  {
+   "id": 147,
+   "en": "No! Everything!",
+   "es": "¡No! ¡Todo!"
+  },
+  {
+   "id": 148,
+   "en": "Daddy knows everything about anything.\nHe basically traded his bearhood for godhood.",
+   "es": "Papi lo sabe todo de todo.\nPrácticamente cambió su osidad por divinidad."
+  },
+  {
+   "id": 149,
+   "en": "YES... HE-HAS-BETRAYED-HIS-\nURSINE-ANCESTORS.",
+   "es": "SÍ... HA-TRAICIONADO-A-SUS-\nANCESTROS-OSUNOS."
+  },
+  {
+   "id": 150,
+   "en": "Traded? No, I'm still obviously a bear.\nIt is obvious, right? Right, you guys?",
+   "es": "¿Cambió? No, obviamente sigo siendo un oso.\nEs obvio, ¿verdad? ¿Verdad, chicos?"
+  },
+  {
+   "id": 151,
+   "en": "Ya sure ain't no fish!\nBut ya damn sure smell like one!",
+   "es": "¡Pos pescado no eres!\n¡Pero hueles igualito a uno!"
+  },
+  {
+   "id": 152,
+   "en": "Anyway, since I know everything,\nI'll give you the whole story later.",
+   "es": "En fin, como lo sé todo,\nluego les cuento toda la historia."
+  },
+  {
+   "id": 153,
+   "en": "Try your hardest to nab the culprit.\nAnd believe me, that's no lie.",
+   "es": "Hagan su mejor esfuerzo para atrapar al culpable.\nY créanme, eso no es mentira."
+  },
+  {
+   "id": 154,
+   "en": "If I lied, it would shake the game\nto its very foundation.",
+   "es": "Si mintiera, sacudiría el juego\nhasta sus cimientos."
+  },
+  {
+   "id": 155,
+   "en": "So trust me and please enjoy the\nclass trial without any worries.",
+   "es": "Así que confíen en mí y, por favor, disfruten\nel juicio escolar sin preocupaciones."
+  },
+  {
+   "id": 156,
+   "en": "Now then, it seems the voting has finished. \nLet's see the result.",
+   "es": "Bueno, parece que terminó la votación.\nVeamos el resultado."
+  },
+  {
+   "id": 157,
+   "en": "Who'll be chosen as the blackened!? Will you make\nthe right choice or the dreadfully wrong one!?",
+   "es": "¿¡Quién será elegido como culpable!? ¿¡Tomarán\nla decisión correcta o la terriblemente errónea!?"
+  },
+  {
+   "id": 158,
+   "en": "W-Wait a second! What result!?\nVoting Time hasn't happened yet!",
+   "es": "¡E-Espera un segundo! ¿¡Qué resultado!?\n¡Todavía no ha sido la Hora de Votar!"
+  },
+  {
+   "id": 159,
+   "en": "Yes it has! Don't you remember, Monosuke!?",
+   "es": "¡Sí ha sido! ¿¡No te acuerdas, Monosuke!?"
+  },
+  {
+   "id": 160,
+   "en": "No, it hasn't! You're the one who\ndoesn't remember, Monotaro!",
+   "es": "¡No, no ha sido! ¡Tú eres el que\nno se acuerda, Monotaro!"
+  },
+  {
+   "id": 161,
+   "en": "Aw man, you're right.\nSilly me, I'm so forgetful.",
+   "es": "Ay, tienes razón.\nQué tonto, soy tan olvidadizo."
+  },
+  {
+   "id": 162,
+   "en": "Wow...I didn't expect you all to get\nso worked up over such a small lie.",
+   "es": "Vaya... No esperaba que se alteraran\ntanto por una mentirita."
+  },
+  {
+   "id": 163,
+   "en": "You kids are pretty gullible, huh?",
+   "es": "Ustedes son bastante crédulos, ¿eh?"
+  },
+  {
+   "id": 164,
+   "en": "Well anyway, let's just skip this trial\nand jump ahead to Chapter 3!",
+   "es": "En fin, ¡saltémonos este juicio\ny pasemos al Capítulo 3!"
+  },
+  {
+   "id": 165,
+   "en": "W-Wait a second!\nWe don't know the culprit yet!",
+   "es": "¡E-Espera un segundo!\n¡Todavía no sabemos quién es el culpable!"
+  },
+  {
+   "id": 166,
+   "en": "Yeah! Who killed Rantaro!?",
+   "es": "¡Sí! ¿¡Quién mató a Rantaro!?"
+  },
+  {
+   "id": 167,
+   "en": "That was Chapter 1's case!\nHow can you be this forgetful!?",
+   "es": "¡Ese era el caso del Capítulo 1!\n¿¡Cómo puedes ser tan olvidadizo!?"
+  },
+  {
+   "id": 168,
+   "en": "...",
+   "es": "..."
+  },
+  {
+   "id": 169,
+   "en": "Looks like we've reached the intermission\nsegment, which means it's time for our...",
+   "es": "Parece que llegamos al intermedio, lo\nque significa que es hora de nuestro..."
+  },
+  {
+   "id": 170,
+   "en": "Guess the Victim Quiz!",
+   "es": "¡Concurso de Adivina la Víctima!"
+  },
+  {
+   "id": 171,
+   "en": "A victim quiz!? Not a culprit quiz!?",
+   "es": "¡¿Un concurso de víctimas?! ¡¿No de culpables?!"
+  },
+  {
+   "id": 172,
+   "en": "The only victims are the people who are\nstill watching this drawn-out, boring crap...",
+   "es": "Las únicas víctimas son los que siguen\nviendo esta porquería larga y aburrida..."
+  },
+  {
+   "id": 173,
+   "en": "Why are you being such a downer all\nof a sudden?",
+   "es": "¿Por qué te pones tan depresivo\nde repente?"
+  },
+  {
+   "id": 174,
+   "en": "IT-IS-OKAY...\nI-AM-SURE-EVERYONE-IS-HAPPY.",
+   "es": "ESTÁ-BIEN...\nSEGURO-QUE-TODOS-ESTÁN-FELICES."
+  },
+  {
+   "id": 175,
+   "en": "How do you know!? They could be skipping\nthis entire conversation for all you know!",
+   "es": "¡¿Cómo lo sabes?! ¡Por lo que sabes, podrían\nestar saltándose toda esta conversación!"
+  },
+  {
+   "id": 176,
+   "en": "I can't take it! I can't take it anymore!\nI'm the real victim here! Meeee!",
+   "es": "¡No lo soporto! ¡Ya no lo soporto más!\n¡La verdadera víctima aquí soy yo! ¡Yooo!"
+  },
+  {
+   "id": 177,
+   "en": "Why are *you* getting upset!?",
+   "es": "¡¿Y tú por qué te alteras?!"
+  },
+  {
+   "id": 178,
+   "en": "If anything, I'm the real victim! I gotta put\nup all this nonsense all the time!",
+   "es": "¡Si acaso, yo soy la verdadera víctima! ¡Tengo\nque aguantar todas estas tonterías siempre!"
+  },
+  {
+   "id": 179,
+   "en": "...",
+   "es": "..."
+  },
+  {
+   "id": 180,
+   "en": "That's the right answer, Monodam!",
+   "es": "¡Respuesta correcta, Monodam!"
+  },
+  {
+   "id": 181,
+   "en": "Why!? He hasn't said anything!",
+   "es": "¡¿Por qué?! ¡Si no ha dicho nada!"
+  },
+  {
+   "id": 182,
+   "en": "Exactly! Cuz there are no victims.",
+   "es": "¡Exacto! Porque no hay víctimas."
+  },
+  {
+   "id": 183,
+   "en": "Yep... Even if you're killed in this killing\ngame, you're a winner.",
+   "es": "Sip... Aunque te maten en este juego\nde matanza, eres un ganador."
+  },
+  {
+   "id": 184,
+   "en": "Cuz then everyone mourns you, and you get\ntons of posthumous popularity!",
+   "es": "¡Porque entonces todos te lloran y\nte vuelves popularísimo después de muerto!"
+  },
+  {
+   "id": 185,
+   "en": "Oh, Daddy! You don't need to reveal these\nkinda behind-the-scene details!",
+   "es": "¡Ay, Papi! ¡No tienes que revelar estos\ndetalles de detrás de cámaras!"
+  },
+  {
+   "id": 186,
+   "en": "Dying makes you more popular!?\nThen we gotta die soon, too!",
+   "es": "¡¿Morir te hace más popular?!\n¡Entonces nosotros también hay que morir!"
+  },
+  {
+   "id": 187,
+   "en": "...",
+   "es": "..."
+  },
+  {
+   "id": 188,
+   "en": "Man, I'm bushed. I got no motivation at all.\nAnd Monophanie's period is late, too.",
+   "es": "Uf, estoy molido. No tengo nada de motivación.\nY a Monophanie se le está retrasando el periodo."
+  },
+  {
+   "id": 189,
+   "en": "*gasp!*",
+   "es": "¡Ah!"
+  },
+  {
+   "id": 190,
+   "en": "Father... Why do you know Monophanie's\ncycle...?",
+   "es": "Padre... ¿Por qué conoces el ciclo\nde Monophanie...?"
+  },
+  {
+   "id": 191,
+   "en": "Never mind that... Perhaps this lack of\nmotivation is due to a lack of hibernation.",
+   "es": "Olvídalo... Quizá esta falta de motivación\nes por falta de hibernación."
+  },
+  {
+   "id": 192,
+   "en": "Lack of hibernation...?",
+   "es": "¿Falta de hibernación...?"
+  },
+  {
+   "id": 193,
+   "en": "Yeah... I haven't been sleeping well lately,\nso I haven't really been able to hibernate...",
+   "es": "Sí... Últimamente no he dormido bien,\nasí que no he podido hibernar bien..."
+  },
+  {
+   "id": 194,
+   "en": "That's awful... What could be causing it?",
+   "es": "Qué terrible... ¿Qué lo estará causando?"
+  },
+  {
+   "id": 195,
+   "en": "Is it cuz you have a lot on your mind?",
+   "es": "¿Será porque tienes muchas cosas en la cabeza?"
+  },
+  {
+   "id": 196,
+   "en": "Hmm...",
+   "es": "Mmm..."
+  },
+  {
+   "id": 197,
+   "en": "Is it cuz the graveyard shift pays\na better hourly wage?",
+   "es": "¿Será porque el turno nocturno paga\nmejor por hora?"
+  },
+  {
+   "id": 198,
+   "en": "Hmmmm...",
+   "es": "Mmmmm..."
+  },
+  {
+   "id": 199,
+   "en": "Is it cuz you don't want them to think\nyou're just goofing around?",
+   "es": "¿Será porque no quieres que piensen\nque solo estás flojeando?"
+  },
+  {
+   "id": 200,
+   "en": "Hmmmmmm...",
+   "es": "Mmmmmmm..."
+  },
+  {
+   "id": 201,
+   "en": "Is it cuz you wanna stay friends?",
+   "es": "¿Será porque quieres seguir siendo amigos?"
+  },
+  {
+   "id": 202,
+   "en": "Hmmmmmmmm...",
+   "es": "Mmmmmmmmm..."
+  },
+  {
+   "id": 203,
+   "en": "Is it cuz you wanna watch it in real-time?",
+   "es": "¿Será porque quieres verlo en tiempo real?"
+  },
+  {
+   "id": 204,
+   "en": "...",
+   "es": "..."
+  },
+  {
+   "id": 205,
+   "en": "...",
+   "es": "..."
+  },
+  {
+   "id": 206,
+   "en": "...Father?",
+   "es": "...¿Padre?"
+  },
+  {
+   "id": 207,
+   "en": "He's gone into hibernation...\nWe should let him be...",
+   "es": "Entró en hibernación...\nDeberíamos dejarlo..."
+  },
+  {
+   "id": 208,
+   "en": "Yeah, you're right... Night, night.",
+   "es": "Sí, tienes razón... Buenas noches."
+  },
+  {
+   "id": 209,
+   "en": "And then, the Monokuma & Kubs Theater\nsegment began.",
+   "es": "Y entonces empezó el segmento del\nTeatro de Monokuma y los Oseznos."
+  },
+  {
+   "id": 210,
+   "en": "But with all the Monokubs destroyed, this\nsegment was no longer possible.",
+   "es": "Pero como todos los oseznos fueron destruidos,\neste segmento ya no era posible."
+  },
+  {
+   "id": 211,
+   "en": "And so, the curtain quickly fell.",
+   "es": "Y así, el telón cayó rápidamente."
+  }
+ ],
+ "shinmitsu_15.stx": [
+  {
+   "id": 0,
+   "en": "Yes",
+   "es": "Sí"
+  },
+  {
+   "id": 1,
+   "en": "No",
+   "es": "No"
+  },
+  {
+   "id": 2,
+   "en": "Are you unsure of something?",
+   "es": "¿Tienes alguna duda?"
+  },
+  {
+   "id": 3,
+   "en": "<CLT=cltSYSTEM>Would you like to leave the casino?",
+   "es": "<CLT=cltSYSTEM>¿Quieres salir del casino?"
+  }
+ ]
+}
