@@ -30,7 +30,7 @@ Si encuentras errores, abre un issue con el capítulo y una captura.
 1. Descarga `DanganV3Esp.exe` de la sección **Releases** de este repositorio.
 2. **Cierra el juego** y abre `DanganV3Esp.exe`. No hace falta instalar Python.
 3. El programa busca el juego en Steam. Si no lo encuentra, elige su carpeta con **Buscar...**.
-4. Pulsa **Instalar traducción** y espera. Tarda unos 3 minutos.
+4. Pulsa **Instalar traducción** y espera. Tarda unos 2 o 3 minutos.
 
 Para volver al inglés, abre el mismo programa y pulsa **Desinstalar**.
 

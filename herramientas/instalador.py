@@ -185,8 +185,10 @@ TEXTO = "#f2eef5"
 TENUE = "#9a93a3"
 ROJO = "#ff5c6c"
 ANCHO_BANNER, ALTO_BANNER = 760, 250
-# Segundos que tardan las fuentes de juicio y el casino compactado, que no imprimen nada hasta el final
-SEGUNDOS_FUENTES = 45
+# Segundos que tardan las fuentes de juicio, que no imprimen nada hasta el final
+SEGUNDOS_FUENTES = 20
+# Segundos de la fase residente (fuente, menus y avisos de inicio comprimidos al minimo)
+SEGUNDOS_RESIDENTE = 42
 
 
 def imagenes_steam():
@@ -254,8 +256,9 @@ def crear_banner():
 class Avance:
     """Estima el porcentaje con lo que imprime parchear.
 
-    Pesos medidos en una instalacion: menus y fuente 4 %, dialogos 38 %, imagenes 30 %,
-    fuentes de juicio y avisos 27 % (esta fase avanza por tiempo porque no imprime nada).
+    Pesos medidos en una instalacion: menus, fuente y avisos de inicio 28 %, dialogos 41 %,
+    imagenes 18 %, fuentes de juicio 12 %. La primera y la ultima fase avanzan por tiempo
+    porque imprimen poco.
     """
 
     def __init__(self):
@@ -268,7 +271,8 @@ class Avance:
         # Cada capitulo se parchea en las 5 versiones de guiones; objetos, una vez
         self.total_textos = len(capitulos) * 5 + 1
         with open(os.path.join(carpeta, "imagenes.json"), encoding="utf-8") as f:
-            self.total_imagenes = len(json.load(f))
+            # Los avisos de flash/caution se aplican en la fase residente (ver parchear.py)
+            self.total_imagenes = len([n for n in json.load(f) if not n.startswith("flash/caution/")])
         self.inicio = time.time()
         self.residente = False
         self.textos = self.imagenes = 0
@@ -279,9 +283,10 @@ class Avance:
         self.pendiente += texto
         *lineas, self.pendiente = self.pendiente.split("\n")
         for linea in lineas:
-            if linea.startswith("game_resident") and " cadenas (" in linea:
-                self.residente = True
+            if linea.startswith("boot/") or linea.startswith("game_resident"):
+                continue
             elif " cadenas (" in linea:
+                self.residente = True
                 self.textos += 1
             elif " imagenes (" in linea:
                 self.imagenes += 1
@@ -290,13 +295,13 @@ class Avance:
 
     def porcentaje(self):
         if self.residente:
-            p = 0.04
+            p = 0.28
         else:
-            p = 0.04 * min(1, (self.time.time() - self.inicio) / 8)
-        p += 0.38 * min(1, self.textos / self.total_textos)
-        p += 0.30 * min(1, self.imagenes / self.total_imagenes)
+            p = 0.28 * min(1, (self.time.time() - self.inicio) / SEGUNDOS_RESIDENTE)
+        p += 0.41 * min(1, self.textos / self.total_textos)
+        p += 0.18 * min(1, self.imagenes / self.total_imagenes)
         if self.inicio_fuentes:
-            p += 0.27 * min(1, (self.time.time() - self.inicio_fuentes) / SEGUNDOS_FUENTES)
+            p += 0.12 * min(1, (self.time.time() - self.inicio_fuentes) / SEGUNDOS_FUENTES)
         return min(p, 0.99)
 
     def estado(self):
@@ -306,7 +311,7 @@ class Avance:
             return "Traduciendo imágenes y menús (%d de %d)..." % (self.imagenes, self.total_imagenes)
         if self.residente:
             return "Traduciendo diálogos (%d de %d)..." % (self.textos, self.total_textos)
-        return "Preparando la fuente con tildes y los menús..."
+        return "Preparando la fuente con tildes, los menús y los avisos de inicio..."
 
 
 def ventana():

@@ -275,6 +275,22 @@ class SPC:
             sal += bloque + b"\0" * relleno(len(bloque))
         return bytes(sal)
 
+    def a_bytes_minimo(self, max_sin_cambios=4 << 20):
+        """Serializa el SPC lo mas pequeno posible: cada entrada comprimida se queda
+        con lo menor entre su bloque original y comprimir_optimo. Las entradas sin
+        cambios de mas de max_sin_cambios bytes conservan su bloque original
+        (comprimirlas tarda casi un minuto y apenas ahorra)."""
+        for e in self.entradas:
+            if e.comprimido is None:
+                continue
+            cambiada = e.datos != e.datos_originales
+            if not cambiada and len(e.datos) > max_sin_cambios:
+                continue
+            nuevo = comprimir_optimo(e.datos)
+            if cambiada or len(nuevo) < len(e.comprimido):
+                e.comprimido, e.datos_originales = nuevo, e.datos
+        return self.a_bytes()
+
     def guardar(self, ruta):
         with open(ruta, "wb") as f:
             f.write(self.a_bytes())

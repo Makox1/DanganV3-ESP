@@ -489,19 +489,24 @@ def codificar(img, formato):
     return etcpak.compress_bc1(datos, ancho, alto)
 
 
-def bloques_iguales(a, b):
-    """Dos bloques 4x4 RGBA se ven igual si el alfa coincide y el color coincide donde no es transparente."""
+def bloques_iguales(a, b, tolerancia=0):
+    """Dos bloques 4x4 RGBA se ven igual si el alfa coincide y el color coincide donde no es transparente.
+
+    tolerancia: diferencia maxima por canal (0-255) que se sigue considerando igual."""
+    if tolerancia:
+        return int(np.abs(a.astype(int) - b.astype(int)).max()) <= tolerancia
     if not np.array_equal(a[..., 3], b[..., 3]):
         return False
     visibles = a[..., 3] > 0
     return np.array_equal(a[..., :3][visibles], b[..., :3][visibles])
 
 
-def conservar_bloques(original_bc, nuevo_bc, original_img, nueva_img, formato):
+def conservar_bloques(original_bc, nuevo_bc, original_img, nueva_img, formato, tolerancia=0):
     """Copia los bloques originales donde la imagen no cambio.
 
     El codificador genera bloques distintos aunque los pixeles sean iguales, y eso
     hace que el SPC comprima peor y no quepa en su hueco del CPK.
+    tolerancia: ver bloques_iguales ("tolerancia_bloques" en imagenes.json).
     """
     tam_bloque = 16 if srd.FORMATOS[formato] == "bc7" else 8
     ancho = (nueva_img.width + 3) // 4 * 4
@@ -514,7 +519,8 @@ def conservar_bloques(original_bc, nuevo_bc, original_img, nueva_img, formato):
     conservados = 0
     for by in range(alto // 4):
         for bx in range(ancho // 4):
-            if bloques_iguales(a[by * 4:by * 4 + 4, bx * 4:bx * 4 + 4], b[by * 4:by * 4 + 4, bx * 4:bx * 4 + 4]):
+            if bloques_iguales(a[by * 4:by * 4 + 4, bx * 4:bx * 4 + 4], b[by * 4:by * 4 + 4, bx * 4:bx * 4 + 4],
+                               tolerancia):
                 pos = (by * (ancho // 4) + bx) * tam_bloque
                 resultado[pos:pos + tam_bloque] = original_bc[pos:pos + tam_bloque]
                 conservados += 1
@@ -590,7 +596,8 @@ def traducir_texturas(datos_srd, datos_srdv, traducciones, ruta_spc=None):
         else:
             bloque = codificar(nueva, t.formato)
             original_bc = bytes(srdv[mip["offset"]:mip["offset"] + mip["tam"]])
-            bloque, _ = conservar_bloques(original_bc, bloque, original, nueva, t.formato)
+            bloque, _ = conservar_bloques(original_bc, bloque, original, nueva, t.formato,
+                                          int(estilo.get("tolerancia_bloques", 0)))
         if len(bloque) != mip["tam"]:
             raise ValueError("Tamano BC distinto en %s (%d != %d)" % (t.nombre, len(bloque), mip["tam"]))
         srdv[mip["offset"]:mip["offset"] + mip["tam"]] = bloque

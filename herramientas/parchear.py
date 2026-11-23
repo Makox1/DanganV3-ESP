@@ -164,9 +164,10 @@ class ParcheCPK:
     def _alinear(self, pos):
         return pos + (self.alineacion - pos % self.alineacion) % self.alineacion
 
-    def _plan_reacomodo(self, nombre, datos):
+    def _plan_reacomodo(self, nombre, datos, minimo=False):
         """Si datos no caben, intenta recomprimir el archivo siguiente (sin cambiar
         su contenido) y correrlo hacia adelante dentro del espacio de ambos.
+        minimo: recomprime el siguiente con SPC.a_bytes_minimo (mas lento, mas pequeno).
         Devuelve (nombre_siguiente, datos_siguiente, posicion) o None."""
         sig = self.siguiente.get(nombre)
         if not sig or sig in self.escritos or sig in self.reubicados:
@@ -174,7 +175,10 @@ class ParcheCPK:
         original = self.leer(sig)
         if original[:4] != b"CPS.":
             return None
-        datos_sig = SPC(original).a_bytes(recomprimir=True)
+        if minimo:
+            datos_sig = SPC(original).a_bytes_minimo()
+        else:
+            datos_sig = SPC(original).a_bytes(recomprimir=True)
         archivo = self.por_nombre[nombre]
         pos_sig = self._alinear(archivo["offset"] + len(datos))
         fin = archivo["offset"] + self.hueco[nombre] + self.hueco[sig]
@@ -200,13 +204,12 @@ class ParcheCPK:
             nombres.append(self.siguiente[nombres[-1]])
         return nombres
 
-    def compactar(self, nombres, solo_plan=False, optimo=False):
+    def compactar(self, nombres, solo_plan=False):
         """Recomprime una corrida contigua de archivos y los junta al inicio de su
         zona. Devuelve el bloque libre (inicio, fin) que queda detras.
 
         El contenido de cada SPC no cambia; solo su compresion y su posicion. Los
         archivos ya traducidos con reemplazar() se mueven con los datos escritos.
-        optimo: comprime con comprimir_optimo y conserva el original si ocupa menos.
         """
         archivos = [self.por_nombre[n] for n in nombres]
         for a, b in zip(archivos, archivos[1:]):
@@ -220,10 +223,6 @@ class ParcheCPK:
         for n in nombres:
             if n in self.datos_escritos:
                 self._compactados[n] = self.datos_escritos[n]
-            elif n not in self._compactados and optimo:
-                original = self.leer(n)
-                nuevo = SPC(original).a_bytes(recomprimir=True, optimo=True)
-                self._compactados[n] = nuevo if len(nuevo) < len(original) else original
             elif n not in self._compactados:
                 self._compactados[n] = SPC(self.leer(n)).a_bytes(recomprimir=True)
         pos = archivos[0]["offset"]
@@ -300,9 +299,10 @@ class ParcheCPK:
             self._escribir_toc(self.por_nombre[nombre], destino, len(datos))
             self.escritos.add(nombre)
 
-    def reemplazar(self, nombre, datos):
+    def reemplazar(self, nombre, datos, minimo=False):
         """Escribe datos en el hueco original; si no caben, reacomoda el archivo
-        siguiente (o, si el CPK puede crecer, los anade al final) y actualiza la TOC."""
+        siguiente (o, si el CPK puede crecer, los anade al final) y actualiza la TOC.
+        minimo: ver _plan_reacomodo."""
         if nombre in self.reubicados:
             raise RuntimeError("%s ya se movio para hacer espacio; no se puede reemplazar" % nombre)
         self.escritos.add(nombre)
@@ -310,7 +310,7 @@ class ParcheCPK:
         archivo = self.por_nombre[nombre]
         f = self.archivo
         hueco = self.hueco[nombre]
-        plan = None if len(datos) <= hueco else self._plan_reacomodo(nombre, datos)
+        plan = None if len(datos) <= hueco else self._plan_reacomodo(nombre, datos, minimo)
         if plan:
             sig, datos_sig, pos_sig = plan
             archivo_sig = self.por_nombre[sig]
@@ -471,48 +471,38 @@ def parchear_fuentes_juicio(parche):
     # Las fuentes completas no caben en sus huecos: se compactan los guiones de
     # chap2-6 (sin cambiar su contenido) para dejar bloques libres contiguos.
     corridas, bloques = reservar_espacio_fuentes(parche, reemplazos)
-    for nombres, optimo in corridas:
-        parche.compactar(nombres, optimo=optimo)
+    for nombres in corridas:
+        parche.compactar(nombres)
         print('%-40s compactado (%d archivos)' % (os.path.dirname(nombres[0]), len(nombres)))
     parche.reemplazar_grupo(reemplazos, extra=bloques)
     for nombre, cantidad in cuentas.items():
         print('%-40s %5d glifos de juicio (dentro del CPK)' % (nombre, cantidad))
 
 
-# Avisos de inicio: juntos les faltan ~25 KB. Los cuatro archivos del casino que los
-# preceden (sin traducir), con compresion optima, dejan ~28 KB libres pegados a ellos.
-CORRIDAS_PREVIAS = {
-    "flash/caution/caution_download_US.spc": ("flash/casino/casino_keihin_US.spc", "flash/casino/casino_top_US.spc"),
-}
-
-
 def reservar_espacio_fuentes(parche, reemplazos):
     """Elige cuantas versiones de guiones compactar para que quepan las fuentes.
 
-    Las texturas grandes que no caben (CORRIDAS_PREVIAS) se compactan primero sus
-    vecinos anteriores, para que el bloque libre quede pegado a su hueco.
-    Devuelve (corridas, bloques) sin escribir nada; corridas es [(nombres, optimo)].
+    Devuelve (corridas, bloques) sin escribir nada.
     """
     corridas, bloques = [], []
-    candidatas = [(CORRIDAS_PREVIAS[n], True) for n in reemplazos if n in CORRIDAS_PREVIAS]
-    candidatas += [(('wrd_script/%s/chap2_text_US.SPC' % v, 'wrd_script/%s/chap6_US.SPC' % v), False)
-                   for v in VERSIONES]
-    for candidata in candidatas + [None]:
+    for version in VERSIONES + [None]:
         try:
             parche.reemplazar_grupo(reemplazos, solo_plan=True, extra=bloques)
             return corridas, bloques
         except RuntimeError:
-            if candidata is None:
+            if version is None:
                 raise
-        (primero, ultimo), optimo = candidata
-        nombres = parche.corrida(primero, ultimo)
-        bloques.append(parche.compactar(nombres, solo_plan=True, optimo=optimo))
-        corridas.append((nombres, optimo))
+        nombres = parche.corrida('wrd_script/%s/chap2_text_US.SPC' % version,
+                                 'wrd_script/%s/chap6_US.SPC' % version)
+        bloques.append(parche.compactar(nombres, solo_plan=True))
+        corridas.append(nombres)
 
 
 def parchear_imagenes(parche):
     """Texturas con texto (traduccion/imagenes.json), en el mismo CPK que los textos."""
     for nombre, traducciones in imagenes.cargar_config().items():
+        if nombre in AVISOS_INICIO.values():
+            continue
         spc = SPC(parche.leer(nombre))
         e_srd = spc.buscar("texture.srd")
         e_srdv = spc.buscar("texture.srdv")
@@ -520,8 +510,6 @@ def parchear_imagenes(parche):
         e_srd.datos, e_srdv.datos, hechas = imagenes.traducir_texturas(
             srd_original, srdv_original, traducciones, nombre)
         datos = spc.a_bytes(recomprimir=True)
-        if len(datos) > parche.hueco[nombre]:
-            datos = spc.a_bytes(recomprimir=True, optimo=True)
         if len(datos) > parche.hueco[nombre]:
             # No se reacomoda al vecino (puede ser otra textura traducida): se reparte
             # junto con las fuentes de juicio en los bloques libres del CPK
@@ -550,6 +538,36 @@ def parchear_residente():
         modo = parche.reemplazar(SPC_RESIDENTE, spc.a_bytes(recomprimir=True))
         print("%-40s %5d glifos nuevos: %s" % (SPC_RESIDENTE, len(nuevos), "".join(nuevos)))
         print("%-40s %5d cadenas (%s)" % (SPC_RESIDENTE, cambios, modo))
+        parchear_avisos_inicio(parche)
+
+
+# Los avisos que el juego muestra al arrancar estan en boot/startup_US.spc del CPK
+# residente (pares <base>_US.srd/srdv). flash/caution/*_US.spc del CPK de datos son
+# copias identicas que el juego no usa; imagenes.json los describe con esas rutas.
+SPC_INICIO = "boot/startup_US.spc"
+AVISOS_INICIO = {"caution_download": "flash/caution/caution_download_US.spc",
+                 "caution_gro": "flash/caution/caution_gro_US.spc"}
+
+
+def parchear_avisos_inicio(parche):
+    """Traduce los avisos de inicio. Con el texto en espanol no caben en su hueco
+    (~21 KB de mas): se comprimen al minimo y startup_ZH.spc, el siguiente, se
+    recomprime al minimo (contenido identico) y se corre hacia adelante."""
+    configuracion = imagenes.cargar_config()
+    spc = SPC(parche.leer(SPC_INICIO))
+    hechas = 0
+    for base, ruta in AVISOS_INICIO.items():
+        if ruta not in configuracion:
+            continue
+        e_srd = spc.buscar(base + "_US.srd")
+        e_srdv = spc.buscar(base + "_US.srdv")
+        e_srd.datos, e_srdv.datos, nuevas = imagenes.traducir_texturas(
+            e_srd.datos, e_srdv.datos, configuracion[ruta], ruta)
+        hechas += len(nuevas)
+    if not hechas:
+        return
+    modo = parche.reemplazar(SPC_INICIO, spc.a_bytes_minimo(), minimo=True)
+    print("%-40s %5d imagenes (%s)" % (SPC_INICIO, hechas, modo))
 
 
 def aplicar(parte=""):
