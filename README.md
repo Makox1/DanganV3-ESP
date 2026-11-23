@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.png" alt="Danganronpa V3: traducción al español latino" width="760"></p>
+
 # Danganronpa V3: Killing Harmony en español latino
 
 Traducción no oficial (hecha por fans) de **Danganronpa V3: Killing Harmony** para la versión de Steam
