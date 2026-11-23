@@ -102,7 +102,6 @@ original.
 | `respaldo/textos_escritos.json` | Registro de los textos en español que ha escrito el parche (lo usa `parchear.py`) |
 
 Los detalles técnicos y el flujo de trabajo para traducir están en [LEEME.md](LEEME.md).
-El historial de cambios y las notas de cada tanda están en [TRASPASO.md](TRASPASO.md).
 
 ## Colaborar
 
