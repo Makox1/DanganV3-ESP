@@ -1426,5 +1426,17 @@
     255
    ]
   }
+ },
+ "flash/caution/caution_download_US.spc": {
+  "kanban_US.png": {
+   "texto": "Atención: / La descarga y/o distribución de este juego sin el\nconocimiento o consentimiento del titular de los\nderechos de autor está estrictamente prohibida por ley.",
+   "imagen_traducida": "imagenes/traducidas/aviso_descarga_es.png"
+  }
+ },
+ "flash/caution/caution_gro_US.spc": {
+  "kanban_US.png": {
+   "texto": "Todos los personajes que aparecen en este juego son ficticios.\nCualquier parecido con personas reales, vivas o fallecidas,\nes pura coincidencia.\n\nEste juego contiene imágenes explícitas y lenguaje fuerte.\nSe recomienda discreción al jugador.",
+   "imagen_traducida": "imagenes/traducidas/aviso_contenido_es.png"
+  }
  }
 }

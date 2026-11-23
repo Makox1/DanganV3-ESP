@@ -119,6 +119,81 @@ def comprimir(datos):
     return bytes(salida)
 
 
+def comprimir_optimo(datos):
+    """Como comprimir, pero elige literales y copias minimizando el tamano total
+    (programacion dinamica desde el final). Ocupa ~1 % menos y tarda ~5 s por MB;
+    solo se usa para archivos que no caben en su hueco."""
+    n = len(datos)
+    # Copia mas larga (y su distancia) que empieza en cada posicion
+    largo = [0] * n
+    distancia = [0] * n
+    tabla = {}
+    for p in range(n - 1):
+        clave = datos[p:p + 2]
+        candidatos = tabla.get(clave)
+        if candidatos is None:
+            tabla[clave] = [p]
+            continue
+        limite = min(MAX_COPIA, n - p)
+        mejor, mejor_dist = 0, 0
+        for cand in reversed(candidatos):
+            dist = p - cand
+            if dist > VENTANA:
+                break
+            # Si difiere justo donde acaba la mejor copia, no puede superarla
+            if mejor and (p + mejor >= n or datos[cand + mejor] != datos[p + mejor]):
+                continue
+            l = MIN_COPIA
+            while l < limite and datos[cand + l] == datos[p + l]:
+                l += 1
+            if l > mejor:
+                mejor, mejor_dist = l, dist
+                if l == limite:
+                    break
+        largo[p], distancia[p] = mejor, mejor_dist
+        if len(candidatos) > 64 and p - candidatos[0] > VENTANA:
+            k = 0
+            while k < len(candidatos) and p - candidatos[k] > VENTANA:
+                k += 1
+            del candidatos[:k]
+        candidatos.append(p)
+    # Coste en bits hasta el final: literal 1+8, copia 1+16
+    coste = [0] * (n + 1)
+    eleccion = [0] * n
+    for i in range(n - 1, -1, -1):
+        mejor = coste[i + 1] + 9
+        elegido = 0
+        for l in range(MIN_COPIA, largo[i] + 1):
+            c = coste[i + l] + 17
+            if c < mejor:
+                mejor, elegido = c, l
+        coste[i] = mejor
+        eleccion[i] = elegido
+    salida = bytearray()
+    bandera = bit = 0
+    grupo = bytearray()
+    i = 0
+    while i < n:
+        l = eleccion[i]
+        if l:
+            b = ((l - MIN_COPIA) << 10) | (VENTANA - distancia[i])
+            grupo += bytes([b & 0xFF, b >> 8])
+            i += l
+        else:
+            bandera |= 1 << bit
+            grupo.append(datos[i])
+            i += 1
+        bit += 1
+        if bit == 8:
+            salida.append(INVERSO[bandera])
+            salida += grupo
+            bandera, bit, grupo = 0, 0, bytearray()
+    if bit:
+        salida.append(INVERSO[bandera])
+        salida += grupo
+    return bytes(salida)
+
+
 class Entrada:
     def __init__(self, nombre, datos, bandera_desconocida=1, comprimido=None):
         self.nombre = nombre
@@ -173,11 +248,13 @@ class SPC:
                 return e
         return None
 
-    def a_bytes(self, recomprimir=False):
+    def a_bytes(self, recomprimir=False, optimo=False):
         """Serializa el SPC. Las entradas que venian comprimidas se guardan comprimidas
         (reutilizando el bloque original si no cambiaron); el resto, sin comprimir.
         recomprimir: comprime de nuevo todas las entradas comprimidas; el resultado
-        suele ocupar menos que el original."""
+        suele ocupar menos que el original.
+        optimo: usa comprimir_optimo (mas lento, algo mas pequeno)."""
+        compresor = comprimir_optimo if optimo else comprimir
         sal = bytearray(MAGIA)
         sal += self.cabecera_desconocida
         sal += struct.pack("<II", len(self.entradas), self.desconocido2)
@@ -190,7 +267,7 @@ class SPC:
             elif e.datos == e.datos_originales and not recomprimir:
                 modo, bloque = COMPRIMIDO, e.comprimido
             else:
-                modo, bloque = COMPRIMIDO, comprimir(e.datos)
+                modo, bloque = COMPRIMIDO, compresor(e.datos)
             sal += struct.pack("<HHIII", modo, e.bandera_desconocida,
                                len(bloque), len(e.datos), len(nombre))
             sal += b"\0" * 0x10

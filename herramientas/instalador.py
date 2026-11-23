@@ -185,8 +185,8 @@ TEXTO = "#f2eef5"
 TENUE = "#9a93a3"
 ROJO = "#ff5c6c"
 ANCHO_BANNER, ALTO_BANNER = 760, 250
-# Segundos que tardan las fuentes de juicio, que no imprimen nada hasta el final
-SEGUNDOS_FUENTES = 20
+# Segundos que tardan las fuentes de juicio y el casino compactado, que no imprimen nada hasta el final
+SEGUNDOS_FUENTES = 45
 
 
 def imagenes_steam():
@@ -254,8 +254,8 @@ def crear_banner():
 class Avance:
     """Estima el porcentaje con lo que imprime parchear.
 
-    Pesos medidos en una instalacion: menus y fuente 6 %, dialogos 54 %, imagenes 23 %,
-    fuentes de juicio 16 % (esta fase avanza por tiempo porque no imprime nada).
+    Pesos medidos en una instalacion: menus y fuente 4 %, dialogos 38 %, imagenes 30 %,
+    fuentes de juicio y avisos 27 % (esta fase avanza por tiempo porque no imprime nada).
     """
 
     def __init__(self):
@@ -290,13 +290,13 @@ class Avance:
 
     def porcentaje(self):
         if self.residente:
-            p = 0.06
+            p = 0.04
         else:
-            p = 0.06 * min(1, (self.time.time() - self.inicio) / 8)
-        p += 0.54 * min(1, self.textos / self.total_textos)
-        p += 0.23 * min(1, self.imagenes / self.total_imagenes)
+            p = 0.04 * min(1, (self.time.time() - self.inicio) / 8)
+        p += 0.38 * min(1, self.textos / self.total_textos)
+        p += 0.30 * min(1, self.imagenes / self.total_imagenes)
         if self.inicio_fuentes:
-            p += 0.16 * min(1, (self.time.time() - self.inicio_fuentes) / SEGUNDOS_FUENTES)
+            p += 0.27 * min(1, (self.time.time() - self.inicio_fuentes) / SEGUNDOS_FUENTES)
         return min(p, 0.99)
 
     def estado(self):

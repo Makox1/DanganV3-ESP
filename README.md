@@ -15,7 +15,7 @@ original del juego en Steam.
 | Love Suite (`ainori`) | Traducido |
 | Menús, objetos, mapa, balas de verdad, minijuegos, extras | Traducido |
 | Fuentes con `á é í ó ú ñ ü ¿ ¡` | Añadidas (diálogos, juicios y minijuegos) |
-| Imágenes con texto (menús, títulos, carteles) | 129 texturas traducidas; quedan algunas pendientes |
+| Imágenes con texto (menús, títulos, carteles) | 131 texturas traducidas, incluidos los avisos de inicio; quedan algunas pendientes |
 
 Se dejan en inglés a propósito:
 - Las respuestas del Hangman's Gambit, porque el juego las guarda como códigos de letras en binario.
@@ -30,7 +30,7 @@ Si encuentras errores, abre un issue con el capítulo y una captura.
 1. Descarga `DanganV3Esp.exe` de la sección **Releases** de este repositorio.
 2. **Cierra el juego** y abre `DanganV3Esp.exe`. No hace falta instalar Python.
 3. El programa busca el juego en Steam. Si no lo encuentra, elige su carpeta con **Buscar...**.
-4. Pulsa **Instalar traducción** y espera. Tarda unos 2 minutos.
+4. Pulsa **Instalar traducción** y espera. Tarda unos 3 minutos.
 
 Para volver al inglés, abre el mismo programa y pulsa **Desinstalar**.
 

@@ -200,12 +200,13 @@ class ParcheCPK:
             nombres.append(self.siguiente[nombres[-1]])
         return nombres
 
-    def compactar(self, nombres, solo_plan=False):
+    def compactar(self, nombres, solo_plan=False, optimo=False):
         """Recomprime una corrida contigua de archivos y los junta al inicio de su
         zona. Devuelve el bloque libre (inicio, fin) que queda detras.
 
         El contenido de cada SPC no cambia; solo su compresion y su posicion. Los
         archivos ya traducidos con reemplazar() se mueven con los datos escritos.
+        optimo: comprime con comprimir_optimo y conserva el original si ocupa menos.
         """
         archivos = [self.por_nombre[n] for n in nombres]
         for a, b in zip(archivos, archivos[1:]):
@@ -219,6 +220,10 @@ class ParcheCPK:
         for n in nombres:
             if n in self.datos_escritos:
                 self._compactados[n] = self.datos_escritos[n]
+            elif n not in self._compactados and optimo:
+                original = self.leer(n)
+                nuevo = SPC(original).a_bytes(recomprimir=True, optimo=True)
+                self._compactados[n] = nuevo if len(nuevo) < len(original) else original
             elif n not in self._compactados:
                 self._compactados[n] = SPC(self.leer(n)).a_bytes(recomprimir=True)
         pos = archivos[0]["offset"]
@@ -466,31 +471,43 @@ def parchear_fuentes_juicio(parche):
     # Las fuentes completas no caben en sus huecos: se compactan los guiones de
     # chap2-6 (sin cambiar su contenido) para dejar bloques libres contiguos.
     corridas, bloques = reservar_espacio_fuentes(parche, reemplazos)
-    for nombres in corridas:
-        parche.compactar(nombres)
+    for nombres, optimo in corridas:
+        parche.compactar(nombres, optimo=optimo)
         print('%-40s compactado (%d archivos)' % (os.path.dirname(nombres[0]), len(nombres)))
     parche.reemplazar_grupo(reemplazos, extra=bloques)
     for nombre, cantidad in cuentas.items():
         print('%-40s %5d glifos de juicio (dentro del CPK)' % (nombre, cantidad))
 
 
+# Avisos de inicio: juntos les faltan ~25 KB. Los cuatro archivos del casino que los
+# preceden (sin traducir), con compresion optima, dejan ~28 KB libres pegados a ellos.
+CORRIDAS_PREVIAS = {
+    "flash/caution/caution_download_US.spc": ("flash/casino/casino_keihin_US.spc", "flash/casino/casino_top_US.spc"),
+}
+
+
 def reservar_espacio_fuentes(parche, reemplazos):
     """Elige cuantas versiones de guiones compactar para que quepan las fuentes.
 
-    Devuelve (corridas, bloques) sin escribir nada.
+    Las texturas grandes que no caben (CORRIDAS_PREVIAS) se compactan primero sus
+    vecinos anteriores, para que el bloque libre quede pegado a su hueco.
+    Devuelve (corridas, bloques) sin escribir nada; corridas es [(nombres, optimo)].
     """
     corridas, bloques = [], []
-    for version in VERSIONES + [None]:
+    candidatas = [(CORRIDAS_PREVIAS[n], True) for n in reemplazos if n in CORRIDAS_PREVIAS]
+    candidatas += [(('wrd_script/%s/chap2_text_US.SPC' % v, 'wrd_script/%s/chap6_US.SPC' % v), False)
+                   for v in VERSIONES]
+    for candidata in candidatas + [None]:
         try:
             parche.reemplazar_grupo(reemplazos, solo_plan=True, extra=bloques)
             return corridas, bloques
         except RuntimeError:
-            if version is None:
+            if candidata is None:
                 raise
-        nombres = parche.corrida('wrd_script/%s/chap2_text_US.SPC' % version,
-                                 'wrd_script/%s/chap6_US.SPC' % version)
-        bloques.append(parche.compactar(nombres, solo_plan=True))
-        corridas.append(nombres)
+        (primero, ultimo), optimo = candidata
+        nombres = parche.corrida(primero, ultimo)
+        bloques.append(parche.compactar(nombres, solo_plan=True, optimo=optimo))
+        corridas.append((nombres, optimo))
 
 
 def parchear_imagenes(parche):
@@ -503,6 +520,8 @@ def parchear_imagenes(parche):
         e_srd.datos, e_srdv.datos, hechas = imagenes.traducir_texturas(
             srd_original, srdv_original, traducciones, nombre)
         datos = spc.a_bytes(recomprimir=True)
+        if len(datos) > parche.hueco[nombre]:
+            datos = spc.a_bytes(recomprimir=True, optimo=True)
         if len(datos) > parche.hueco[nombre]:
             # No se reacomoda al vecino (puede ser otra textura traducida): se reparte
             # junto con las fuentes de juicio en los bloques libres del CPK
