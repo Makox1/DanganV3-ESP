@@ -25,7 +25,28 @@ Se dejan en inglés a propósito:
 Gran parte del juego aún no se ha probado partida en mano después del juicio del capítulo 1.
 Si encuentras errores, abre un issue con el capítulo y una captura.
 
-## Requisitos
+## Instalación con el instalador (recomendada)
+
+1. Descarga `DanganV3Esp.exe` de la sección **Releases** de este repositorio.
+2. **Cierra el juego** y abre `DanganV3Esp.exe`. No hace falta instalar Python.
+3. El programa busca el juego en Steam. Si no lo encuentra, elige su carpeta con **Buscar...**.
+4. Pulsa **Instalar traducción** y espera. Tarda unos 2 minutos.
+
+Para volver al inglés, abre el mismo programa y pulsa **Desinstalar**.
+
+El instalador guarda una copia de las partes originales en la carpeta `DanganV3Esp_respaldo`, dentro de la
+carpeta del juego. No la borres mientras la traducción esté instalada; al desinstalar se borra sola.
+
+Antes de instalar, el juego debe estar sin modificar. Si el instalador dice que el juego ya tiene una
+traducción o que los archivos no tienen el tamaño correcto, usa en Steam
+*Propiedades > Archivos instalados > Verificar integridad de los archivos del juego* y vuelve a intentarlo.
+
+Windows puede mostrar un aviso de SmartScreen porque el programa no está firmado. Pulsa
+*Más información > Ejecutar de todas formas*.
+
+## Instalación con Python (para colaboradores)
+
+Requisitos:
 
 - Windows y **Danganronpa V3: Killing Harmony** de Steam.
 - **Python 3** (probado con 3.14) y estas librerías:
@@ -34,7 +55,7 @@ Si encuentras errores, abre un issue con el capítulo y una captura.
 pip install pillow numpy etcpak texture2ddecoder
 ```
 
-## Instalación
+Pasos:
 
 1. Comprueba que el juego esté **sin modificar**. Si no estás seguro, usa en Steam
    *Propiedades > Archivos instalados > Verificar integridad de los archivos del juego*.
@@ -74,7 +95,8 @@ original.
 | `traduccion/` | Textos en formato JSON (`{archivo.stx: [{id, en, es}]}`) y `glosario.md` con los criterios de traducción |
 | `traduccion/imagenes.json` | Definición de las texturas traducidas |
 | `herramientas/` | Scripts de Python para extraer, revisar y parchear |
-| `imagenes/` | Texturas ya traducidas, máscaras y atlas de letras |
+| `imagenes/` | Texturas ya traducidas, máscaras, atlas de letras y texturas pregeneradas para el instalador |
+| `herramientas/instalador.py` | Programa del instalador; `instalador.spec` genera el `.exe` (ver [LEEME.md](LEEME.md)) |
 | `respaldo/textos_escritos.json` | Registro de los textos en español que ha escrito el parche (lo usa `parchear.py`) |
 
 Los detalles técnicos y el flujo de trabajo para traducir están en [LEEME.md](LEEME.md).

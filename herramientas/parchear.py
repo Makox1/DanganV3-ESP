@@ -501,7 +501,7 @@ def parchear_imagenes(parche):
         e_srdv = spc.buscar("texture.srdv")
         srd_original, srdv_original = e_srd.datos, e_srdv.datos
         e_srd.datos, e_srdv.datos, hechas = imagenes.traducir_texturas(
-            srd_original, srdv_original, traducciones)
+            srd_original, srdv_original, traducciones, nombre)
         datos = spc.a_bytes(recomprimir=True)
         if len(datos) > parche.hueco[nombre]:
             # No se reacomoda al vecino (puede ser otra textura traducida): se reparte

@@ -40,6 +40,10 @@ from config import RAIZ
 CARPETA_FUENTES = r"C:\Windows\Fonts"
 RUTA_CONFIG = os.path.join(RAIZ, "traduccion", "imagenes.json")
 TAM_BASE = 160
+# Texturas ya generadas para el instalador: no dependen de las fuentes de Windows
+# (Rockwell y Agency FB vienen con Office). GUARDAR las escribe al aplicar el parche.
+CARPETA_PREGENERADAS = os.environ.get("DRV3_PREGENERADAS")
+GUARDAR_PREGENERADAS = os.environ.get("DRV3_GUARDAR_PREGENERADAS")
 
 
 def cargar_config():
@@ -536,11 +540,17 @@ def generar_capas(original, estilo, texturas, datos_srdv):
     return resultado
 
 
-def traducir_texturas(datos_srd, datos_srdv, traducciones):
+def ruta_pregenerada(carpeta, ruta_spc, nombre):
+    """Mismo nombre que imagenes/vista: <spc sin extension>__<textura>."""
+    return os.path.join(carpeta, os.path.basename(ruta_spc)[:-4] + "__" + nombre)
+
+
+def traducir_texturas(datos_srd, datos_srdv, traducciones, ruta_spc=None):
     """Devuelve (srd nuevo, srdv nuevo, lista de (nombre, imagen nueva)).
 
     Las texturas de texto de un solo color (sin borde) se codifican en BC7 modo 5,
     que comprime mucho mejor dentro del SPC; el resto, con el codificador generico.
+    ruta_spc: ruta del SPC en el CPK; con ella se usan o guardan las pregeneradas.
     """
     srd_nuevo = bytearray(datos_srd)
     srdv = bytearray(datos_srdv)
@@ -550,11 +560,20 @@ def traducir_texturas(datos_srd, datos_srdv, traducciones):
         if not estilo or len(t.mips) != 1:
             continue
         original = t.decodificar(srdv)
-        if 'capas' in estilo:
+        pregenerada = None
+        if CARPETA_PREGENERADAS and ruta_spc and not estilo.get("imagen_traducida"):
+            pregenerada = ruta_pregenerada(CARPETA_PREGENERADAS, ruta_spc, t.nombre)
+        if pregenerada and os.path.exists(pregenerada):
+            with Image.open(pregenerada) as archivo:
+                nueva = archivo.convert("RGBA")
+        elif 'capas' in estilo:
             originales = {x.nombre: x for x in srd.texturas(datos_srd)}
             nueva = generar_capas(original, estilo, originales, datos_srdv)
         else:
             nueva = generar(original, estilo)
+        if GUARDAR_PREGENERADAS and ruta_spc and not estilo.get("imagen_traducida"):
+            os.makedirs(GUARDAR_PREGENERADAS, exist_ok=True)
+            nueva.save(ruta_pregenerada(GUARDAR_PREGENERADAS, ruta_spc, t.nombre))
         mip = t.mips[0]
         # El modo 5 solo sirve para texto de un color sobre fondo transparente
         transparente = np.array(nueva.getchannel("A")).min() < 200

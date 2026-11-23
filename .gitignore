@@ -12,3 +12,9 @@ imagenes/*
 !imagenes/traducidas/
 !imagenes/mascaras/
 !imagenes/fuentes/
+!imagenes/pregeneradas/
+
+# Salida de PyInstaller (el .exe se publica como Release)
+herramientas/build/
+herramientas/dist/
+instalador.log

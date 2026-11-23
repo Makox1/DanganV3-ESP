@@ -62,6 +62,22 @@ Comprobación técnica y vista de glifos (desde la raíz):
 `python scratchpad/verificar_fuentes_juicio.py --aplicado`.
 Comprueba glifos, métricas, píxeles originales, tablas Unicode y tamaños de CPK.
 
+## Instalador
+
+`herramientas/instalador.py` es la ventana para jugadores (Instalar / Desinstalar). Busca el juego
+en las bibliotecas de Steam, comprueba que esté cerrado y que los CPK tengan su tamaño original, y
+guarda el respaldo en `<carpeta del juego>/DanganV3Esp_respaldo` (se borra al desinstalar).
+Sin ventana, para pruebas: `python instalador.py aplicar|revertir <carpeta del juego>`.
+
+Algunas texturas usan fuentes de Office (Rockwell, Agency FB), así que el instalador lleva todas
+las texturas generadas en `imagenes/pregeneradas/`. Cuando cambie `traduccion/imagenes.json`, se
+regeneran aplicando el parche con la variable `DRV3_GUARDAR_PREGENERADAS` apuntando a esa carpeta
+(borrar antes su contenido). Después, desde `herramientas/`:
+
+```
+python -m PyInstaller instalador.spec --noconfirm   # Genera dist/DanganV3Esp.exe
+```
+
 ## Criterios de traducción
 
 Ver `traduccion/glosario.md`.

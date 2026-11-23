@@ -1,14 +1,15 @@
 """Rutas y parametros comunes del proyecto."""
 import os
 
-JUEGO = r"D:\SteamLibrary\steamapps\common\Danganronpa V3 Killing Harmony"
+# El instalador (instalador.py) fija estas rutas con variables de entorno
+JUEGO = os.environ.get("DRV3_JUEGO", r"D:\SteamLibrary\steamapps\common\Danganronpa V3 Killing Harmony")
 CPK_US = os.path.join(JUEGO, "data", "win", "partition_data_win_us.cpk")
 CPK_RESIDENTE = os.path.join(JUEGO, "data", "win", "partition_resident_win.cpk")
 SPC_RESIDENTE = "game_resident/game_resident_US.spc"
 SPC_OBJETOS = "wrd_data/map_obj_name_text_US.SPC"
 
-RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RESPALDO = os.path.join(RAIZ, "respaldo")
+RAIZ = os.environ.get("DRV3_RAIZ", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+RESPALDO = os.environ.get("DRV3_RESPALDO", os.path.join(RAIZ, "respaldo"))
 
 
 
