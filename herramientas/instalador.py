@@ -197,6 +197,10 @@ def ventana():
             try:
                 tarea(juego)
                 cola.put(("fin", ""))
+            except RuntimeError as e:
+                # Avisos previstos (juego ya traducido): sin traceback
+                cola.put(("texto", str(e) + "\n"))
+                cola.put(("error", str(e)))
             except Exception as e:
                 traceback.print_exc()
                 cola.put(("error", str(e)))
